@@ -254,7 +254,13 @@ text
 </div>
 
 ---
+<div align="center">
 
+# 🚀 Luthando Candlovu | AI Security Researcher & ML Engineer
+### **AI Governance • Cybersecurity • Machine Learning • Open Source Contributor**
+
+[![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
+[![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
 <div align="center">
 
 ### ⚡ **"Innovating at the intersection of AI and Security to build a safer digital future."**
