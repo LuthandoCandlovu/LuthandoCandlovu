@@ -66,11 +66,67 @@ I'm a passionate **Computer Science Honours Student** at the **University of For
 **💬 Ask me about:** AI Security, Machine Learning, Python, TypeScript, Cybersecurity  
 **⚡ Fun fact:** I can detect cyber threats faster than most commercial antivirus software! 🚀
 
-## 🏆 Recent Achievements
-- 🥇 **MORE THAN ONE CERTIFICATE** - IN 2025
-- 🚀 **TOP 5%** - National Cybersecurity Challenge 2023
-- 💡 **3 PATENT PENDING** in AI Security Algorithms
-- 🌟 **FEATURED SPEAKER** - AI Security Workshops 2024
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+### 🔐 Professional Certifications
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
+    <strong>🤖 AI Governance Certification</strong>
+    <br>Securiti Education
+    <br><small><a href="https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; color: white;">
+    <strong>🌐 Cisco Certification</strong>
+    <br>Cisco Systems
+    <br><small><a href="https://github.com/user-attachments/files/23437204/Cisco.certification.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; color: white;">
+    <strong>🐧 Linux Professional</strong>
+    <br>Linux Professional Institute
+    <br><small><a href="https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 10px; color: white;">
+    <strong>🚀 Hackathon Certification</strong>
+    <br>Competitive Programming
+    <br><small><a href="https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+</div>
+
+### 📚 Academic & Training Certificates
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin: 15px 0;">
+
+<div style="background: linear-gradient(135deg, #FFA62E 0%, #EA4C2C 100%); padding: 12px; border-radius: 8px; color: white;">
+    <strong>🎓 University Certificate</strong>
+    <br><small><a href="https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+<div style="background: linear-gradient(135deg, #9C27B0 0%, #673AB7 100%); padding: 12px; border-radius: 8px; color: white;">
+    <strong>📝 Training Certificate</strong>
+    <br><small><a href="https://github.com/user-attachments/files/23437205/Certificate.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+<div style="background: linear-gradient(135deg, #3F51B5 0%, #2196F3 100%); padding: 12px; border-radius: 8px; color: white;">
+    <strong>🌟 Additional Certificate</strong>
+    <br><small><a href="https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+<div style="background: linear-gradient(135deg, #009688 0%, #4CAF50 100%); padding: 12px; border-radius: 8px; color: white;">
+    <strong>🏅 Achievement Certificate</strong>
+    <br><small><a href="https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf" style="color: #FFD700; text-decoration: none;">📄 View Certificate</a></small>
+</div>
+
+</div>
+
+</div>
 
 ## 📊 GitHub Statistics
 
