@@ -23,37 +23,133 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
-```typescript
-const luthando = {
-    role: "AI Security Researcher & ML Engineer",
-    education: "Computer Science Honours Student",
-    university: "University of Fort Hare",
-    location: "Nairobi, Kenya 🇰🇪",
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 Who I Am
+
+I'm a **passionate AI Security Researcher** and **Machine Learning Engineer** pursuing **Computer Science Honours** at the **University of Fort Hare**. With over **3 years of experience**, I specialize in building **intelligent security systems** that defend against evolving cyber threats in real-time.
+
+🎯 **Mission:** Bridging the gap between artificial intelligence and cybersecurity to create adaptive, proactive defense mechanisms that stay ahead of tomorrow's threats.
+
+📍 **Location:** Nairobi, Kenya 🇰🇪  
+🎓 **Education:** Computer Science Honours Student  
+💼 **Status:** Open for opportunities & collaborations
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 What I Do
+
+```python
+class LuthandoCandlovu:
+    def __init__(self):
+        self.role = "AI Security Researcher"
+        self.languages = ["Python", "TypeScript", 
+                         "JavaScript", "Java"]
+        self.expertise = {
+            "ai_ml": ["TensorFlow", "PyTorch", 
+                     "Deep Learning", "Neural Networks"],
+            "security": ["Penetration Testing", 
+                        "Threat Intelligence",
+                        "Malware Analysis"],
+            "tools": ["Kali Linux", "Metasploit",
+                     "Wireshark", "Burp Suite"]
+        }
     
-    currentFocus: [
-        "Advanced Persistent Threat Detection using Deep Learning",
-        "Quantum Cryptography & Blockchain Security Protocols",
-        "AI-Driven Cybersecurity Solutions"
-    ],
-    
-    expertise: {
-        aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "Neural Networks"],
-        security: ["Penetration Testing", "Threat Intelligence", "Malware Analysis"],
-        development: ["Python", "TypeScript", "React", "Node.js"],
-        tools: ["Wireshark", "Metasploit", "Burp Suite", "Kali Linux"]
-    },
-    
-    achievements: {
-        experience: "3+ Years in AI & Security",
-        projects: "15+ Completed Projects",
-        certifications: ["AI Governance", "Cisco", "Linux Professional", "Hackathon Winner"]
-    },
-    
-    motto: "Securing the Future with Intelligent Systems 🛡️"
-};
+    def current_projects(self):
+        return [
+            "🔬 APT Detection with Deep Learning",
+            "🔐 Quantum Cryptography Research",
+            "🌐 Blockchain Security Protocols"
+        ]
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🎯 Core Competencies & Achievements
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+<br/><br/>
+<b>🤖 AI & Machine Learning</b>
+<br/><br/>
+Built neural networks achieving <b>98.2% accuracy</b> in threat detection. Expert in TensorFlow, PyTorch, and advanced deep learning architectures for cybersecurity applications.
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60"/>
+<br/><br/>
+<b>🛡️ Cybersecurity</b>
+<br/><br/>
+<b>3+ years</b> of hands-on experience in penetration testing, vulnerability assessment, and developing security frameworks with <b>A+ ratings</b>.
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<br/><br/>
+<b>💻 Full-Stack Development</b>
+<br/><br/>
+Completed <b>15+ projects</b> using modern tech stack: TypeScript, React, Node.js. Specialized in building secure, scalable applications.
+</td>
+</tr>
+</table>
+
+### 💼 Professional Highlights
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B_Years-6366F1?style=for-the-badge&logo=target&logoColor=white"/>
+<br/><sub>AI & Security</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/PROJECTS-15%2B-10B981?style=for-the-badge&logo=rocket&logoColor=white"/>
+<br/><sub>Completed</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/ACCURACY-98.2%25-F43F5E?style=for-the-badge&logo=target&logoColor=white"/>
+<br/><sub>AI Models</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/RATING-A%2B-F59E0B?style=for-the-badge&logo=security&logoColor=white"/>
+<br/><sub>Security Score</sub>
+</td>
+</tr>
+</table>
+
+### 🎓 Certifications & Recognition
+
+![AI Governance](https://img.shields.io/badge/✓_AI_Governance-Securiti-8B5CF6?style=flat-square)
+![Cisco](https://img.shields.io/badge/✓_Cisco_Certified-Cisco-1BA0D7?style=flat-square)
+![Linux](https://img.shields.io/badge/✓_Linux_Professional-LPI-FCC624?style=flat-square&logoColor=black)
+![Hackathon](https://img.shields.io/badge/✓_Hackathon_Winner-2024-FF6B6B?style=flat-square)
+
+<br/>
+
+> ### 💭 *"I don't just detect cyber threats — I predict and neutralize them before they happen. Let's build the future of AI-powered security together."*
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/💼_AVAILABLE_FOR_HIRE-Open_to_Opportunities-success?style=for-the-badge&logo=handshake)](mailto:luthando.candlovu30@gmail.com)
+[![Collaborate](https://img.shields.io/badge/🤝_OPEN_TO_COLLABORATE-Research_&_Projects-informational?style=for-the-badge&logo=github)](https://github.com/LuthandoCandlovu)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&reverseWave=true"/>
 
 ---
 
