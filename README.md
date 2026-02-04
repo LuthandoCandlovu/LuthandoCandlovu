@@ -1,178 +1,148 @@
-# 🌟 Building Intelligent Systems That Defend The Digital Future 🔐
+<!-- =====================  WAVE BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=🚀%20Luthando%20Candlovu%20🤖&fontSize=44&fontAlignY=35&desc=AI%20Security%20•%20Cybersecurity%20•%20Machine%20Learning&descAlignY=55" />
+</p>
 
+<!-- =====================  TYPING ANIMATION ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=🤖+AI+Security+Developer+%26+Researcher;🔐+Cybersecurity+%7C+Anomaly+Detection+%7C+IDS;🧠+Machine+Learning+%7C+Python+%7C+TypeScript;🎓+Honours+Computer+Science+Student+(UFH);🚀+Open+to+Internships+%26+Research+Collaborations" />
+</p>
+
+<!-- =====================  CUTE ANIMATION ===================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding gif"/>
+</p>
+
+<!-- =====================  CONTACT BADGES ===================== -->
+<p align="center">
+  <a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/LuthandoCandlovu">
+    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:luthando.candlovu30@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  💡✨ <i>"Securing the Future with Intelligent and Ethical Systems."</i> 🔐🤖
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+## 👨‍💻✨ About Me
+I’m **Luthando Candlovu**, an **Honours Computer Science student** at the **University of Fort Hare**, passionate about the intersection of **Artificial Intelligence 🤖** and **Cybersecurity 🔐**.
+
+I enjoy building systems focused on:
+✅ **Anomaly Detection**  
+✅ **Intrusion Detection Systems (IDS)**  
+✅ **Zero-Day & Novel Threat Detection**  
+✅ **Responsible AI & AI Governance**  
+
+- 🔭 **Current focus:** AI-based anomaly detection for cyber threats  
+- 🌱 **Learning:** Quantum Cryptography ⚡ & Blockchain Security 🌐  
+- 💬 **Ask me about:** Python 🐍, ML 🧠, AI Security 🔐, TypeScript 💙  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+## 🧠🔥 Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠_Machine_Learning-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐_Cybersecurity-4ECDC4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💙_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐧_Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+
+## 🏆🎉 Certifications
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+| 🧾 Certification | Provider | Proof |
+|---|---|---|
+| 🤖 AI Governance Certification | Securiti Education | [📄 View](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf) |
+| 🌐 Cisco Certification | Cisco Systems | [📄 View](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf) |
+| 🐧 Linux Professional | LPI | [📄 View](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf) |
+| 🚀 Hackathon Certification | Competitive Programming | [📄 View](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf) |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
-## 👋 About Me
+## 🔥📌 Featured Projects (Pin these on your profile!)
+### 🛡️ AI Threat Detection / IDS
+- ML-based anomaly detection for suspicious network traffic
+- Focus on **novel / zero-day behaviour patterns**
+**Tech:** Python • Scikit-learn • TensorFlow
 
-I am **Luthando Candlovu**, an **Honours Computer Science student** at the **University of Fort Hare**, working at the intersection of **AI and Cybersecurity** where data meets defense.
+### 🔐 Secure Authentication System
+- Security-first authentication design, validation, access control
+**Tech:** TypeScript • React • Node.js
 
-### 🎯 Core Passions
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- 🧠 Machine Learning
-- 🛡️ Intelligent Threat Detection
+### 🤖 Malware / Threat Classification (Labs)
+- ML experiments for classifying suspicious patterns and behaviours
+**Tech:** Python • Scikit-learn
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
-## 🎓 Academic Profile
+## 📊📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</p>
 
-- **Degree:** Honours in Computer Science
-- **Institution:** University of Fort Hare
-- **Specialization:** AI Security & Anomaly Detection
-- **Focus Areas:** Intrusion Detection Systems, Zero-Day Attacks, Ethical AI
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
-## 🔬 Research Interests
+## 🎯🚀 Currently Working On
+<p align="center">
+  <img src="https://img.shields.io/badge/🔬_Anomaly_Detection-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛡️_Intrusion_Detection-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_Quantum_Cryptography-00CED1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Blockchain_Security-32CD32?style=for-the-badge"/>
+</p>
 
-### AI Security & Defense
-- AI-Based Intrusion Detection Systems (IDS)
-- Zero-Day & Unknown Threat Detection
-- Anomaly Detection Algorithms (Isolation Forest, One-Class SVM)
-- Autoencoders & Deep Learning for Security
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 
-### Emerging Technologies
-- Secure & Responsible AI Development
-- AI Governance & Ethics
-- Quantum Cryptography Foundations
+## 🤝💙 Let’s Collaborate!
+<p align="center">
+  <b>Open to internships, research collaborations, and AI Security projects.</b>
+</p>
 
----
+<p align="center">
+  <a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-2D3748?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge"/>
+  </a>
+  <a href="mailto:luthando.candlovu30@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge"/>
+  </a>
+</p>
 
-## 💻 Technology Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&label=👀+PROFILE+VIEWS" />
+</p>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<!-- =====================  FOOTER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:7F7FD5&height=120&section=footer" />
+</p>
 
-### AI & Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Security & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
-
----
-
-## 🏆 Certifications & Achievements
-
-| Certificate | Provider | Status |
-|------------|----------|--------|
-| 🤖 AI Governance | Securiti Education | ✅ Certified |
-| 🌐 Networking Fundamentals | Cisco | ✅ Certified |
-| 🐧 Linux Professional | LPI | ✅ Certified |
-| 🚀 Hackathon Participant | Competitive Programming | ✅ Completed |
-| 📚 Advanced Academic Training | University of Fort Hare | ✅ Ongoing |
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ AI-Based Intrusion Detection System
-An intelligent machine learning system designed to detect abnormal network behavior with a focus on zero-day and unknown attack patterns. Built with explainability and accuracy in mind.
-
-**Technologies:** `Python` · `Scikit-learn` · `TensorFlow` · `Pandas`
-
----
-
-### 🔐 Secure Authentication Platform
-Enterprise-grade authentication system featuring role-based access control, secure session management, and comprehensive input validation.
-
-**Technologies:** `TypeScript` · `React` · `Node.js` · `Express`
-
----
-
-### 🤖 Malware & Threat Classification Lab
-Experimental machine learning models for analyzing malware behavior patterns, featuring advanced feature extraction and model evaluation techniques.
-
-**Technologies:** `Python` · `Scikit-learn` · `Feature Engineering`
-
----
-
-### 📊 Student Performance Prediction System
-ML-powered educational analytics platform designed to assist learners in the Eastern Cape through predictive performance analysis.
-
-**Technologies:** `Python` · `Pandas` · `Machine Learning` · `Data Visualization`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Currently Working On
-
-- 🔬 Advanced Anomaly Detection Algorithms
-- 🛡️ Next-Generation AI-Based IDS
-- ⚡ Quantum Cryptography Foundations
-- 🌐 Blockchain Security Research
-- 🤖 Secure Autonomous Systems
-
----
-
-## 🤝 Open To Collaboration
-
-I'm actively seeking opportunities in:
-
-- 🔬 Research collaborations in AI Security
-- 💼 Internships (AI / Cybersecurity / Machine Learning)
-- 🌍 Open-source security projects
-- 📚 Mentorship & academic partnerships
-- 🎓 Graduate research opportunities
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-**"Where Intelligence Meets Security"** 🔐🤖
-
-*Building a safer digital future, one algorithm at a time.*
-
-</div>
 
