@@ -1,148 +1,176 @@
-<!-- =====================  WAVE BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=%20Luthando%20Candlovu%20 &fontSize=44&fontAlignY=35&desc=AI%20Security%20•%20Cybersecurity%20•%20Machine%20Learning&descAlignY=55" />
-</p>
+# 🌟 SkyWatch Africa (MVP)
 
-<!-- =====================  TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=🤖+AI+Security+Developer+%26+Researcher;🔐+Cybersecurity+%7C+Anomaly+Detection+%7C+IDS;🧠+Machine+Learning+%7C+Python+%7C+TypeScript;🎓+Honours+Computer+Science+Student+(UFH);🚀+Open+to+Internships+%26+Research+Collaborations" />
-</p>
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green.svg)
 
-<!-- =====================  CUTE ANIMATION ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding gif"/>
-</p>
+A simple citizen-science astronomy app where users can:
+- Submit sky observations (type, description, location, time)
+- View all reports on a live interactive map
+- Browse recent observations in real-time
 
-<!-- =====================  CONTACT BADGES ===================== -->
-<p align="center">
-  <a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/LuthandoCandlovu">
-    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:luthando.candlovu30@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Reports are saved to SQLite and displayed on a web page with map + list. This is an **MVP** you can push to GitHub and improve later (photo upload + AI detection coming next).
 
-<p align="center">
-  💡✨ <i>"Securing the Future with Intelligent and Ethical Systems."</i> 🔐🤖
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+## ⚙️ Requirements
 
-## 👨‍💻✨ About Me
-I’m **Luthando Candlovu**, an **Honours Computer Science student** at the **University of Fort Hare**, passionate about the intersection of **Artificial Intelligence 🤖** and **Cybersecurity 🔐**.
+- **Python 3.10+** (3.11 is perfect)
+- **VS Code** (recommended)
+- **Git** for pushing to GitHub
 
-I enjoy building systems focused on:
-✅ **Anomaly Detection**  
-✅ **Intrusion Detection Systems (IDS)**  
-✅ **Zero-Day & Novel Threat Detection**  
-✅ **Responsible AI & AI Governance**  
+---
 
-- 🔭 **Current focus:** AI-based anomaly detection for cyber threats  
-- 🌱 **Learning:** Quantum Cryptography ⚡ & Blockchain Security 🌐  
-- 💬 **Ask me about:** Python 🐍, ML 🧠, AI Security 🔐, TypeScript 💙  
+## 🚀 Setup & Run
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+### 1️⃣ Run the Backend (FastAPI)
 
-## 🧠🔥 Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🧠_Machine_Learning-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔐_Cybersecurity-4ECDC4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💙_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🐧_Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+Open terminal in the project folder:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+```bash
+cd backend
+python -m venv venv
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+# Windows:
+venv\Scripts\activate
 
-## 🏆🎉 Certifications
-<div align="center">
+# Mac/Linux:
+source venv/bin/activate
 
-| 🧾 Certification | Provider | Proof |
-|---|---|---|
-| 🤖 AI Governance Certification | Securiti Education | [📄 View](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf) |
-| 🌐 Cisco Certification | Cisco Systems | [📄 View](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf) |
-| 🐧 Linux Professional | LPI | [📄 View](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf) |
-| 🚀 Hackathon Certification | Competitive Programming | [📄 View](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf) |
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
 
-</div>
+**Backend URLs:**
+- API: http://127.0.0.1:8000
+- Docs: http://127.0.0.1:8000/docs
+- Health: http://127.0.0.1:8000/health
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+A SQLite file `skywatch.db` will be created inside `backend/`.
 
-## 🔥📌 Featured Projects (Pin these on your profile!)
-### 🛡️ AI Threat Detection / IDS
-- ML-based anomaly detection for suspicious network traffic
-- Focus on **novel / zero-day behaviour patterns**
-**Tech:** Python • Scikit-learn • TensorFlow
+### 2️⃣ Run the Frontend
 
-### 🔐 Secure Authentication System
-- Security-first authentication design, validation, access control
-**Tech:** TypeScript • React • Node.js
+**Option A** (easy): Open `frontend/index.html` in your browser.
 
-### 🤖 Malware / Threat Classification (Labs)
-- ML experiments for classifying suspicious patterns and behaviours
-**Tech:** Python • Scikit-learn
+**Option B** (recommended): Use VS Code extension **Live Server**
+- Right-click `frontend/index.html` → **Open with Live Server**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+---
 
-## 📊📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-</p>
+## 🧪 Test It
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
+1. ✅ Start backend
+2. ✅ Open frontend
+3. ✅ Click **"Use my GPS"** (or type latitude/longitude)
+4. ✅ Fill in observation details
+5. ✅ Click **"Submit report"**
+6. ✅ You'll see it on the map and in the list!
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+---
 
-## 🎯🚀 Currently Working On
-<p align="center">
-  <img src="https://img.shields.io/badge/🔬_Anomaly_Detection-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛡️_Intrusion_Detection-FF4500?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Quantum_Cryptography-00CED1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌐_Blockchain_Security-32CD32?style=for-the-badge"/>
-</p>
+## 📤 Push to GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+In the project root:
 
-## 🤝💙 Let’s Collaborate!
-<p align="center">
-  <b>Open to internships, research collaborations, and AI Security projects.</b>
-</p>
+```bash
+git init
+git add .
+git commit -m "SkyWatch Africa MVP: reports + map"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/skywatch-africa.git
+git push -u origin main
+```
 
-<p align="center">
-  <a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2D3748?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge"/>
-  </a>
-  <a href="mailto:luthando.candlovu30@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge"/>
-  </a>
-</p>
+> **Need help with GitHub?** See [GITHUB_SETUP.md](GITHUB_SETUP.md) for detailed instructions.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&label=👀+PROFILE+VIEWS" />
-</p>
+---
 
-<!-- =====================  FOOTER BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:7F7FD5&height=120&section=footer" />
-</p>
+## 🔮 Next Upgrades (Research-Level Features)
 
+To make this a professional research platform, add:
+
+- [ ] **Photo/video upload** (FastAPI `UploadFile`)
+- [ ] **Validation** (cloud/blur/dark checks)
+- [ ] **Simple ML detection/classification**
+- [ ] **Export endpoint**: `/reports.csv` for researchers
+- [ ] **User accounts + moderation**
+- [ ] **Data quality metrics**
+- [ ] **API authentication**
+- [ ] **Mobile apps**
+
+---
+
+## 📁 Project Structure
+
+```
+skywatch-africa/
+├── backend/
+│   ├── app/
+│   │   ├── main.py          # FastAPI app & endpoints
+│   │   ├── database.py      # SQLAlchemy models
+│   │   └── schemas.py       # Pydantic validation
+│   ├── requirements.txt
+│   └── skywatch.db          # Created automatically
+├── frontend/
+│   ├── index.html           # Main page
+│   ├── css/style.css        # Styling
+│   └── js/app.js            # Frontend logic
+├── README.md
+└── LICENSE
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+- FastAPI (Python web framework)
+- SQLAlchemy (ORM)
+- SQLite (Database)
+- Uvicorn (ASGI server)
+
+**Frontend:**
+- HTML5/CSS3/JavaScript
+- Leaflet.js (Interactive maps)
+- OpenStreetMap tiles
+
+---
+
+## 🐛 Troubleshooting
+
+**Backend won't start?**
+```bash
+cd backend
+pip install -r requirements.txt --upgrade
+```
+
+**Frontend can't connect?**
+- Ensure backend is running at http://127.0.0.1:8000
+- Check browser console (F12) for errors
+
+**GPS not working?**
+- Use HTTPS or localhost
+- Grant browser location permissions
+
+---
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) file.
+
+---
+
+## 🤝 Contributing
+
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## ⭐ Show Your Support
+
+Give a ⭐ if this project helped you!
+
+---
+
+*Built with ❤️ for citizen scientists across Africa* 🌍✨
 
