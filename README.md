@@ -1,6 +1,6 @@
 <!-- =====================  WAVE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=🚀%20Luthando%20Candlovu%20🤖&fontSize=44&fontAlignY=35&desc=AI%20Security%20•%20Cybersecurity%20•%20Machine%20Learning&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=%20Luthando%20Candlovu%20 &fontSize=44&fontAlignY=35&desc=AI%20Security%20•%20Cybersecurity%20•%20Machine%20Learning&descAlignY=55" />
 </p>
 
 <!-- =====================  TYPING ANIMATION ===================== -->
