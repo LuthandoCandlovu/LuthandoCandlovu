@@ -12,7 +12,7 @@
 <!--                   TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=👋+Hey%2C+I'm+Luthando+Candlovu!;🛡️+AI+Security+Developer+%26+Researcher;🤖+Machine+Learning+%7C+Deep+Learning;📱+React+Native+%7C+Mobile+Developer;🎓+CS+Honours+@+University+of+Fort+Hare;🌍+Building+from+Eastern+Cape%2C+South+Africa+🇿🇦;🚀+Open+to+Work+—+Let's+Collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines= +Hey%2C+I'm+Luthando+Candlovu!; +AI+Security+Developer+%26+Researcher; +Machine+Learning+%7C+Deep+Learning; +React+Native+%7C+Mobile+Developer;+CS+Graduate+@+University+of+Fort+Hare;+Building+from+Eastern+Cape%2C+South+Africa+🇿🇦; +Open+to+Work+—+Let's+Collaborate!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -51,7 +51,7 @@
 ```yaml
 👤  name         : Luthando Candlovu
 📍  location     : Eastern Cape, South Africa 🇿🇦
-🎓  education    : BSc (Honours) Computer Science
+🎓  education    : BSc (Graduate) Computer Science
                    University of Fort Hare
 
 🔭  working_on   : Advanced Persistent Threat Detection (Deep Learning)
