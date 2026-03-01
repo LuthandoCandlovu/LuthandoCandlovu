@@ -1,506 +1,469 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:001a33,100:001a00&height=280&section=header&text=LUTHANDO%20CANDLOVU&fontSize=62&fontColor=00FF88&fontAlignY=42&desc=AI%20Security%20Developer%20%7C%20Deep%20Learning%20Researcher&descSize=17&descAlignY=63&descColor=00D4FF&animation=fadeIn"/>
+<!-- ANIMATED MATRIX HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a0d,60:002211,100:000d1a&height=320&section=header&text=LUTHANDO%20CANDLOVU&fontSize=68&fontColor=00FF88&fontAlignY=40&desc=╔═══%20AI%20Security%20Developer%20·%20Deep%20Learning%20Researcher%20·%20ZA%20→%20Global%20═══╗&descSize=14&descAlignY=62&descColor=00D4FF&animation=fadeIn&stroke=00FF8830&strokeWidth=2"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=860&height=45&lines=🛡️+Defending+the+digital+frontier+with+AI...;🤖+Building+zero-day+detection+systems...;🔬+Researching+Quantum+Cryptography+%26+Blockchain...;⚡+98.2%25+threat+detection+accuracy+achieved...;🌍+Eastern+Cape%2C+South+Africa+→+Global+Impact)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/5e2bfb73-3dc5-4096-a6a0-c2a9cef67b18" width="150"/>
+<!-- TERMINAL TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=42&lines=◈+Crafting+AI+pipelines+that+detect+threats+before+they+strike...;◈+Engineering+secure+ML+systems+from+Eastern+Cape+to+the+world...;◈+Researching+zero-day+detection+%26+post-quantum+cryptography...;◈+Full-stack+builder+|+AI+defender+|+Open+to+remote+worldwide...;◈+%22Build.+Break.+Secure.+Repeat.%22+—+Luthando+Candlovu+🔐" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/🟢_OPEN_TO_WORK-00FF88?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/REMOTE-WORLDWIDE-00D4FF?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/FOCUS-AI_SECURITY-FF4500?style=for-the-badge&labelColor=0d1117)
-![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=00FF88&label=VISITORS&labelColor=0d1117)
+<!-- AVAILABILITY PULSE BADGES -->
+<img src="https://img.shields.io/badge/⬤%20STATUS-OPEN%20TO%20WORK-00FF88?style=for-the-badge&labelColor=0a0a0a&color=00FF88"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📡%20MODE-REMOTE%20WORLDWIDE-00D4FF?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20DOMAIN-AI%20SECURITY-FF4500?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20BASE-EASTERN%20CAPE%20🇿🇦-FFAA00?style=for-the-badge&labelColor=0a0a0a"/>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
-[![Email](https://img.shields.io/badge/Hire_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luthando.candlovu30@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/27782765932)
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/LuthandoCandlovu?style=for-the-badge&color=00D4FF&labelColor=0d1117&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/LuthandoCandlovu?style=for-the-badge&color=FFAA00&labelColor=0d1117&label=TOTAL+STARS"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
 
 <br/>
 
-## `> whoami`
+<!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
 
-<table>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `> whoami --verbose`
+
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="52%" valign="top">
 
-```yaml
-name         : Luthando Candlovu
-role         : AI Security Engineer & Researcher
-location     : Eastern Cape, South Africa 🇿🇦
-degree       : BSc Computer Science
-university   : University of Fort Hare
+```zsh
+╭─ luthando@secure-lab ~
+╰─❯ cat identity.yaml
 
-current_work :
-  - APT Detection via Deep Learning     [80%]
-  - Blockchain Security Protocols       [55%]
-  - Quantum Cryptography Research       [35%]
-  - Autonomous AI Security Systems      [45%]
+identity:
+  name       : "Luthando Candlovu"
+  alias      : "LC" | "0xLuthando"
+  role       : "AI Security Developer & Researcher"
+  location   : "Eastern Cape, South Africa 🇿🇦"
+  education  : "BSc Computer Science — University of Fort Hare"
+  gpa_focus  : "Machine Learning · Systems Security"
 
-open_to      :
-  - Full-time, Freelance, Research
-  - Consulting, Open-source
-  - Remote worldwide  ✓
-  - Relocation        negotiable
+mission: >
+  Build AI systems that protect people —
+  anomaly detection, secure ML, applied research.
+  From South Africa, for the world.
 
-fun_fact : "I catch zero-days before AV does!" 🔐
+philosophy:
+  - "Security is not a feature. It's a foundation."
+  - "Every model has a threat surface. Know it."
+  - "Open source for impact, not just portfolio."
+
+availability:
+  graduate_roles    : ✅ YES
+  research_collab   : ✅ YES
+  remote_worldwide  : ✅ YES
+  relocation        : 🤝 NEGOTIABLE
+  startdate         : "IMMEDIATELY"
 ```
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="48%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;"/>
 
-<br/>
+<br/><br/>
 
-![](https://img.shields.io/badge/3%2B_Years-Experience-00FF88?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/15%2B_Apps-Shipped-00D4FF?style=flat-square&labelColor=0d1117)
-
-![](https://img.shields.io/badge/8_Certs-Professional-FF6B35?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/BSc_CS-Graduate-8B5CF6?style=flat-square&labelColor=0d1117)
+<!-- TROPHY CASE -->
+<img src="https://github-profile-trophy.vercel.app/?username=LuthandoCandlovu&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=3" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
 <br/>
 
-## `> system.architecture`
+<!-- ═══════════════════════════ CORE COMPETENCIES ═══════════════════════════ -->
 
-```mermaid
-graph TB
-    subgraph INPUT["🌐 THREAT SURFACE"]
-        A[Network Traffic]
-        B[Code Repositories]
-        C[URL Requests]
-        D[System Logs]
-    end
-
-    subgraph CORE["🤖 AI SECURITY CORE"]
-        direction LR
-        E["🧠 Deep Learning\nLSTM · CNN · Transformers"]
-        F["🔍 Anomaly Detection\nIsolation Forest · AutoEncoder"]
-        G["📊 Feature Engineering\nNLP · Graph Analysis"]
-        E <--> F
-        F <--> G
-    end
-
-    subgraph MODELS["⚡ DEPLOYED MODELS"]
-        H["🛡️ Zero-Day\nDetector\n98.2% Acc"]
-        I["🎣 Phishing\nClassifier"]
-        J["📈 Stock\nPredictor\nLSTM"]
-        K["🔬 APT\nDetector\nActive"]
-    end
-
-    subgraph RESPONSE["✅ SECURITY RESPONSE"]
-        L[Real-Time Alerts]
-        M[Threat Reports]
-        N[Auto-Remediation]
-    end
-
-    A & B & C & D --> CORE
-    CORE --> MODELS
-    MODELS --> L & M & N
-
-    style CORE fill:#001a33,stroke:#00D4FF,stroke-width:2px,color:#00FF88
-    style INPUT fill:#0d0d0d,stroke:#00FF88,stroke-width:1px,color:#ffffff
-    style MODELS fill:#0d0d0d,stroke:#FF4500,stroke-width:1px,color:#ffffff
-    style RESPONSE fill:#001a00,stroke:#00FF88,stroke-width:1px,color:#ffffff
-```
-
-<br/>
-
-## `> skills.map`
-
-```mermaid
-mindmap
-  root((🛡️ LUTHANDO))
-    🤖 AI & ML
-      TensorFlow / Keras
-      PyTorch
-      scikit-learn
-      OpenCV · NumPy · Pandas
-    🔐 Security
-      Kali Linux
-      Zero-Day Research
-      Threat Intelligence
-      Blockchain · Quantum
-    📱 Mobile & Web
-      React Native · Expo
-      TypeScript · Next.js
-      Tailwind CSS
-    ⚙️ Backend & DB
-      FastAPI · Flask
-      Node.js · Firebase
-      MongoDB · SQLite
-    🚀 DevOps
-      Docker · Linux
-      Git · GitHub
-      Postman · VS Code
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
-
-<br/>
-
-## `> tech.stack`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `> skills --map`
 
 <div align="center">
 
-**🤖 AI / MACHINE LEARNING**
+<table>
+<tr>
+<td align="center" width="25%">
 
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org)
-[![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=D00000)](https://keras.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)](https://opencv.org)
-[![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org)
+**🛡️ AI Security**
+```
+▓▓▓▓▓▓▓▓▓░ 90%
+```
+Anomaly Detection<br/>
+Intrusion Detection<br/>
+Adversarial ML<br/>
+Threat Modeling
 
-<br/>
+</td>
+<td align="center" width="25%">
 
-**📱 MOBILE & FRONTEND**
+**🤖 ML Engineering**
+```
+▓▓▓▓▓▓▓▓░░ 82%
+```
+Deep Learning<br/>
+Pipeline Design<br/>
+Model Hardening<br/>
+AutoML / MLOps
 
-[![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://typescriptlang.org)
-[![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org)
-[![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com)
-[![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
-[![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org)
-[![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/)
+</td>
+<td align="center" width="25%">
 
-<br/>
+**💻 Full-Stack Dev**
+```
+▓▓▓▓▓▓▓░░░ 75%
+```
+REST / GraphQL APIs<br/>
+React / Next.js<br/>
+FastAPI / Flask<br/>
+Node.js / TypeScript
 
-**⚙️ BACKEND & DATABASES**
+</td>
+<td align="center" width="25%">
 
-[![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com)
-[![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://java.com)
-[![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://mongodb.com)
-[![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)](https://sqlite.org)
+**🔬 Security Research**
+```
+▓▓▓▓▓▓▓▓░░ 80%
+```
+Zero-Day Analysis<br/>
+APT Behavior<br/>
+Post-Quantum Crypto<br/>
+Blockchain Audit
 
-<br/>
-
-**🛡️ SECURITY & DEVOPS**
-
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)](https://kali.org)
-[![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)](https://linux.org)
-[![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)](https://docker.com)
-[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
-[![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://postman.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com)
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
 <br/>
 
-## `> projects.featured`
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+## ⚙️ `> tech.stack --all`
 
 <div align="center">
 
-[![zero-day-detection](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=zero-day-detection&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00D4FF&bg_color=0d1117&text_color=c9d1d9)](https://github.com/LuthandoCandlovu/zero-day-detection)
-&nbsp;
-[![codesage-ai](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=codesage-ai&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00D4FF&bg_color=0d1117&text_color=c9d1d9)](https://github.com/LuthandoCandlovu/codesage-ai)
-
-[![Vula-Motor_App](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Vula-Motor_App&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00D4FF&bg_color=0d1117&text_color=c9d1d9)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
-&nbsp;
-[![Stock-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Stock-Predictor&theme=tokyonight&hide_border=true&title_color=00FF88&icon_color=00D4FF&bg_color=0d1117&text_color=c9d1d9)](https://github.com/LuthandoCandlovu/Stock-Predictor)
-
-</div>
+### 🤖 AI / ML / Security
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=opencv,linux,docker,bash&theme=dark"/>
 
 <br/>
 
-### Project Architecture Deep-Dives
-
-<details>
-<summary><b>🛡️ Zero-Day AI Threat Detection — Architecture</b></summary>
-<br/>
-
-```mermaid
-flowchart LR
-    A[🌐 Live Network\nTraffic] --> B[📦 Packet\nCapture]
-    B --> C[🔧 Feature\nExtraction]
-    C --> D{🧠 Deep Learning\nClassifier}
-    D -->|Anomalous| E[⚠️ THREAT\nALERT]
-    D -->|Clean| F[✅ SAFE\nPASS]
-    E --> G[📊 Threat\nReport]
-    E --> H[🔒 Auto\nBlock]
-
-    style D fill:#001a33,stroke:#00D4FF,color:#00FF88
-    style E fill:#1a0000,stroke:#FF4500,color:#FF4500
-    style F fill:#001a00,stroke:#00FF88,color:#00FF88
-```
-
-| | |
-|:---|:---|
-| 🎯 **Accuracy** | 98.2% on unseen threat data |
-| ⚡ **Speed** | < 50ms real-time analysis |
-| 🔬 **Method** | Anomaly detection + deep neural networks |
-| 📦 **Stack** | Python · TensorFlow · scikit-learn · TypeScript |
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu/zero-day-detection)
-
-</details>
-
-<details>
-<summary><b>💬 CodeSage AI — LLM Code Review Architecture</b></summary>
-<br/>
-
-```mermaid
-sequenceDiagram
-    participant Dev as 👨‍💻 Developer
-    participant API as ⚡ FastAPI
-    participant Scan as 🔍 Scanner
-    participant LLM as 🤖 LLM
-
-    Dev->>API: Submit code
-    API->>Scan: Static analysis
-    Scan->>LLM: Context + vulnerabilities
-    LLM->>LLM: Deep reasoning
-    LLM-->>API: Review + fixes
-    API-->>Dev: Security report
-```
-
-| | |
-|:---|:---|
-| 🤖 **Engine** | Large Language Model |
-| 🔐 **Feature** | Security vulnerability scanner |
-| 🚀 **API** | FastAPI async backend |
-| 📦 **Stack** | Python · FastAPI · LLM · REST API |
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu/codesage-ai)
-
-</details>
-
-<details>
-<summary><b>🚗 Vula Motor App — Emergency Response Architecture</b></summary>
-<br/>
-
-```mermaid
-graph TD
-    A[📱 Driver App\nReact Native] -->|SOS Triggered| B[🔥 Firebase\nRealtime DB]
-    B -->|Live Alert| C[🚑 Emergency\nServices]
-    B -->|Push Notification| D[🔔 Nearby\nResponders]
-    A -->|Location Stream| E[📍 Maps API]
-    E -->|Route Calculation| C
-    C -->|ETA Update| A
-
-    style A fill:#001a33,stroke:#00D4FF,color:#ffffff
-    style B fill:#1a0a00,stroke:#FF6B00,color:#ffffff
-    style C fill:#001a00,stroke:#00FF88,color:#ffffff
-```
-
-| | |
-|:---|:---|
-| 🏆 **Origin** | Hackathon Winner |
-| 📱 **Platform** | iOS + Android via React Native |
-| 🔄 **Real-time** | Firebase live sync |
-| 📦 **Stack** | React Native · TypeScript · Expo · Firebase |
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
-
-</details>
-
-<details>
-<summary><b>📈 AI Stock Predictor — LSTM Neural Network Architecture</b></summary>
-<br/>
-
-```mermaid
-graph LR
-    A[📊 yfinance\nData] --> B[🔧 Normalize\n+ Window]
-    B --> C[📐 LSTM\nLayer 1\n128 units]
-    C --> D[📐 LSTM\nLayer 2\n64 units]
-    D --> E[💧 Dropout\n0.2]
-    E --> F[🎯 Dense\nOutput]
-    F --> G[📈 Forecast]
-
-    style C fill:#001a33,stroke:#00D4FF,color:#00FF88
-    style D fill:#001a33,stroke:#00D4FF,color:#00FF88
-    style F fill:#001a00,stroke:#00FF88,color:#ffffff
-```
-
-| | |
-|:---|:---|
-| 🧠 **Model** | LSTM Recurrent Neural Network |
-| 📊 **Data** | Multi-year historical market data |
-| 🔄 **Pipeline** | yfinance → preprocess → predict → visualize |
-| 📦 **Stack** | Python · TensorFlow · Keras · yfinance |
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu/Stock-Predictor)
-
-</details>
+**NumPy · Pandas · Scikit-Learn · Keras · Hugging Face · Jupyter · MLflow · ONNX**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,firebase,sqlite&theme=dark"/>
 
 <br/>
 
-## `> github.analytics`
+### 🧰 Dev & Security Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark"/>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00FF88&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="195"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117" height="195"/>
+**Wireshark · Nmap · Metasploit (research) · Burp Suite · OWASP ZAP · Kali Linux**
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=00FF88&fire=FF4500&currStreakLabel=00FF88&sideLabels=00D4FF&background=0d1117&dates=888888&stroke=00D4FF" width="68%"/>
+<!-- LANGUAGE PROFICIENCY BARS -->
+<table>
+<tr>
+<td>
+
+| Language | Proficiency | Use Case |
+|---|---|---|
+| 🐍 Python | `████████████ Expert` | ML, Security, Automation |
+| 📜 JavaScript/TS | `█████████░░░ Advanced` | Full-stack, APIs |
+| 🔧 Bash/Shell | `████████░░░░ Advanced` | DevOps, Automation |
+| ☕ Java | `██████░░░░░░ Intermediate` | Backend, DSA |
+| 🦀 C/C++ | `█████░░░░░░░ Learning` | Systems, Performance |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+## 🚀 `> projects.featured --detailed`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AI Threat Sentinel
+```python
+status   : "Active Development"
+tech     : [Python, TensorFlow, FastAPI, Docker]
+type     : "Anomaly Detection System"
+```
+> Real-time network traffic analysis using LSTM autoencoders to detect zero-day behavior patterns. Achieves **<50ms latency** with 96%+ detection accuracy on benchmark datasets.
+
+**Key features:** Live packet analysis · Behavioral fingerprinting · Alert dashboard · SIEM integration
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu)
+[![Demo](https://img.shields.io/badge/→_Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=00D4FF)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 SecureML Pipeline
+```python
+status   : "Production Ready"
+tech     : [PyTorch, FastAPI, Redis, PostgreSQL]
+type     : "Secure AI Development Framework"
+```
+> End-to-end hardened ML pipeline with adversarial robustness testing, model poisoning detection, and differential privacy guarantees built in from the ground up.
+
+**Key features:** Adversarial training · Privacy preservation · Audit logging · RBAC
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu)
+[![Demo](https://img.shields.io/badge/→_Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=00D4FF)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ SmartAudit — Blockchain Security
+```python
+status   : "Research Phase"
+tech     : [Python, Solidity, Web3.py, Slither]
+type     : "Smart Contract Vulnerability Scanner"
+```
+> Automated static + dynamic analysis tool for Ethereum smart contracts. Detects reentrancy, integer overflows, and access control flaws using both rule-based and ML classification.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ QuantumShield — PQC Lab
+```python
+status   : "Experimental"
+tech     : [Python, Qiskit, liboqs, Jupyter]
+type     : "Post-Quantum Cryptography Sandbox"
+```
+> Research sandbox implementing CRYSTALS-Kyber, CRYSTALS-Dilithium, and FALCON post-quantum algorithms. Benchmarking classical vs PQC performance for real-world adoption research.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-0d1117?style=flat-square&logo=github&logoColor=00FF88)](https://github.com/LuthandoCandlovu)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
+
+## 📊 `> github.analytics --full`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,prs_merged&title_color=00FF88&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF88" height="200"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117&hide=html,css" height="200"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuthandoCandlovu&bg_color=0d1117&color=00FF88&line=00D4FF&point=ffffff&area=true&area_color=00FF8820&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=00FF88&fire=FF4500&currStreakLabel=00FF88&sideLabels=00D4FF&background=0d1117&dates=888888&stroke=00D4FF&sideNums=ffffff" width="88%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuthandoCandlovu&bg_color=0d1117&color=00FF88&line=00D4FF&point=FFFFFF&area=true&area_color=00FF8825&hide_border=true&custom_title=⚡+Contribution+Activity+—+Luthando+Candlovu&radius=8" width="98%"/>
+
+<br/><br/>
+
+<!-- WAKATIME / CODING TIME (optional — remove if not set up) -->
+<!--
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LuthandoCandlovu&theme=tokyonight&hide_border=true&title_color=00FF88&text_color=c9d1d9&bg_color=0d1117&layout=compact" width="60%"/>
+-->
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
 <br/>
 
-## `> research.roadmap`
+<!-- ═══════════════════════════ RESEARCH INTERESTS ═══════════════════════════ -->
 
-```mermaid
-gantt
-    title 2025 – 2026 Research & Build Roadmap
-    dateFormat  YYYY-MM
-    axisFormat  %b %Y
-
-    section 🛡️ AI Security
-    APT Detection System       :active, apt, 2025-01, 2025-08
-    Autonomous Response Engine :        are, 2025-06, 2026-02
-
-    section 🔗 Blockchain
-    Security Protocol Design   :active, blk, 2025-03, 2025-10
-    Smart Contract Auditor     :        sca, 2025-09, 2026-03
-
-    section ⚛️ Quantum
-    Quantum Crypto Research    :active, qcr, 2025-05, 2026-04
-    Post-Quantum Implementation:        pqi, 2026-01, 2026-09
-```
-
-<br/>
-
-## `> research.publications`
+## 🔬 `> research.interests --deep`
 
 <div align="center">
 
-| 📄 Paper | 🏛️ Venue | 📅 | 🏅 |
-|:---|:---|:---:|:---:|
-| AI-Driven Cyber Threat Intelligence | IEEE Security Symposium | 2024 | 🥇 Best Paper |
-| Neural Networks in Intrusion Detection | ACM Computing Reviews | 2023 | 📈 High Impact |
-| Machine Learning for Malware Analysis | Springer AI Journal | 2023 | 🔬 Peer Reviewed |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Current Focus Areas**
+
+```
+[01] AI-Powered Anomaly Detection
+     └── LSTM · Autoencoders · Isolation Forests
+     └── Real-time network telemetry analysis
+     └── Zero-day behavior fingerprinting
+
+[02] Adversarial Machine Learning
+     └── Model poisoning & evasion attacks
+     └── Certified defenses & robustness bounds
+     └── Explainable security decisions
+
+[03] Post-Quantum Cryptography
+     └── NIST PQC standards (Kyber, Dilithium)
+     └── Migration strategies for existing systems
+     └── Hybrid classical/PQC architectures
+```
+
+</td>
+<td width="50%" valign="top">
+
+**On the Horizon**
+
+```
+[04] Blockchain & Smart Contract Security
+     └── Automated vulnerability detection
+     └── DeFi protocol risk modeling
+     └── ML-based exploit prediction
+
+[05] Privacy-Preserving ML
+     └── Federated learning for sensitive data
+     └── Differential privacy in production
+     └── Homomorphic encryption experiments
+
+[06] Applied Community Security
+     └── Lightweight IDS for low-resource envs
+     └── AI tools for African cybersecurity
+     └── Open-source security education
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
+<br/>
 
-## `> certifications.verified`
+<!-- ═══════════════════════════ CURRENTLY LEARNING ═══════════════════════════ -->
+
+## 📡 `> status --current`
 
 <div align="center">
 
-| # | Certification | Issuer | 📄 |
-|:---:|:---|:---|:---:|
-| 01 | AI Governance Certification | Securiti Education | [View ↗](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf) |
-| 02 | Cisco Networking Certification | Cisco Systems | [View ↗](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf) |
-| 03 | Linux Professional Certification | Linux Professional Institute | [View ↗](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf) |
-| 04 | Hackathon Winner Certificate | Competitive Programming | [View ↗](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf) |
-| 05 | BSc Computer Science | University of Fort Hare | [View ↗](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf) |
-| 06 | Professional Training Certificate | Training Institute | [View ↗](https://github.com/user-attachments/files/23437205/Certificate.pdf) |
-| 07 | Academic Achievement Certificate I | University of Fort Hare | [View ↗](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf) |
-| 08 | Academic Achievement Certificate II | University of Fort Hare | [View ↗](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf) |
+| | Area | Status |
+|---|---|---|
+| 🧠 | LLM Security & Prompt Injection Research | `Active ████████░░` |
+| ⚛️ | Qiskit / Post-Quantum Implementation | `Active ██████░░░░` |
+| 🦀 | Rust for systems-level security tooling | `Learning ████░░░░░░` |
+| 📜 | OSCP / CEH certification prep | `Queued ██░░░░░░░░` |
+| 🔗 | Smart contract formal verification | `Research ██████░░░░` |
 
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=3" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0d,50:00FF8820,100:001a0d&height=2" width="100%"/>
 <br/>
 
-## `> contact.open`
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+
+## 📬 `> contact.open --hire-me`
 
 <div align="center">
 
 ```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                                                              │
-  │   Available for:                                             │
-  │                                                              │
-  │   🛡️  AI Security Engineering                              │
-  │   🤖  Machine Learning / MLOps                             │
-  │   📱  Mobile Development  (React Native)                   │
-  │   💻  Full-Stack Development                               │
-  │   🔬  Security Research & Collaboration                    │
-  │                                                              │
-  │   📍  Eastern Cape, ZA  ·  🌐  Remote Worldwide            │
-  │                                                              │
-  └──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   👋  I'm actively looking for opportunities in:                 ║
+║                                                                  ║
+║   🛡️  AI Security / Threat Detection Engineering                 ║
+║   🤖  Machine Learning / MLOps Engineering                       ║
+║   💻  Full-Stack / Backend Development                           ║
+║   🔬  Security Research (Graduate / Junior / Collaboration)      ║
+║   🌐  Remote Worldwide  ·  🇿🇦 South Africa  ·  Relocation OK   ║
+║                                                                  ║
+║   Response time: < 24 hours  ·  Available: NOW                  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![Email](https://img.shields.io/badge/Send_Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luthando.candlovu30@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/27782765932)
+<!-- SOCIAL LINKS -->
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Site-00D4FF?style=for-the-badge&labelColor=0d1117)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼%20LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧%20EMAIL-Hire%20Me-EA4335?style=for-the-badge&labelColor=0d1117)](mailto:luthando.candlovu30@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/💬%20WHATSAPP-Chat-25D366?style=for-the-badge&labelColor=0d1117)](https://wa.me/27782765932)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/⚡%20GITHUB-Follow-FFFFFF?style=for-the-badge&labelColor=0d1117)](https://github.com/LuthandoCandlovu)
 
-<br/>
+<br/><br/>
 
-`📧 luthando.candlovu30@gmail.com` &nbsp;·&nbsp; `📱 +27 78 276 5932` &nbsp;·&nbsp; `📍 Eastern Cape, ZA 🇿🇦`
-
-<br/>
-
+<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security+is+not+a+product%2C+but+a+process.&author=Bruce+Schneier" width="80%"/>
+
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a33,50:0d1117,100:001a00&height=120&section=footer&text=⚡%20Innovating%20at%20the%20intersection%20of%20AI%20%26%20Security&fontSize=15&fontColor=00FF88&animation=fadeIn&fontAlignY=68" width="100%"/>
+</div>
 
-<br/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,30:001a0d,60:002211,100:000000&height=140&section=footer&text=⚡%20Luthando%20Candlovu%20·%20AI%20Security%20Researcher&fontSize=18&fontColor=00FF88&animation=fadeIn&fontAlignY=72&desc=Eastern%20Cape%2C%20South%20Africa%20🇿🇦%20→%20Global%20Impact&descSize=13&descColor=00D4FF&descAlignY=88"/>
 
-<sub>© 2026 Luthando Candlovu · AI Security Researcher & Developer · Eastern Cape, South Africa 🇿🇦</sub>
-
-<br/>
-
-[![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
-&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu?tab=followers)
-
+<div align="center">
+<sub>
+  <img src="https://img.shields.io/badge/Built%20with-🔐%20Purpose-00FF88?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Powered%20by-Curiosity%20%26%20Coffee-FF4500?style=flat-square&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/© 2026-Luthando%20Candlovu-00D4FF?style=flat-square&labelColor=0d1117"/>
+</sub>
 </div>
