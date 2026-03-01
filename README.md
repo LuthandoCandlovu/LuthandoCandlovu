@@ -1,7 +1,7 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:001a33,100:001a00&height=280&section=header&text=LUTHANDO%20CANDLOVU&fontSize=62&fontColor=00FF88&fontAlignY=42&desc=AI%20Security%20Developer%20%7C%20Deep%20Learning%20Researcher&descSize=17&descAlignY=63&descColor=00D4FF&animation=fadeIn"/>  
+<img width="100%" src="https://github.com/user-attachments/assets/832c6dda-0e31-4d03-a173-8b19de272172" alt="Luthando Candlovu — AI Security Developer | Deep Learning Researcher"/>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=860&height=45&lines=🛡️+Defending+the+digital+frontier+with+AI...;🤖+Building+zero-day+detection+systems...;🔬+Researching+Quantum+Cryptography+%26+Blockchain...;⚡+98.2%25+threat+detection+accuracy+achieved...;🌍+Eastern+Cape%2C+South+Africa+→+Global+Impact)](https://git.io/typing-svg)
