@@ -1,83 +1,133 @@
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              🔥  CINEMATIC HEADER — FULL REDESIGN  🔥           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- TOP WAVE BANNER — twinkling venom style -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020508,25:04111f,55:081a30,100:020508&height=220&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+
+<!-- ── MAIN HERO CARD ─────────────────────────────────────────── -->
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020508,30:061220,60:0a1f35,100:020508&height=320&section=header&text=LUTHANDO%20CANDLOVU&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=42&desc=AI%20Security%20Engineer%20%7C%20Deep%20Learning%20Researcher%20%7C%20Eastern%20Cape%20%F0%9F%87%BF%F0%9F%87%A6&descAlignY=62&descSize=16&descColor=00ff9d" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════  ANIMATED PROFILE PHOTO — HEADING  ═══════════════════ -->
-
-<!-- Left decorative animated sparks -->
-<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="55" alt="spark-left-1"/>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45" alt="tech-left"/>
-<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="40" alt="spark-left-2"/>
-
-&nbsp;&nbsp;
-
-<!-- 🔥 PROFILE PHOTO — rainbow capsule frame top -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,50:b06aff,100:00ff9d&height=8&section=header" width="160"/>
+<!-- ════ LEFT COL — PROFILE PHOTO + NEON FRAME ════ -->
+<td align="center" valign="middle" width="260">
 
 <br/>
 
-<!-- Neon glow ring using decorative GIF on each side of photo -->
-<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="28" alt="glow-left"/>
+<!-- Top animated arc -->
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="22"/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="30"/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="22"/>
+
+<br/>
+
+<!-- Neon top bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:b06aff,100:00ff9d&height=5&section=header" width="175"/>
+
+<!-- Photo row: glow GIF | photo | glow GIF -->
+<br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32"/>
 &nbsp;
-<!-- ✅ YOUR ACTUAL PROFILE PHOTO — small, circular, glowing -->
 <img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298"
-     width="145"
-     style="border-radius:50%; border:4px solid #00e5ff; box-shadow: 0 0 20px #00e5ff, 0 0 40px #b06aff;"
-     alt="Luthando Candlovu — AI Security Engineer"/>
+     width="130"
+     style="border-radius:50%;border:3px solid #00e5ff;"
+     alt="Luthando Candlovu"/>
 &nbsp;
-<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="28" alt="glow-right"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32"/>
+<br/>
+
+<!-- Neon bottom bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9d,50:b06aff,100:00e5ff&height=5&section=footer" width="175"/>
 
 <br/>
 
-<!-- Rainbow capsule frame bottom -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff9d,50:b06aff,100:00e5ff&height=8&section=footer" width="160"/>
+<!-- Bottom animated arc -->
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="22"/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="30"/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="22"/>
 
-&nbsp;&nbsp;
+<br/><br/>
 
-<!-- Right decorative animated sparks -->
-<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="40" alt="spark-right-1"/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45" alt="tech-right"/>
-<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="55" alt="spark-right-2"/>
+<!-- Identity pill badges -->
+![](https://img.shields.io/badge/🛡️_AI_Security-00FF9D?style=flat-square&labelColor=020508)
+<br/>
+![](https://img.shields.io/badge/🤖_Deep_Learning-00E5FF?style=flat-square&labelColor=020508)
+<br/>
+![](https://img.shields.io/badge/🌌_Astronomy-FF5E1A?style=flat-square&labelColor=020508)
+<br/>
+![](https://img.shields.io/badge/🇿🇦_Eastern_Cape_ZA-B06AFF?style=flat-square&labelColor=020508)
 
 <br/>
 
-<!-- Colourful animated badge row under photo -->
-![](https://img.shields.io/badge/🛡️_AI_Security-Engineer-00E5FF?style=flat-square&labelColor=020508)
-![](https://img.shields.io/badge/🤖_Deep_Learning-Researcher-B06AFF?style=flat-square&labelColor=020508)
-![](https://img.shields.io/badge/🌌_Astronomy-Certified-FF5E1A?style=flat-square&labelColor=020508)
-![](https://img.shields.io/badge/🇿🇦_Eastern-Cape_ZA-00FF9D?style=flat-square&labelColor=020508)
+</td>
+
+<!-- ════ SPACER ════ -->
+<td width="28"></td>
+
+<!-- ════ RIGHT COL — NAME + TYPING + STATS + LINKS ════ -->
+<td align="left" valign="middle" width="520">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=40&lines=🛡️+Defending+the+digital+frontier+with+AI+%26+Deep+Learning...;🤖+Building+zero-day+detection+systems+with+98.2%25+accuracy...;🔬+Researching+Quantum+Cryptography+%26+Blockchain+Security...;⚡+Real-time+threat+analysis+in+under+50ms...;🌍+Eastern+Cape%2C+South+Africa+→+Building+for+the+World...;🔐+Catching+zero-days+before+antivirus+ever+could...;🌌+Astronomy+meets+AI+—+Exploring+the+Universe+%26+Cyberspace...)](https://git.io/typing-svg)
+<!-- Big name -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=2000&color=00E5FF&center=false&vCenter=true&repeat=false&width=520&height=55&lines=LUTHANDO+CANDLOVU" alt="name"/>
+
+<!-- Subtitle typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=15&duration=2000&pause=600&color=00FF9D&center=false&vCenter=true&repeat=true&width=520&height=30&lines=⚡+AI+Security+Engineer;🔬+Deep+Learning+Researcher;🛡️+Zero-Day+Threat+Hunter;🌌+Astronomy+%26+Space+Enthusiast;🔐+Quantum+Cryptography+Explorer;🚀+Building+for+the+World+from+ZA" alt="subtitle-typing"/>
 
 <br/>
 
+<!-- Animated scanner line -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=12&duration=1800&pause=400&color=FF5E1A&center=false&vCenter=true&repeat=true&width=520&height=22&lines=▌+SCANNING...+98.2%25+accuracy+·+%3C50ms+latency+·+15%2B+apps+shipped" alt="stats-line"/>
+
+<br/><br/>
+
+<!-- Status badges — tight row -->
 ![](https://img.shields.io/badge/◉_OPEN_TO_WORK-00FF9D?style=for-the-badge&labelColor=020508)
 ![](https://img.shields.io/badge/REMOTE-WORLDWIDE-00E5FF?style=for-the-badge&labelColor=020508)
+<br/>
 ![](https://img.shields.io/badge/FOCUS-AI_SECURITY-FF5E1A?style=for-the-badge&labelColor=020508)
 ![](https://img.shields.io/badge/BSc-COMPUTER_SCIENCE-B06AFF?style=for-the-badge&labelColor=020508)
+<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=020508)
 
 <br/><br/>
 
+<!-- Social links -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-020508?style=for-the-badge&logo=googlechrome&logoColor=00E5FF)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-020508?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
+<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-020508?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
 [![Email](https://img.shields.io/badge/📧_Hire_Me-020508?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:luthando.candlovu30@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-020508?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/27782765932)
-
-</div>
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-020508?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/27782765932)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,12,24&height=3&section=header" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ── ANIMATED FULL QUOTE BAR ──────────────────────────────────── -->
+<div align="center">
+<br/>
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="32"/>
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=32&lines=💬+%22I+catch+zero-days+before+antivirus+even+knows+they+exist%22;⚡+Real-time+threat+analysis+·+AI-powered+·+Built+from+Eastern+Cape+🇿🇦;🌌+Where+AI+Security+meets+Astronomy+—+Exploring+the+cosmos+%26+cyberspace" alt="quote"/>
+&nbsp;
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="32"/>
+
+<br/><br/>
+
+<!-- Animated glowing divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,20:b06aff,50:00ff9d,80:ff5e1a,100:00e5ff&height=4&section=header" width="100%"/>
+
+</div>
 
 <br/>
 
