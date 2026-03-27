@@ -8,7 +8,17 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=40&lines=🛡️+Defending+the+digital+frontier+with+AI+%26+Deep+Learning...;🤖+Building+zero-day+detection+systems+with+98.2%25+accuracy...;🔬+Researching+Quantum+Cryptography+%26+Blockchain+Security...;⚡+Real-time+threat+analysis+in+under+50ms...;🌍+Eastern+Cape%2C+South+Africa+→+Building+for+the+World...;🔐+Catching+zero-days+before+antivirus+ever+could...)](https://git.io/typing-svg)
+<!-- ═══════════════════  ANIMATED PROFILE IMAGE IN HEADING  ═══════════════════ -->
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90" style="border-radius:50%;border:3px solid #00e5ff;" alt="animated-profile"/>
+&nbsp;
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="55" alt="ai-animation"/>
+&nbsp;
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90" style="border-radius:50%;border:3px solid #00ff9d;" alt="animated-profile-2"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=40&lines=🛡️+Defending+the+digital+frontier+with+AI+%26+Deep+Learning...;🤖+Building+zero-day+detection+systems+with+98.2%25+accuracy...;🔬+Researching+Quantum+Cryptography+%26+Blockchain+Security...;⚡+Real-time+threat+analysis+in+under+50ms...;🌍+Eastern+Cape%2C+South+Africa+→+Building+for+the+World...;🔐+Catching+zero-days+before+antivirus+ever+could...;🌌+Astronomy+meets+AI+—+Exploring+the+Universe+%26+Cyberspace...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -60,7 +70,7 @@
 │ university : University of Fort Hare    │
 │ experience : 3+ Years                   │
 │ shipped    : 15+ Production Apps        │
-│ certs      : 8 Professional             │
+│ certs      : 10 Professional            │
 ├─────────────────────────────────────────┤
 │           ACTIVE RESEARCH               │
 ├─────────────────────────────────────────┤
@@ -89,6 +99,10 @@
 
 <br/><br/>
 
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Matrix GIF"/>
+
+<br/><br/>
+
 ![](https://img.shields.io/badge/98.2%25-Threat_Detection_Accuracy-00FF9D?style=flat-square&labelColor=020508)
 ![](https://img.shields.io/badge/<50ms-Real_Time_Analysis-00E5FF?style=flat-square&labelColor=020508)
 
@@ -99,11 +113,22 @@
 <br/>
 
 <div align="center">
+
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="55"/>
 &nbsp;&nbsp;
 <em><strong>"I catch zero-days before antivirus even knows they exist."</strong></em>
 &nbsp;&nbsp;
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="55"/>
+
+<br/><br/>
+
+<!-- Extra animated divider row -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
+&nbsp;
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"/>
+&nbsp;
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"/>
+
 </div>
 
 <br/>
@@ -846,6 +871,7 @@ gantt
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       CERTIFICATIONS                            -->
+<!--               ✅ NOW WITH 10 VERIFIED CERTS                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -853,8 +879,16 @@ gantt
 ## `> certifications.verified`
 
 <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="38"/>
-&nbsp; **8 Professional Certifications — All Verified** &nbsp;
+&nbsp; **10 Professional Certifications — All Verified** &nbsp;
 <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="38"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="45" alt="star-gif"/>
+&nbsp;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=600&height=28&lines=🏅+AI+Governance+·+Cisco+·+Linux+·+Hackathon+Winner...;🎓+BSc+Computer+Science+·+IC+Certificate+·+Astronomy...;⭐+Academic+Excellence+I+%26+II+·+Professional+Training...)](https://git.io/typing-svg)
+&nbsp;
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="45" alt="star-gif"/>
 
 </div>
 
@@ -864,7 +898,8 @@ gantt
 <tr>
 <td align="center" width="25%">
 
-**`01`**<br/>🤖<br/>
+**`01`**<br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="ai-gif"/><br/>
 **AI Governance**<br/>
 <sub>Securiti Education</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf)
@@ -872,7 +907,8 @@ gantt
 </td>
 <td align="center" width="25%">
 
-**`02`**<br/>🌐<br/>
+**`02`**<br/>
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokznq/giphy.gif" width="40" alt="network-gif"/><br/>
 **Cisco Networking**<br/>
 <sub>Cisco Systems</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf)
@@ -880,7 +916,8 @@ gantt
 </td>
 <td align="center" width="25%">
 
-**`03`**<br/>🐧<br/>
+**`03`**<br/>
+<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="40" alt="linux-gif"/><br/>
 **Linux Professional**<br/>
 <sub>Linux Professional Inst.</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf)
@@ -888,7 +925,8 @@ gantt
 </td>
 <td align="center" width="25%">
 
-**`04`**<br/>🏆<br/>
+**`04`**<br/>
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="40" alt="trophy-gif"/><br/>
 **Hackathon Winner**<br/>
 <sub>Competitive Programming</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf)
@@ -898,7 +936,8 @@ gantt
 <tr>
 <td align="center" width="25%">
 
-**`05`**<br/>🎓<br/>
+**`05`**<br/>
+<img src="https://media.giphy.com/media/3oKIPrc2ngFZ6BTyww/giphy.gif" width="40" alt="grad-gif"/><br/>
 **BSc Computer Science**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf)
@@ -906,7 +945,8 @@ gantt
 </td>
 <td align="center" width="25%">
 
-**`06`**<br/>📜<br/>
+**`06`**<br/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="40" alt="cert-gif"/><br/>
 **Professional Training**<br/>
 <sub>Training Institute</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437205/Certificate.pdf)
@@ -914,7 +954,8 @@ gantt
 </td>
 <td align="center" width="25%">
 
-**`07`**<br/>⭐<br/>
+**`07`**<br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="40" alt="star-gif"/><br/>
 **Academic Excellence I**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf)
@@ -922,14 +963,57 @@ gantt
 </td>
 <td align="center" width="25%">
 
-**`08`**<br/>⭐<br/>
+**`08`**<br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="40" alt="star-gif-2"/><br/>
 **Academic Excellence II**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-020508?style=flat-square&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf)
 
 </td>
 </tr>
+
+<!-- ══════════════  🆕 NEW CERTIFICATES — 09 & 10  ══════════════ -->
+<tr>
+<td align="center" width="25%" colspan="2">
+
+**`09`**<br/>
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHiO/giphy.gif" width="55" alt="ic-gif"/>
+
+<br/>
+
+**IC Certificate**<br/>
+<sub>Industry Credential</sub><br/><br/>
+![](https://img.shields.io/badge/🆕_NEW-FF5E1A?style=flat-square&labelColor=020508)
+<br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-020508?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/26298015/Luthando.Candlovu-ic-Certificate.pdf)
+
+</td>
+<td align="center" width="25%" colspan="2">
+
+**`10`**<br/>
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="55" alt="astronomy-gif"/>
+
+<br/>
+
+**🌌 Astronomy Certification**<br/>
+<sub>Space & Astrophysics</sub><br/><br/>
+![](https://img.shields.io/badge/🆕_NEW-FF5E1A?style=flat-square&labelColor=020508)
+<br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-020508?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000)](https://github.com/user-attachments/files/26298021/Astronomy.certification.Luthando.Candlo.pdf)
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="35"/>
+&nbsp;
+<em><strong>10 Certifications spanning AI, Security, Networking, Linux, Astronomy & Academic Excellence</strong></em>
+&nbsp;
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="35"/>
+</div>
 
 <br/>
 
@@ -1021,6 +1105,10 @@ mindmap
       Kali Linux & Pentesting
       Malware Analysis
       Blockchain and Quantum
+    🌌 Astronomy & Science
+      Astrophysics Research
+      Space Data Analysis
+      Scientific Computing
     📱 Mobile & Web
       React Native · Expo
       TypeScript · Next.js
@@ -1067,6 +1155,7 @@ mindmap
 ║   📱  Mobile Development            💻  Full-Stack Development      ║
 ║   🔬  Security Research             ☁️  Cloud & DevOps              ║
 ║   🎓  Academic Collaboration        🌐  Open-Source Contribution    ║
+║   🌌  Astronomy & Space Research    🔐  Quantum Cryptography        ║
 ║                                                                      ║
 ║   📍  Eastern Cape, South Africa    🌍  Remote Worldwide  ✅        ║
 ║   📧  luthando.candlovu30@gmail.com                                 ║
@@ -1097,6 +1186,19 @@ mindmap
 [![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
 &nbsp;&nbsp;
 [![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu?tab=followers)
+
+<br/><br/>
+
+<!-- Extra animated row above footer -->
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="40"/>
+&nbsp;
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/>
+&nbsp;
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="40"/>
+&nbsp;
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"/>
+&nbsp;
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="40"/>
 
 <br/><br/>
 
