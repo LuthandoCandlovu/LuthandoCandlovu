@@ -4,17 +4,54 @@
 <!--                     ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020508,30:061220,60:0a1f35,100:020508&height=300&section=header&text=LUTHANDO%20CANDLOVU&fontSize=55&fontColor=00e5ff&animation=twinkling&fontAlignY=45&desc=AI%20Security%20Engineer%20%7C%20Deep%20Learning%20Researcher%20%7C%20Eastern%20Cape%20%F0%9F%87%BF%F0%9F%87%A6&descAlignY=65&descSize=16&descColor=00ff9d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020508,30:061220,60:0a1f35,100:020508&height=320&section=header&text=LUTHANDO%20CANDLOVU&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=42&desc=AI%20Security%20Engineer%20%7C%20Deep%20Learning%20Researcher%20%7C%20Eastern%20Cape%20%F0%9F%87%BF%F0%9F%87%A6&descAlignY=62&descSize=16&descColor=00ff9d" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════  ANIMATED PROFILE IMAGE IN HEADING  ═══════════════════ -->
+<!-- ═══════════════════  ANIMATED PROFILE PHOTO — HEADING  ═══════════════════ -->
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90" style="border-radius:50%;border:3px solid #00e5ff;" alt="animated-profile"/>
+<!-- Left decorative animated sparks -->
+<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="55" alt="spark-left-1"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45" alt="tech-left"/>
+<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="40" alt="spark-left-2"/>
+
+&nbsp;&nbsp;
+
+<!-- 🔥 PROFILE PHOTO — rainbow capsule frame top -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,50:b06aff,100:00ff9d&height=8&section=header" width="160"/>
+
+<br/>
+
+<!-- Neon glow ring using decorative GIF on each side of photo -->
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="28" alt="glow-left"/>
 &nbsp;
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="55" alt="ai-animation"/>
+<!-- ✅ YOUR ACTUAL PROFILE PHOTO — small, circular, glowing -->
+<img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298"
+     width="145"
+     style="border-radius:50%; border:4px solid #00e5ff; box-shadow: 0 0 20px #00e5ff, 0 0 40px #b06aff;"
+     alt="Luthando Candlovu — AI Security Engineer"/>
 &nbsp;
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90" style="border-radius:50%;border:3px solid #00ff9d;" alt="animated-profile-2"/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="28" alt="glow-right"/>
+
+<br/>
+
+<!-- Rainbow capsule frame bottom -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff9d,50:b06aff,100:00e5ff&height=8&section=footer" width="160"/>
+
+&nbsp;&nbsp;
+
+<!-- Right decorative animated sparks -->
+<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="40" alt="spark-right-1"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45" alt="tech-right"/>
+<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="55" alt="spark-right-2"/>
+
+<br/>
+
+<!-- Colourful animated badge row under photo -->
+![](https://img.shields.io/badge/🛡️_AI_Security-Engineer-00E5FF?style=flat-square&labelColor=020508)
+![](https://img.shields.io/badge/🤖_Deep_Learning-Researcher-B06AFF?style=flat-square&labelColor=020508)
+![](https://img.shields.io/badge/🌌_Astronomy-Certified-FF5E1A?style=flat-square&labelColor=020508)
+![](https://img.shields.io/badge/🇿🇦_Eastern-Cape_ZA-00FF9D?style=flat-square&labelColor=020508)
 
 <br/>
 
