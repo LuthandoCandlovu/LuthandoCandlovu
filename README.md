@@ -1,18 +1,25 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                 🚀  LUTHANDO CANDLOVU — GITHUB README  🚀          -->
+<!--            🌌  LUTHANDO CANDLOVU — GITHUB README  🌌               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- HEADER — Slice type: diagonal modern cut, electric aurora gradient -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:020010,20:0d0030,50:1a0050,80:2d0070,100:020010&height=260&section=header&text=LUTHANDO%20CANDLOVU&fontSize=52&fontColor=FFD700&fontAlignY=52&animation=fadeIn&desc=⚡%20AI%20Security%20Engineer%20%20%7C%20%20🔬%20Deep%20Learning%20Researcher%20%20%7C%20%20🌌%20Cosmos%20Explorer&descSize=14&descAlignY=72&descColor=c084fc&reversal=false" width="100%"/>
+<!-- HEADER — Waving banner with deep cyber neon gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0020,45:1a004a,70:3d0080,90:6600cc,100:9900ff&height=300&section=header&text=LUTHANDO%20CANDLOVU&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=⚡%20AI%20Security%20Engineer%20%20%7C%20%20🔬%20Deep%20Learning%20Researcher%20%20%7C%20%20🌌%20Cosmos%20Explorer&descSize=15&descAlignY=65&descColor=c084fc" width="100%"/>
 
 <br/>
 
-<!-- BOOT SEQUENCE TERMINAL — first impression moment -->
+<!-- ANIMATED TYPING BANNER -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=900&height=50&lines=🛡️+Zero-Day+Threat+Hunter+|+98.2%25+Detection+Accuracy;🌌+AI+Security+Engineer+from+Eastern+Cape%2C+South+Africa+🇿🇦;🔬+Deep+Learning+%7C+Blockchain+%7C+Quantum+Cryptography;🚀+15%2B+Apps+Shipped+%7C+10+Certifications+%7C+3+Publications;⚡+Sub-50ms+Response+%7C+Building+for+the+World" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- BOOT SEQUENCE TERMINAL -->
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  SYSTEM BOOT  ·  THREAT CORE v3.1.4  ·  EASTERN CAPE NODE  🇿🇦       ║
+║  ⚡ SYSTEM BOOT  ·  THREAT CORE v3.1.4  ·  EASTERN CAPE NODE  🇿🇦    ║
 ╠═══════════════════════════════════════════════════════════════════════╣
 ║  [████████████████████████████████████████]  100%  INITIALISING...   ║
 ║                                                                       ║
@@ -31,83 +38,75 @@
 
 <br/>
 
-<!-- ── MAIN HERO ──────────────────────────────────────────────────── -->
+<!-- RAINBOW DIVIDER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<br/>
+
+<!-- ══ MAIN HERO SECTION ════════════════════════════════════════════ -->
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-
-<!-- LEFT — PROFILE PHOTO -->
-<td align="center" valign="middle" width="250">
+<td align="center" valign="middle" width="260">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,33:c084fc,66:f472b6,100:FFD700&height=4&section=header" width="190"/>
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298"
-     width="135"
-     style="border-radius:50%;"
-     alt="Luthando Candlovu"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,33:c084fc,66:FFD700,100:f472b6&height=4&section=footer" width="190"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDM2NWx5NHY5dGZ0ZnFkY2lsN3pieXpoaWRiMHhiZjlyaDg4NDdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="180" style="border-radius:50%;" alt="cyber"/>
 
 <br/><br/>
 
-<!-- Live status indicator -->
-![](https://img.shields.io/badge/◉_LIVE-Building_Tomorrow-FFD700?style=flat-square&labelColor=020010)
+<img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298"
+     width="130"
+     style="border-radius:50%;"
+     alt="Luthando Candlovu"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/◉_STATUS-BUILDING_NOW-00ff88?style=flat-square&labelColor=000000)
 
 <br/>
 
-![](https://img.shields.io/badge/🛡️_AI_Security-c084fc?style=flat-square&labelColor=1a0050&color=1a0050)
+![](https://img.shields.io/badge/🛡️_AI_Security-9900ff?style=flat-square&labelColor=0a0020)
 <br/>
-![](https://img.shields.io/badge/🤖_Deep_Learning-f472b6?style=flat-square&labelColor=1a0050&color=1a0050)
+![](https://img.shields.io/badge/🤖_Deep_Learning-cc00ff?style=flat-square&labelColor=0a0020)
 <br/>
-![](https://img.shields.io/badge/🌌_Astronomy_Nerd-FFD700?style=flat-square&labelColor=1a0050&color=1a0050)
+![](https://img.shields.io/badge/🌌_Astronomy-FFD700?style=flat-square&labelColor=0a0020)
 <br/>
-![](https://img.shields.io/badge/🇿🇦_Eastern_Cape-a78bfa?style=flat-square&labelColor=1a0050&color=1a0050)
+![](https://img.shields.io/badge/🇿🇦_Eastern_Cape-c084fc?style=flat-square&labelColor=0a0020)
 
 <br/>
 
 </td>
 
-<!-- SPACER -->
-<td width="28"></td>
+<td width="30"></td>
 
-<!-- RIGHT — IDENTITY BLOCK -->
 <td align="left" valign="middle" width="520">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2800&pause=9999&color=FFD700&center=false&vCenter=true&repeat=false&width=520&height=60&lines=LUTHANDO+CANDLOVU" alt="name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=27&duration=2800&pause=3000&color=FFD700&center=false&vCenter=true&repeat=false&width=520&height=55&lines=LUTHANDO+CANDLOVU" alt="name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=1800&pause=400&color=c084fc&center=false&vCenter=true&repeat=true&width=520&height=28&lines=⚡+AI+Security+Engineer;🔬+Deep+Learning+Researcher;🛡️+Zero-Day+Threat+Hunter;🌌+Astronomy+%26+Space+Enthusiast;🔐+Quantum+Cryptography+Explorer;🧬+Blockchain+Security+Architect;🚀+Building+for+the+World+from+ZA" alt="roles"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=2000&pause=500&color=c084fc&center=false&vCenter=true&repeat=true&width=520&height=28&lines=⚡+AI+Security+Engineer;🔬+Deep+Learning+Researcher;🛡️+Zero-Day+Threat+Hunter;🌌+Astronomy+%26+Space+Enthusiast;🔐+Quantum+Cryptography+Explorer;🧬+Blockchain+Security+Architect;🚀+Building+for+the+World+from+ZA" alt="roles"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=12&duration=1600&pause=400&color=f472b6&center=false&vCenter=true&repeat=true&width=520&height=22&lines=◈+Threat+accuracy+98.2%25+·+Real-time+%3C50ms+·+15%2B+apps+shipped+·+10+certs" alt="stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=12&duration=1600&pause=400&color=00ff88&center=false&vCenter=true&repeat=true&width=520&height=22&lines=◈+Threat+accuracy+98.2%25+·+Real-time+<50ms+·+15%2B+apps+·+10+certs" alt="stats"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/◉_OPEN_TO_WORK-FFD700?style=for-the-badge&labelColor=020010)
-![](https://img.shields.io/badge/REMOTE-WORLDWIDE-c084fc?style=for-the-badge&labelColor=020010)
+![](https://img.shields.io/badge/◉_OPEN_TO_WORK-FFD700?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/REMOTE-WORLDWIDE-9900ff?style=for-the-badge&labelColor=000000)
 <br/>
-![](https://img.shields.io/badge/FOCUS-AI_SECURITY-f472b6?style=for-the-badge&labelColor=020010)
-![](https://img.shields.io/badge/BSc-COMPUTER_SCIENCE-a78bfa?style=for-the-badge&labelColor=020010)
+![](https://img.shields.io/badge/FOCUS-AI_SECURITY-c084fc?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/BSc-COMPUTER_SCIENCE-00ff88?style=for-the-badge&labelColor=000000)
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=020010)
+![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=9900ff&label=PROFILE+VIEWS&labelColor=000000)
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-020010?style=for-the-badge&logo=googlechrome&logoColor=FFD700)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020010?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![GitHub](https://img.shields.io/badge/GitHub-020010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
 <br/>
-[![Email](https://img.shields.io/badge/📧_Hire_Me-020010?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:luthando.candlovu30@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-020010?style=for-the-badge&logo=whatsapp&logoColor=4ADE80)](https://wa.me/27782765932)
-
-<br/>
+[![Email](https://img.shields.io/badge/📧_Hire_Me-000000?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:luthando.candlovu30@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=4ADE80)](https://wa.me/27782765932)
 
 </td>
 </tr>
@@ -115,18 +114,16 @@
 
 </div>
 
-<!-- QUOTE BANNER -->
+<!-- ANIMATED QUOTE TICKER -->
 <div align="center">
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=3200&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=800&height=30&lines=✦+%22I+catch+zero-days+before+antivirus+even+knows+they+exist.%22+✦;🌌+Where+Cyberspace+meets+Outer+Space+—+Born+in+Eastern+Cape,+Built+for+the+World;⚡+98.2%25+Accuracy+·+Sub-50ms+Response+·+Zero+Compromises" alt="quote"/>
-
-<br/><br/>
-
-<!-- Comet divider: asteroid belt shimmer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=3200&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=850&height=30&lines=✦+%22I+catch+zero-days+before+antivirus+even+knows+they+exist.%22+✦;🌌+Where+Cyberspace+meets+Outer+Space+—+Born+in+Eastern+Cape%2C+Built+for+the+World;⚡+98.2%25+Accuracy+·+Sub-50ms+Response+·+Zero+Compromises" alt="quote"/>
 </div>
+
+<br/>
+
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -136,7 +133,13 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/> `> quick.stats`
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="38"/> `> quick.stats`
+
+</div>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 
 </div>
 
@@ -159,7 +162,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -168,7 +171,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;<code>> whoami</code></h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp;<code>> whoami</code></h2>
 </div>
 
 <br/>
@@ -204,23 +207,22 @@
 ║ ✅ Full-time   ✅ Freelance               ║
 ║ ✅ Research    ✅ Consulting              ║
 ║ ✅ Remote Worldwide                       ║
-║ ✅ Relocation: Negotiable                 ║
 ╚═══════════════════════════════════════════╝
 ```
 
 </td>
 <td width="48%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding GIF"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="AI GIF"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="Matrix GIF"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/98.2%25-Threat_Detection-FFD700?style=flat-square&labelColor=020010)
-![](https://img.shields.io/badge/<50ms-Real_Time-c084fc?style=flat-square&labelColor=020010)
+![](https://img.shields.io/badge/98.2%25-Threat_Detection-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/<50ms-Real_Time-9900ff?style=flat-square&labelColor=000000)
 
 </td>
 </tr>
@@ -228,7 +230,6 @@
 
 <br/>
 
-<!-- ── MISSION STATEMENT BLOCK ──────────────────────────────────── -->
 <div align="center">
 
 > ### 🌌 _"I sit at the exact intersection of two infinite frontiers —_
@@ -241,7 +242,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -251,7 +252,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"/> `> timeline.story`
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="38"/> `> timeline.story`
 
 **From Eastern Cape to Global Impact — The Journey**
 
@@ -293,7 +294,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -303,8 +304,14 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="35"/> `> now.building`
+## <img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="38"/> `> now.building`
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </div>
 
 <br/>
@@ -315,41 +322,41 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="90"/>
 
 ### 🛡️ APT Detection v2
 **Advanced Persistent Threat**
 behavioural detection engine with
 autonomous countermeasures
 
-![](https://img.shields.io/badge/Progress-80%25-FFD700?style=flat-square&labelColor=020010)
-![](https://img.shields.io/badge/Status-ACTIVE-4ADE80?style=flat-square&labelColor=020010)
+![](https://img.shields.io/badge/Progress-80%25-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Status-ACTIVE-00ff88?style=flat-square&labelColor=000000)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90"/>
 
 ### ⚛️ Quantum Cryptography
 **Post-quantum resistant** protocols
 for tomorrow's threat landscape.
 Research phase ongoing.
 
-![](https://img.shields.io/badge/Progress-35%25-c084fc?style=flat-square&labelColor=020010)
-![](https://img.shields.io/badge/Status-RESEARCH-f472b6?style=flat-square&labelColor=020010)
+![](https://img.shields.io/badge/Progress-35%25-9900ff?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Status-RESEARCH-c084fc?style=flat-square&labelColor=000000)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="90"/>
 
 ### 🔗 Blockchain Auditor AI
 **Smart contract vulnerability**
 scanner powered by LLM reasoning
 + static analysis fusion.
 
-![](https://img.shields.io/badge/Progress-55%25-a78bfa?style=flat-square&labelColor=020010)
-![](https://img.shields.io/badge/Status-IN_PROGRESS-60A5FA?style=flat-square&labelColor=020010)
+![](https://img.shields.io/badge/Progress-55%25-cc00ff?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Status-IN_PROGRESS-60A5FA?style=flat-square&labelColor=000000)
 
 </td>
 </tr>
@@ -359,7 +366,7 @@ scanner powered by LLM reasoning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -369,7 +376,7 @@ scanner powered by LLM reasoning
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"/> `> system.architecture`
+## <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="38"/> `> system.architecture`
 
 **AI Security Core — Full Stack Design**
 
@@ -438,10 +445,10 @@ graph TB
     CORE --> H & I & J & K
     H & I & J & K --> L & M & N & O
 
-    style CORE fill:#0d0030,stroke:#c084fc,stroke-width:2px,color:#e9d5ff
+    style CORE fill:#0d0030,stroke:#9900ff,stroke-width:2px,color:#e9d5ff
     style INGEST fill:#0a001a,stroke:#FFD700,stroke-width:1px,color:#fef9c3
-    style MODELS fill:#0a001a,stroke:#f472b6,stroke-width:1px,color:#fce7f3
-    style RESPONSE fill:#0a001a,stroke:#4ADE80,stroke-width:1px,color:#dcfce7
+    style MODELS fill:#0a001a,stroke:#cc00ff,stroke-width:1px,color:#fce7f3
+    style RESPONSE fill:#0a001a,stroke:#00ff88,stroke-width:1px,color:#dcfce7
 ```
 
 <br/>
@@ -463,10 +470,10 @@ flowchart LR
     EVAL -->|"re-train loop"| TRAIN
     EVAL --> INFER --> ALERT
 
-    classDef input fill:#020010,stroke:#FFD700,color:#FFD700
-    classDef process fill:#020010,stroke:#c084fc,color:#c084fc
-    classDef model fill:#020010,stroke:#f472b6,color:#f472b6
-    classDef output fill:#020010,stroke:#4ADE80,color:#4ADE80
+    classDef input fill:#000000,stroke:#FFD700,color:#FFD700
+    classDef process fill:#000000,stroke:#9900ff,color:#9900ff
+    classDef model fill:#000000,stroke:#cc00ff,color:#cc00ff
+    classDef output fill:#000000,stroke:#00ff88,color:#00ff88
 ```
 
 <br/>
@@ -492,103 +499,18 @@ flowchart TD
     THREAT --> REPORT["📊 Threat Report"]:::action
     THREAT --> NOTIFY["📡 Alert Dispatch — SIEM · SOAR"]:::action
 
-    classDef node fill:#020010,stroke:#c084fc,color:#e9d5ff
-    classDef process fill:#020010,stroke:#c084fc,color:#c084fc
-    classDef model fill:#0d0030,stroke:#f472b6,color:#f472b6,stroke-width:2px
-    classDef ensemble fill:#020010,stroke:#FFD700,color:#FFD700,stroke-width:2px
-    classDef alert fill:#1a0010,stroke:#f472b6,color:#f472b6
-    classDef safe fill:#001a10,stroke:#4ADE80,color:#4ADE80
-    classDef action fill:#020010,stroke:#60A5FA,color:#60A5FA
+    classDef node fill:#000000,stroke:#9900ff,color:#e9d5ff
+    classDef process fill:#000000,stroke:#9900ff,color:#9900ff
+    classDef model fill:#0d0030,stroke:#cc00ff,color:#cc00ff,stroke-width:2px
+    classDef ensemble fill:#000000,stroke:#FFD700,color:#FFD700,stroke-width:2px
+    classDef alert fill:#1a0010,stroke:#cc00ff,color:#cc00ff
+    classDef safe fill:#001a10,stroke:#00ff88,color:#00ff88
+    classDef action fill:#000000,stroke:#60A5FA,color:#60A5FA
 ```
 
 <br/>
 
-### 📱 Layer 5 — Vula Motor Emergency Sequence
-
-```mermaid
-sequenceDiagram
-    actor Driver as 👤 Driver
-    participant App as 📱 React Native App
-    participant FB as 🔥 Firebase RT DB
-    participant GPS as 📍 Maps / GPS API
-    participant ES as 🚑 Emergency Services
-    participant Resp as 🔔 Nearby Responders
-
-    Driver->>App: Triggers SOS button
-    App->>App: Capture current location
-    App->>FB: Write emergency record
-    App->>GPS: Request optimal route
-
-    par Parallel Dispatch
-        FB->>ES: Push live alert + location
-        FB->>Resp: Push notification to nearby
-    end
-
-    GPS->>App: Return ETA & directions
-    ES->>App: Confirm dispatch + ETA
-    App->>Driver: Display ETA & live status
-
-    loop Live Updates every 3s
-        App->>FB: Stream location delta
-        FB->>ES: Sync updated coordinates
-    end
-
-    ES->>App: Status: ARRIVED
-    App->>Driver: ✅ Emergency resolved
-```
-
-<br/>
-
-### 🧠 Layer 6 — LSTM Stock Architecture
-
-```mermaid
-graph LR
-    YF["📊 yfinance"]:::input
-    NORM["📐 MinMaxScaler"]:::process
-    WIN["🪟 Window 60-day"]:::process
-    L1["🧠 LSTM 128\nreturn_seq=True"]:::lstm
-    L2["🧠 LSTM 64\nreturn_seq=False"]:::lstm
-    DROP["💧 Dropout 0.2"]:::reg
-    DENSE["🎯 Dense(1)"]:::output
-    PRED["📈 Price Forecast"]:::result
-
-    YF --> NORM --> WIN --> L1 --> L2 --> DROP --> DENSE --> PRED
-
-    classDef input fill:#020010,stroke:#FFD700,color:#FFD700
-    classDef process fill:#020010,stroke:#c084fc,color:#c084fc
-    classDef lstm fill:#0d0030,stroke:#f472b6,color:#f472b6,stroke-width:2px
-    classDef reg fill:#020010,stroke:#f472b6,color:#f472b6
-    classDef output fill:#020010,stroke:#c084fc,color:#c084fc
-    classDef result fill:#020010,stroke:#FFD700,color:#FFD700
-```
-
-<br/>
-
-### 💬 Layer 7 — CodeSage AI Review Flow
-
-```mermaid
-sequenceDiagram
-    participant Dev as 👨‍💻 Developer
-    participant API as ⚡ FastAPI Backend
-    participant AST as 🔍 AST Static Scanner
-    participant CVE as 🗃️ CVE Database
-    participant LLM as 🤖 LLM Engine
-    participant Out as 📋 Report Output
-
-    Dev->>API: Submit code (any language)
-    API->>AST: Parse AST + extract patterns
-    AST->>CVE: Lookup known vulnerability signatures
-    CVE-->>AST: Return CVE matches + OWASP tags
-    AST->>LLM: Context + vulnerability findings
-    LLM->>LLM: Deep reasoning + fix generation
-    LLM-->>API: Structured review + diffs
-    API-->>Out: Security report + fix suggestions
-    Out-->>Dev: Full audit with severity ratings
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -598,9 +520,11 @@ sequenceDiagram
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"/> `> projects.featured`
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="38"/> `> projects.featured`
 
 **Production-Grade Systems — Built, Deployed, Defended**
+
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500"/>
 
 </div>
 
@@ -614,10 +538,10 @@ sequenceDiagram
 <tr>
 <td width="58%" valign="top">
 
-[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-020010?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/zero-day-detection)
-![accuracy](https://img.shields.io/badge/Accuracy-98.2%25-FFD700?style=for-the-badge&labelColor=020010)
-![latency](https://img.shields.io/badge/Latency-<50ms-c084fc?style=for-the-badge&labelColor=020010)
-![status](https://img.shields.io/badge/Status-◉_LIVE-4ADE80?style=for-the-badge&labelColor=020010)
+[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/zero-day-detection)
+![accuracy](https://img.shields.io/badge/Accuracy-98.2%25-FFD700?style=for-the-badge&labelColor=000000)
+![latency](https://img.shields.io/badge/Latency-<50ms-9900ff?style=for-the-badge&labelColor=000000)
+![status](https://img.shields.io/badge/Status-◉_LIVE-00ff88?style=for-the-badge&labelColor=000000)
 
 > **Deep neural network detecting novel, unseen threats in live network traffic — before antivirus signatures are written.**
 
@@ -645,6 +569,8 @@ sequenceDiagram
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%"/>
 
+<img src="https://media.giphy.com/media/3o7aD4ubpfFaIFrNnW/giphy.gif" width="100%"/>
+
 ```
 ╔══════════════════════╗
 ║   THREAT DASHBOARD   ║
@@ -671,6 +597,8 @@ sequenceDiagram
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100%"/>
 
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100%"/>
+
 ```
 ╔══════════════════════╗
 ║   CODESAGE SCANNER   ║
@@ -688,10 +616,10 @@ sequenceDiagram
 </td>
 <td width="58%" valign="top">
 
-[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-020010?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/codesage-ai)
-![engine](https://img.shields.io/badge/Engine-LLM_Powered-c084fc?style=for-the-badge&labelColor=020010)
-![api](https://img.shields.io/badge/Backend-FastAPI-4ADE80?style=for-the-badge&labelColor=020010)
-![status](https://img.shields.io/badge/Status-◉_LIVE-4ADE80?style=for-the-badge&labelColor=020010)
+[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/codesage-ai)
+![engine](https://img.shields.io/badge/Engine-LLM_Powered-9900ff?style=for-the-badge&labelColor=000000)
+![api](https://img.shields.io/badge/Backend-FastAPI-00ff88?style=for-the-badge&labelColor=000000)
+![status](https://img.shields.io/badge/Status-◉_LIVE-00ff88?style=for-the-badge&labelColor=000000)
 
 > **AI-powered code review agent fusing static analysis with LLM deep reasoning to surface vulnerabilities with precise fix suggestions.**
 
@@ -719,10 +647,10 @@ Stack: Python · FastAPI · LLM API · AST · Docker
 <tr>
 <td width="58%" valign="top">
 
-[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-020010?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
-![award](https://img.shields.io/badge/🏆_HACKATHON-1st_PLACE-FFD700?style=for-the-badge&labelColor=020010)
-![platform](https://img.shields.io/badge/iOS_+_Android-React_Native-60A5FA?style=for-the-badge&labelColor=020010)
-![sync](https://img.shields.io/badge/Realtime-Firebase-f472b6?style=for-the-badge&labelColor=020010)
+[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
+![award](https://img.shields.io/badge/🏆_HACKATHON-1st_PLACE-FFD700?style=for-the-badge&labelColor=000000)
+![platform](https://img.shields.io/badge/iOS_+_Android-React_Native-60A5FA?style=for-the-badge&labelColor=000000)
+![sync](https://img.shields.io/badge/Realtime-Firebase-cc00ff?style=for-the-badge&labelColor=000000)
 
 > **Cross-platform emergency response app with one-tap SOS, real-time GPS streaming to emergency services, and community responder dispatch. First place hackathon winner.**
 
@@ -743,6 +671,8 @@ Stack: React Native · TypeScript · Expo
 <td width="42%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+
+<img src="https://media.giphy.com/media/l1J9CYFBhMBVWD6ly/giphy.gif" width="100%"/>
 
 ```
 ╔══════════════════════╗
@@ -790,14 +720,13 @@ Stack: React Native · TypeScript · Expo
 </td>
 <td width="58%" valign="top">
 
-[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-020010?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/Stock-Predictor)
-![model](https://img.shields.io/badge/Model-LSTM_128+64-FFD700?style=for-the-badge&labelColor=020010)
-![data](https://img.shields.io/badge/Data-yfinance-c084fc?style=for-the-badge&labelColor=020010)
-![status](https://img.shields.io/badge/Status-DEPLOYED-4ADE80?style=for-the-badge&labelColor=020010)
+[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/LuthandoCandlovu/Stock-Predictor)
+![model](https://img.shields.io/badge/Model-LSTM_128+64-FFD700?style=for-the-badge&labelColor=000000)
+![data](https://img.shields.io/badge/Data-yfinance-9900ff?style=for-the-badge&labelColor=000000)
+![status](https://img.shields.io/badge/Status-DEPLOYED-00ff88?style=for-the-badge&labelColor=000000)
 
 > **Multi-layer LSTM recurrent neural network trained on multi-year historical market data with a full end-to-end prediction pipeline.**
 
-Model pipeline:
 ```python
 # Full architecture
 yfinance()
@@ -819,19 +748,19 @@ yfinance()
 
 <div align="center">
 
-[![zero-day-detection](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=zero-day-detection&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=c084fc&bg_color=020010&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/zero-day-detection)
+[![zero-day-detection](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=zero-day-detection&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=9900ff&bg_color=000000&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/zero-day-detection)
 &nbsp;
-[![codesage-ai](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=codesage-ai&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=c084fc&bg_color=020010&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/codesage-ai)
+[![codesage-ai](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=codesage-ai&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=9900ff&bg_color=000000&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/codesage-ai)
 
-[![Vula-Motor_App](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Vula-Motor_App&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=c084fc&bg_color=020010&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
+[![Vula-Motor_App](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Vula-Motor_App&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=9900ff&bg_color=000000&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
 &nbsp;
-[![Stock-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Stock-Predictor&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=c084fc&bg_color=020010&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/Stock-Predictor)
+[![Stock-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Stock-Predictor&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=9900ff&bg_color=000000&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/Stock-Predictor)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -841,76 +770,78 @@ yfinance()
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="35"/> `> tech.stack`
+## <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="38"/> `> tech.stack`
 
 **Every Tool in the Arsenal**
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 
 <br/>
 
 ### 🤖 AI · MACHINE LEARNING · DATA SCIENCE
 
-[![Python](https://img.shields.io/badge/Python-020010?style=for-the-badge&logo=python&logoColor=FFD700)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-020010?style=for-the-badge&logo=tensorflow&logoColor=f472b6)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-020010?style=for-the-badge&logo=pytorch&logoColor=f472b6)](https://pytorch.org)
-[![Keras](https://img.shields.io/badge/Keras-020010?style=for-the-badge&logo=keras&logoColor=c084fc)](https://keras.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-020010?style=for-the-badge&logo=scikitlearn&logoColor=FFD700)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-020010?style=for-the-badge&logo=opencv&logoColor=a78bfa)](https://opencv.org)
-[![NumPy](https://img.shields.io/badge/NumPy-020010?style=for-the-badge&logo=numpy&logoColor=60A5FA)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-020010?style=for-the-badge&logo=pandas&logoColor=e9d5ff)](https://pandas.pydata.org)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=cc00ff)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=cc00ff)](https://pytorch.org)
+[![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=9900ff)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFD700)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ff88)](https://opencv.org)
+[![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=60A5FA)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=e9d5ff)](https://pandas.pydata.org)
 
 <br/>
 
 ### 🔐 CYBERSECURITY · RESEARCH · TOOLS
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-020010?style=for-the-badge&logo=kalilinux&logoColor=a78bfa)](https://kali.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-020010?style=for-the-badge&logo=wireshark&logoColor=60A5FA)](https://wireshark.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-020010?style=for-the-badge&logo=metasploit&logoColor=FFD700)](https://metasploit.com)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-020010?style=for-the-badge&logo=portswigger&logoColor=f472b6)](https://portswigger.net)
-[![Linux](https://img.shields.io/badge/Linux-020010?style=for-the-badge&logo=linux&logoColor=FFD700)](https://linux.org)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-020010?style=for-the-badge&logoColor=c084fc&color=020010)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=9900ff)](https://kali.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=60A5FA)](https://wireshark.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FFD700)](https://metasploit.com)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=cc00ff)](https://portswigger.net)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)](https://linux.org)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=9900ff&color=000000)
 
 <br/>
 
 ### 📱 MOBILE · FRONTEND · UI
 
-[![React Native](https://img.shields.io/badge/React_Native-020010?style=for-the-badge&logo=react&logoColor=60A5FA)](https://reactnative.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-020010?style=for-the-badge&logo=typescript&logoColor=60A5FA)](https://typescriptlang.org)
-[![Next.js](https://img.shields.io/badge/Next.js-020010?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-020010?style=for-the-badge&logo=javascript&logoColor=FFD700)](https://developer.mozilla.org)
-[![Tailwind](https://img.shields.io/badge/Tailwind-020010?style=for-the-badge&logo=tailwindcss&logoColor=60A5FA)](https://tailwindcss.com)
-[![Expo](https://img.shields.io/badge/Expo-020010?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
-[![HTML5](https://img.shields.io/badge/HTML5-020010?style=for-the-badge&logo=html5&logoColor=f472b6)](https://html.spec.whatwg.org)
-[![CSS3](https://img.shields.io/badge/CSS3-020010?style=for-the-badge&logo=css3&logoColor=c084fc)](https://www.w3.org/Style/CSS/)
+[![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=60A5FA)](https://reactnative.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=60A5FA)](https://typescriptlang.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)](https://developer.mozilla.org)
+[![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=60A5FA)](https://tailwindcss.com)
+[![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cc00ff)](https://html.spec.whatwg.org)
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9900ff)](https://www.w3.org/Style/CSS/)
 
 <br/>
 
 ### ⚙️ BACKEND · DATABASES · APIs
 
-[![Node.js](https://img.shields.io/badge/Node.js-020010?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80)](https://nodejs.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-020010?style=for-the-badge&logo=fastapi&logoColor=4ADE80)](https://fastapi.tiangolo.com)
-[![Flask](https://img.shields.io/badge/Flask-020010?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![Java](https://img.shields.io/badge/Java-020010?style=for-the-badge&logo=openjdk&logoColor=f472b6)](https://java.com)
-[![Firebase](https://img.shields.io/badge/Firebase-020010?style=for-the-badge&logo=firebase&logoColor=FFD700)](https://firebase.google.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-020010?style=for-the-badge&logo=mongodb&logoColor=4ADE80)](https://mongodb.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020010?style=for-the-badge&logo=postgresql&logoColor=a78bfa)](https://postgresql.org)
-[![SQLite](https://img.shields.io/badge/SQLite-020010?style=for-the-badge&logo=sqlite&logoColor=60A5FA)](https://sqlite.org)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff88)](https://nodejs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88)](https://fastapi.tiangolo.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=cc00ff)](https://java.com)
+[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFD700)](https://firebase.google.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)](https://mongodb.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=9900ff)](https://postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=60A5FA)](https://sqlite.org)
 
 <br/>
 
 ### 🚀 DEVOPS · TOOLING · CLOUD
 
-[![Docker](https://img.shields.io/badge/Docker-020010?style=for-the-badge&logo=docker&logoColor=60A5FA)](https://docker.com)
-[![Git](https://img.shields.io/badge/Git-020010?style=for-the-badge&logo=git&logoColor=f472b6)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-020010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
-[![GitHub Actions](https://img.shields.io/badge/GH_Actions-020010?style=for-the-badge&logo=githubactions&logoColor=c084fc)](https://github.com/features/actions)
-[![Postman](https://img.shields.io/badge/Postman-020010?style=for-the-badge&logo=postman&logoColor=FFD700)](https://postman.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-020010?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)](https://code.visualstudio.com)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=60A5FA)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=cc00ff)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
+[![GitHub Actions](https://img.shields.io/badge/GH_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=9900ff)](https://github.com/features/actions)
+[![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFD700)](https://postman.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)](https://code.visualstudio.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -920,23 +851,25 @@ yfinance()
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"/> `> github.analytics`
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38"/> `> github.analytics`
 
 **Code Activity · Stats · Contribution Graph**
 
-<br/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=FFD700&icon_color=c084fc&text_color=e9d5ff&bg_color=020010" height="195"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=FFD700&icon_color=9900ff&text_color=e9d5ff&bg_color=000000" height="195"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=FFD700&text_color=e9d5ff&bg_color=020010" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=FFD700&text_color=e9d5ff&bg_color=000000" height="195"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=FFD700&fire=f472b6&currStreakLabel=FFD700&sideLabels=c084fc&background=020010&dates=6b7280&stroke=c084fc30" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=FFD700&fire=cc00ff&currStreakLabel=FFD700&sideLabels=9900ff&background=000000&dates=6b7280&stroke=9900ff30" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuthandoCandlovu&bg_color=020010&color=FFD700&line=c084fc&point=f472b6&area=true&area_color=c084fc20&hide_border=true&custom_title=📊 Contribution Activity — Luthando Candlovu&title_color=FFD700&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuthandoCandlovu&bg_color=000000&color=FFD700&line=9900ff&point=cc00ff&area=true&area_color=9900ff20&hide_border=true&custom_title=📊+Contribution+Activity+—+Luthando+Candlovu&title_color=FFD700&radius=8" width="100%"/>
 
 <br/><br/>
 
@@ -946,7 +879,7 @@ yfinance()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -956,7 +889,7 @@ yfinance()
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"/> `> skills.matrix`
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="38"/> `> skills.matrix`
 
 **Technical Proficiency Map**
 
@@ -1055,7 +988,7 @@ mindmap
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -1065,7 +998,7 @@ mindmap
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"/> `> research.roadmap`
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="38"/> `> research.roadmap`
 
 **2025 – 2026 Research & Development Roadmap**
 
@@ -1106,37 +1039,37 @@ gantt
 </tr>
 <tr>
 <td>🛡️ APT Detection System</td>
-<td align="center"><img src="https://img.shields.io/badge/◉_ACTIVE-FFD700?style=flat-square&labelColor=020010"/></td>
+<td align="center"><img src="https://img.shields.io/badge/◉_ACTIVE-FFD700?style=flat-square&labelColor=000000"/></td>
 <td><code>████████░░ 80%</code></td>
 <td align="center">Aug 2025</td>
 </tr>
 <tr>
 <td>🤖 Autonomous Response Engine</td>
-<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-c084fc?style=flat-square&labelColor=020010"/></td>
+<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-9900ff?style=flat-square&labelColor=000000"/></td>
 <td><code>████░░░░░░ 45%</code></td>
 <td align="center">Feb 2026</td>
 </tr>
 <tr>
 <td>🔗 Blockchain Security Protocol</td>
-<td align="center"><img src="https://img.shields.io/badge/◉_ACTIVE-FFD700?style=flat-square&labelColor=020010"/></td>
+<td align="center"><img src="https://img.shields.io/badge/◉_ACTIVE-FFD700?style=flat-square&labelColor=000000"/></td>
 <td><code>█████░░░░░ 55%</code></td>
 <td align="center">Oct 2025</td>
 </tr>
 <tr>
 <td>📜 Smart Contract Auditor AI</td>
-<td align="center"><img src="https://img.shields.io/badge/STARTING-f472b6?style=flat-square&labelColor=020010"/></td>
+<td align="center"><img src="https://img.shields.io/badge/STARTING-cc00ff?style=flat-square&labelColor=000000"/></td>
 <td><code>█░░░░░░░░░ 10%</code></td>
 <td align="center">Mar 2026</td>
 </tr>
 <tr>
 <td>⚛️ Quantum Cryptography Research</td>
-<td align="center"><img src="https://img.shields.io/badge/◉_ACTIVE-FFD700?style=flat-square&labelColor=020010"/></td>
+<td align="center"><img src="https://img.shields.io/badge/◉_ACTIVE-FFD700?style=flat-square&labelColor=000000"/></td>
 <td><code>███░░░░░░░ 35%</code></td>
 <td align="center">Apr 2026</td>
 </tr>
 <tr>
 <td>🔑 Post-Quantum Implementation</td>
-<td align="center"><img src="https://img.shields.io/badge/PLANNED-a78bfa?style=flat-square&labelColor=020010"/></td>
+<td align="center"><img src="https://img.shields.io/badge/PLANNED-c084fc?style=flat-square&labelColor=000000"/></td>
 <td><code>░░░░░░░░░░  0%</code></td>
 <td align="center">Sep 2026</td>
 </tr>
@@ -1144,7 +1077,7 @@ gantt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -1154,7 +1087,7 @@ gantt
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"/> `> research.publications`
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="38"/> `> research.publications`
 
 **Peer-Reviewed Academic Research**
 
@@ -1191,7 +1124,7 @@ gantt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -1201,13 +1134,15 @@ gantt
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="35"/> `> certifications.verified`
+## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="38"/> `> certifications.verified`
 
 **10 Professional Certifications — All Verified ✅**
 
-<br/>
+<img src="https://media.giphy.com/media/3oEdv22bNBdBMZUHpe/giphy.gif" width="350"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=650&height=28&lines=🏅+AI+Governance+·+Cisco+·+Linux+·+Hackathon+Winner...;🎓+BSc+Comp+Sci+·+IC+Certificate+·+Astronomy+Cert...;⭐+Academic+Excellence+I+%26+II+·+Professional+Training" alt="cert-typing"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=700&height=28&lines=🏅+AI+Governance+·+Cisco+·+Linux+·+Hackathon+Winner...;🎓+BSc+Comp+Sci+·+IC+Certificate+·+Astronomy+Cert...;⭐+Academic+Excellence+I+%26+II+·+Professional+Training" alt="cert-typing"/>
 
 </div>
 
@@ -1218,37 +1153,37 @@ gantt
 <td align="center" width="25%">
 
 **`01`**<br/>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="55"/><br/>
 **AI Governance**<br/>
 <sub>Securiti Education</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf)
 
 </td>
 <td align="center" width="25%">
 
 **`02`**<br/>
-<img src="https://media.giphy.com/media/l46CyJmS9KUbokznq/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokznq/giphy.gif" width="55"/><br/>
 **Cisco Networking**<br/>
 <sub>Cisco Systems</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf)
 
 </td>
 <td align="center" width="25%">
 
 **`03`**<br/>
-<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="55"/><br/>
 **Linux Professional**<br/>
 <sub>Linux Professional Inst.</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf)
 
 </td>
 <td align="center" width="25%">
 
 **`04`**<br/>
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="55"/><br/>
 **Hackathon Winner 🏆**<br/>
 <sub>1st Place</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf)
 
 </td>
 </tr>
@@ -1256,63 +1191,63 @@ gantt
 <td align="center" width="25%">
 
 **`05`**<br/>
-<img src="https://media.giphy.com/media/3oKIPrc2ngFZ6BTyww/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/3oKIPrc2ngFZ6BTyww/giphy.gif" width="55"/><br/>
 **BSc Comp Science**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf)
 
 </td>
 <td align="center" width="25%">
 
 **`06`**<br/>
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="55"/><br/>
 **Professional Training**<br/>
 <sub>Training Institute</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437205/Certificate.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437205/Certificate.pdf)
 
 </td>
 <td align="center" width="25%">
 
 **`07`**<br/>
-<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="55"/><br/>
 **Academic Excellence I**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf)
 
 </td>
 <td align="center" width="25%">
 
 **`08`**<br/>
-<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="40"/><br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="55"/><br/>
 **Academic Excellence II**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
-[![View](https://img.shields.io/badge/View_Cert-020010?style=flat-square&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf)
 
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 
-**`09`** &nbsp; <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHiO/giphy.gif" width="50"/>
+**`09`** &nbsp; <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHiO/giphy.gif" width="60"/>
 
 **IC Certificate**<br/>
 <sub>Industry Credential</sub>
 
-![](https://img.shields.io/badge/🆕_NEW-f472b6?style=flat-square&labelColor=020010)
+![](https://img.shields.io/badge/🆕_NEW-cc00ff?style=flat-square&labelColor=000000)
 
-[![View](https://img.shields.io/badge/View_Cert-020010?style=for-the-badge&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/26298015/Luthando.Candlovu-ic-Certificate.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/26298015/Luthando.Candlovu-ic-Certificate.pdf)
 
 </td>
 <td align="center" colspan="2">
 
-**`10`** &nbsp; <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="50"/>
+**`10`** &nbsp; <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="60"/>
 
 **🌌 Astronomy Certification**<br/>
 <sub>Space & Astrophysics</sub>
 
-![](https://img.shields.io/badge/🆕_NEW-f472b6?style=flat-square&labelColor=020010)
+![](https://img.shields.io/badge/🆕_NEW-cc00ff?style=flat-square&labelColor=000000)
 
-[![View](https://img.shields.io/badge/View_Cert-020010?style=for-the-badge&logo=adobeacrobatreader&logoColor=f472b6)](https://github.com/user-attachments/files/26298021/Astronomy.certification.Luthando.Candlo.pdf)
+[![View](https://img.shields.io/badge/View_Cert-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/26298021/Astronomy.certification.Luthando.Candlo.pdf)
 
 </td>
 </tr>
@@ -1326,7 +1261,7 @@ gantt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -1336,9 +1271,11 @@ gantt
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="35"/> `> fun.facts`
+## <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="38"/> `> fun.facts`
 
 **A Few Things That Make Me, Me**
+
+<img src="https://media.giphy.com/media/l378fEMkEBGOqSyPe/giphy.gif" width="400"/>
 
 </div>
 
@@ -1359,7 +1296,7 @@ gantt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,15:f472b6,35:c084fc,55:a78bfa,75:f472b6,100:FFD700&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
@@ -1369,13 +1306,11 @@ gantt
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> `> contact.open`
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"/> `> contact.open`
 
 **Let's Build Something Extraordinary — Together**
 
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
 <br/><br/>
 
@@ -1403,10 +1338,10 @@ gantt
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-020010?style=for-the-badge&logo=googlechrome&logoColor=FFD700)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-020010?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![Email](https://img.shields.io/badge/📧_Email_Me-020010?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:luthando.candlovu30@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-020010?style=for-the-badge&logo=whatsapp&logoColor=4ADE80)](https://wa.me/27782765932)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
+[![Email](https://img.shields.io/badge/📧_Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=cc00ff)](mailto:luthando.candlovu30@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00ff88)](https://wa.me/27782765932)
 
 <br/><br/>
 
@@ -1425,8 +1360,8 @@ gantt
 
 <br/><br/>
 
-<!-- FOOTER — Egg type: smooth round cut, different from everything above -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:020010,30:1a0050,60:2d0070,100:020010&height=180&section=footer&text=✦+From+Eastern+Cape+to+the+World+✦&fontSize=20&fontColor=FFD700&animation=fadeIn&fontAlignY=60&desc=AI+Security+·+Deep+Learning+·+Astronomy+·+Built+to+Last&descSize=13&descColor=c084fc&descAlignY=80" width="100%"/>
+<!-- FOOTER — Waving footer matching the header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9900ff,30:cc00ff,60:FFD700,80:cc00ff,100:9900ff&height=200&section=footer&text=✦+From+Eastern+Cape+to+the+World+✦&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI+Security+·+Deep+Learning+·+Astronomy+·+Built+to+Last&descSize=13&descColor=c084fc&descAlignY=75" width="100%"/>
 
 <br/>
 
