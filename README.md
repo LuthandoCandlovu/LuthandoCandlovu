@@ -1,3 +1,4 @@
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--            🌌  LUTHANDO CANDLOVU — GITHUB README  🌌               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -14,25 +15,34 @@
 
 <br/>
 
-<!-- BOOT SEQUENCE TERMINAL -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--          ⚡ BOOT SEQUENCE — REDESIGNED (no plain ASCII)           -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  ⚡ SYSTEM BOOT  ·  THREAT CORE v3.1.4  ·  EASTERN CAPE NODE  🇿🇦    ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║  [████████████████████████████████████████]  100%  INITIALISING...   ║
-║                                                                       ║
-║  > Loading AI Security Engine............  ✅  ONLINE                 ║
-║  > Loading Deep Learning Stack...........  ✅  ONLINE                 ║
-║  > Loading Zero-Day Detector.............  ✅  98.2% ACCURACY         ║
-║  > Loading Quantum Crypto Module.........  ✅  ONLINE                 ║
-║  > Loading Astronomy Core................  ✅  TELESCOPE ALIGNED 🌌   ║
-║  > Scanning for threats..................  ✅  0 THREATS FOUND         ║
-║                                                                       ║
-║  ALL SYSTEMS NOMINAL  ·  READY TO BUILD  ·  READY TO DEFEND          ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=44&text=⚡%20SYSTEM%20BOOT%20·%20THREAT%20CORE%20v3.1.4%20·%20EASTERN%20CAPE%20NODE%20🇿🇦&fontSize=13&fontColor=9900ff&fontAlignY=55&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=13&duration=1100&pause=180&color=00ff88&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=160&lines=%5B████████████████████████████████████%5D+100%25+INITIALISING...;▸+Loading+AI+Security+Engine+...............+✅+ONLINE;▸+Loading+Deep+Learning+Stack+..............+✅+ONLINE;▸+Loading+Zero-Day+Detector+...............+⚡+98.2%25+ACCURACY;▸+Loading+Quantum+Crypto+Module+............+✅+ONLINE;▸+Loading+Astronomy+Core+...................+🌌+TELESCOPE+ALIGNED;▸+Scanning+for+threats+.....................+✅+0+THREATS+FOUND" alt="boot-sequence"/>
+
+<br/>
+
+| &nbsp; | Module | Status | Signal |
+|:---:|:---|:---:|:---:|
+| 🛡️ | **AI Security Engine** | ![](https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=000000) | `████████████ 100%` |
+| 🤖 | **Deep Learning Stack** | ![](https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=000000) | `████████████ 100%` |
+| 🎯 | **Zero-Day Detector** | ![](https://img.shields.io/badge/98.2%25_ACCURACY-FFD700?style=flat-square&labelColor=000000) | `███████████░  98%` |
+| ⚛️ | **Quantum Crypto Module** | ![](https://img.shields.io/badge/ONLINE-cc00ff?style=flat-square&labelColor=000000) | `████████████ 100%` |
+| 🌌 | **Astronomy Core** | ![](https://img.shields.io/badge/TELESCOPE_ALIGNED-60A5FA?style=flat-square&labelColor=000000) | `████████████ 100%` |
+| 🔍 | **Threat Scanner** | ![](https://img.shields.io/badge/0_THREATS_FOUND-00ff88?style=flat-square&labelColor=000000) | `████████████ CLEAR` |
+
+<br/>
+
+![](https://img.shields.io/badge/◉_ALL_SYSTEMS_NOMINAL-00ff88?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/READY_TO_BUILD-FFD700?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/READY_TO_DEFEND-9900ff?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -52,13 +62,12 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDM2NWx5NHY5dGZ0ZnFkY2lsN3pieXpoaWRiMHhiZjlyaDg4NDdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="180" style="border-radius:50%;" alt="cyber"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDM2NWx5NHY5dGZ0ZnFkY2lsN3pieXpoaWRiMHhiZjlyaDg4NDdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="180" alt="cyber"/>
 
 <br/><br/>
 
 <img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298"
      width="130"
-     style="border-radius:50%;"
      alt="Luthando Candlovu"/>
 
 <br/><br/>
@@ -247,7 +256,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  🛤️ THE STORY SO FAR — TIMELINE                    -->
+<!--         🛤️ THE STORY SO FAR — TIMELINE  (REDESIGNED)              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -260,37 +269,69 @@
 
 <br/>
 
-```
-  🌱 ORIGIN                    🎓 ACADEMIA                   ⚡ PROFESSIONAL
-     │                              │                               │
-     ▼                              ▼                               ▼
-  ┌──────────┐               ┌──────────────┐              ┌────────────────┐
-  │ Eastern  │               │  University  │              │  AI Security   │
-  │ Cape, ZA │──────────────▶│  of Fort     │─────────────▶│  Engineer &    │
-  │ 🇿🇦       │               │  Hare — BSc  │              │  Researcher    │
-  └──────────┘               └──────────────┘              └────────────────┘
-        │                           │                               │
-        │                     ⭐ Academic                    🏆 Hackathon
-        │                     Excellence I & II              Winner — Vula
-        │                     Awards                         Motor App
-        │                           │                               │
-        └───────────────────────────┴───────────────────────────────┘
-                                    │
-                          ┌─────────▼──────────┐
-                          │   15+ APPS SHIPPED  │
-                          │   10 CERTIFICATIONS │
-                          │   3 PUBLICATIONS    │
-                          │   98.2% ACCURACY    │
-                          └────────────────────┘
-                                    │
-                                    ▼
-                          ╔════════════════════╗
-                          ║  🚀 WHAT'S NEXT     ║
-                          ║  Quantum Crypto     ║
-                          ║  Autonomous AI      ║
-                          ║  Global Impact      ║
-                          ╚════════════════════╝
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=6" width="100%"/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+
+<td align="center" width="32%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=130&text=🌱%20ORIGIN&fontSize=20&fontColor=FFD700&fontAlignY=35&desc=Eastern%20Cape%2C%20South%20Africa%20🇿🇦&descSize=12&descColor=c084fc&descAlignY=60&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/HOME_NODE-9900ff?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Where the journey began</sub>
+</td>
+
+<td align="center" width="4%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=700&pause=100&color=9900ff&center=true&vCenter=true&repeat=true&width=48&height=36&lines=──▶;──▶" alt="→"/>
+</td>
+
+<td align="center" width="32%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=130&text=🎓%20ACADEMIA&fontSize=20&fontColor=FFD700&fontAlignY=35&desc=University%20of%20Fort%20Hare%20·%20BSc%20CS&descSize=12&descColor=c084fc&descAlignY=60&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/⭐_EXCELLENCE_I_%26_II-FFD700?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Academic Excellence Awards</sub>
+</td>
+
+<td align="center" width="4%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=700&pause=100&color=9900ff&center=true&vCenter=true&repeat=true&width=48&height=36&lines=──▶;──▶" alt="→"/>
+</td>
+
+<td align="center" width="32%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=130&text=⚡%20PROFESSIONAL&fontSize=18&fontColor=FFD700&fontAlignY=35&desc=AI%20Security%20Engineer%20%26%20Researcher&descSize=11&descColor=c084fc&descAlignY=60&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/🏆_HACKATHON_WINNER-cc00ff?style=for-the-badge&labelColor=000000"/>
+<br/><sub>Vula Motor · 1st Place</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/15%2B-Apps_Shipped-FFD700?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/10-Certifications-9900ff?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/3-Publications-cc00ff?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/98.2%25-Detection_Accuracy-00ff88?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d0030,70:0d0030,100:000000&height=72&text=🚀%20WHAT'S%20NEXT&fontSize=20&fontColor=FFD700&fontAlignY=38&desc=Quantum%20Cryptography%20·%20Autonomous%20AI%20·%20Global%20Impact&descSize=13&descColor=c084fc&descAlignY=68&animation=twinkling" width="75%"/>
+
+</div>
 
 <br/>
 
@@ -397,8 +438,6 @@ scanner powered by LLM reasoning
 ║  ingestion    ║  inspection    ║  malicious URL    ║  Security logs     ║
 ║  at scale     ║  & parsing     ║  classification   ║  correlation       ║
 ╚═══════════════╩════════════════╩═══════════════════╩═════════════════════╝
-                                 ║
-                              ▼  ║  ▼
 ```
 
 <br/>
@@ -1301,7 +1340,7 @@ gantt
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   🤝 LET'S COLLABORATE                              -->
+<!--          🤝 LET'S COLLABORATE — CONTACT SECTION (REDESIGNED)      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -1312,29 +1351,93 @@ gantt
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
-<br/><br/>
+</div>
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║           ◉  ACTIVELY SEEKING OPPORTUNITIES — WORLDWIDE              ║
-║                                                                       ║
-║   🛡️  AI Security Engineering          🤖  ML / Deep Learning        ║
-║   📱  Mobile App Development           💻  Full-Stack Engineering     ║
-║   🔬  Cybersecurity Research           ☁️  Cloud & DevOps            ║
-║   🎓  Academic Collaboration           🌐  Open-Source Projects       ║
-║   🌌  Astronomy & Space Research       🔐  Quantum Cryptography       ║
-║                                                                       ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║   📍  Eastern Cape, South Africa       🌍  Remote Worldwide  ✅      ║
-║   📧  luthando.candlovu30@gmail.com                                  ║
-║   📱  +27 78 276 5932                                                ║
-║   🔗  linkedin.com/in/luthando-candlovu-b59110324                    ║
-║   🌐  luthandocandlovu.github.io/MY-PORTFOLIO/                       ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=52&text=◉%20ACTIVELY%20SEEKING%20OPPORTUNITIES%20—%20WORLDWIDE&fontSize=15&fontColor=00ff88&fontAlignY=55&animation=twinkling" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🛡️_AI_Security_Engineering-9900ff?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🤖_ML_/_Deep_Learning-9900ff?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📱_Mobile_App_Development-cc00ff?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💻_Full--Stack_Engineering-cc00ff?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🔬_Cybersecurity_Research-FFD700?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/☁️_Cloud_%26_DevOps-FFD700?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓_Academic_Collaboration-60A5FA?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌐_Open--Source_Projects-60A5FA?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌌_Astronomy_%26_Space_Research-c084fc?style=for-the-badge&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔐_Quantum_Cryptography-c084fc?style=for-the-badge&labelColor=000000"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="50%">
+
+| 🔹 | Detail |
+|:---:|:---|
+| 📍 | Eastern Cape, South Africa |
+| 🌍 | Remote Worldwide ✅ |
+| 📧 | luthando.candlovu30@gmail.com |
+| 📱 | +27 78 276 5932 |
+
+</td>
+<td align="left" width="50%">
+
+| 🔹 | Link |
+|:---:|:---|
+| 🔗 | [LinkedIn Profile](https://www.linkedin.com/in/luthando-candlovu-b59110324/) |
+| 🌐 | [Portfolio Site](https://luthandocandlovu.github.io/MY-PORTFOLIO/) |
+| 💻 | [GitHub Repos](https://github.com/LuthandoCandlovu) |
+| 💬 | [WhatsApp Me](https://wa.me/27782765932) |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -1342,6 +1445,8 @@ gantt
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
 [![Email](https://img.shields.io/badge/📧_Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=cc00ff)](mailto:luthando.candlovu30@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00ff88)](https://wa.me/27782765932)
+
+</div>
 
 <br/><br/>
 
@@ -1354,9 +1459,13 @@ gantt
 
 <br/><br/>
 
+<div align="center">
+
 [![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
 &nbsp;&nbsp;
 [![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu?tab=followers)
+
+</div>
 
 <br/><br/>
 
@@ -1365,6 +1474,6 @@ gantt
 
 <br/>
 
+<div align="center">
 <sub>© 2026 Luthando Candlovu &nbsp;·&nbsp; AI Security Researcher & Engineer &nbsp;·&nbsp; Eastern Cape, South Africa 🇿🇦</sub>
-
 </div>
