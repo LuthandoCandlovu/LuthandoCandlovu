@@ -1,31 +1,66 @@
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--            🌌  LUTHANDO CANDLOVU — GITHUB README  🌌               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--              ANIMATED HEADER — COSMIC CYBER WAVE              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- HEADER — Waving banner with deep cyber neon gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0020,45:1a004a,70:3d0080,90:6600cc,100:9900ff&height=300&section=header&text=LUTHANDO%20CANDLOVU&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=⚡%20AI%20Security%20Engineer%20%20%7C%20%20🔬%20Deep%20Learning%20Researcher%20%20%7C%20%20🌌%20Cosmos%20Explorer&descSize=15&descAlignY=65&descColor=c084fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:05001a,40:0d0040,60:2a007a,80:6600cc,100:9900ff&height=340&section=header&text=LUTHANDO%20CANDLOVU&fontSize=62&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=⚡%20AI%20Security%20Engineer%20%7C%20🔬%20Deep%20Learning%20Researcher%20%7C%20🌌%20Cosmos%20Explorer&descSize=16&descAlignY=62&descColor=d8b4fe&stroke=9900ff&strokeWidth=3" width="100%"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING LINES                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&repeat=true&width=950&height=55&lines=🛡️+Zero-Day+Threat+Hunter+·+98.2%25+Accuracy;🌌+Building+from+Eastern+Cape+🇿🇦+for+the+Whole+World;🔬+Deep+Learning+·+Blockchain+·+Quantum+Cryptography;🚀+15%2B+Apps+Shipped+·+10+Certs+·+3+Publications;⚡+Sub-50ms+Inference+·+Zero+Compromises" alt="Typing Banner"/>
 
 <br/>
 
-<!-- ANIMATED TYPING BANNER -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=900&height=50&lines=🛡️+Zero-Day+Threat+Hunter+|+98.2%25+Detection+Accuracy;🌌+AI+Security+Engineer+from+Eastern+Cape%2C+South+Africa+🇿🇦;🔬+Deep+Learning+%7C+Blockchain+%7C+Quantum+Cryptography;🚀+15%2B+Apps+Shipped+%7C+10+Certifications+%7C+3+Publications;⚡+Sub-50ms+Response+%7C+Building+for+the+World" alt="Typing SVG"/>
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:luthando.candlovu30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
+<a href="https://github.com/LuthandoCandlovu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://wa.me/27782765932">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=9900ff&label=PROFILE+VIEWS&labelColor=000000)
+![](https://img.shields.io/badge/◉_OPEN_TO_WORK-00ff88?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/REMOTE-WORLDWIDE-9900ff?style=for-the-badge&labelColor=000000)
+
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--          ⚡ BOOT SEQUENCE — REDESIGNED (no plain ASCII)           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=44&text=⚡%20SYSTEM%20BOOT%20·%20THREAT%20CORE%20v3.1.4%20·%20EASTERN%20CAPE%20NODE%20🇿🇦&fontSize=13&fontColor=9900ff&fontAlignY=55&animation=twinkling" width="100%"/>
+<!-- RAINBOW NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,15:cc00ff,30:ff00cc,50:FFD700,70:ff00cc,85:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=13&duration=1100&pause=180&color=00ff88&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=160&lines=%5B████████████████████████████████████%5D+100%25+INITIALISING...;▸+Loading+AI+Security+Engine+...............+✅+ONLINE;▸+Loading+Deep+Learning+Stack+..............+✅+ONLINE;▸+Loading+Zero-Day+Detector+...............+⚡+98.2%25+ACCURACY;▸+Loading+Quantum+Crypto+Module+............+✅+ONLINE;▸+Loading+Astronomy+Core+...................+🌌+TELESCOPE+ALIGNED;▸+Scanning+for+threats+.....................+✅+0+THREATS+FOUND" alt="boot-sequence"/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ⚡ BOOT SEQUENCE                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:050015,100:000000&height=48&text=⚡%20THREAT%20CORE%20v3.1.4%20·%20SYSTEM%20BOOT%20·%20EASTERN%20CAPE%20NODE%20🇿🇦&fontSize=13&fontColor=9900ff&fontAlignY=58&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=13&duration=900&pause=150&color=00ff88&center=true&vCenter=true&multiline=true&repeat=false&width=740&height=170&lines=%5B████████████████████████████████████████%5D+100%25+INITIALISING...;▸+AI+Security+Engine+.......................+✅+ONLINE;▸+Deep+Learning+Stack+......................+✅+ONLINE;▸+Zero-Day+Detector+........................+⚡+98.2%25+ACCURACY;▸+Quantum+Cryptography+Module+..............+✅+ONLINE;▸+Blockchain+Security+Core+.................+✅+ONLINE;▸+Astronomy+Telescope+......................+🌌+ALIGNED;▸+Scanning+for+threats+.....................+✅+0+THREATS+FOUND" alt="Boot Sequence"/>
 
 <br/>
 
@@ -35,7 +70,8 @@
 | 🤖 | **Deep Learning Stack** | ![](https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=000000) | `████████████ 100%` |
 | 🎯 | **Zero-Day Detector** | ![](https://img.shields.io/badge/98.2%25_ACCURACY-FFD700?style=flat-square&labelColor=000000) | `███████████░  98%` |
 | ⚛️ | **Quantum Crypto Module** | ![](https://img.shields.io/badge/ONLINE-cc00ff?style=flat-square&labelColor=000000) | `████████████ 100%` |
-| 🌌 | **Astronomy Core** | ![](https://img.shields.io/badge/TELESCOPE_ALIGNED-60A5FA?style=flat-square&labelColor=000000) | `████████████ 100%` |
+| 🔗 | **Blockchain Auditor** | ![](https://img.shields.io/badge/IN_PROGRESS-60A5FA?style=flat-square&labelColor=000000) | `████████░░░░  55%` |
+| 🌌 | **Astronomy Core** | ![](https://img.shields.io/badge/TELESCOPE_ALIGNED-FFD700?style=flat-square&labelColor=000000) | `████████████ 100%` |
 | 🔍 | **Threat Scanner** | ![](https://img.shields.io/badge/0_THREATS_FOUND-00ff88?style=flat-square&labelColor=000000) | `████████████ CLEAR` |
 
 <br/>
@@ -48,113 +84,117 @@
 
 <br/>
 
-<!-- RAINBOW DIVIDER -->
+<!-- ANIMATED GIF DIVIDER -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
 
 <br/>
 
-<!-- ══ MAIN HERO SECTION ════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    👤 WHO AM I — HERO SECTION                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="middle" width="260">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"/> `> whoami`
+
+</div>
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDM2NWx5NHY5dGZ0ZnFkY2lsN3pieXpoaWRiMHhiZjlyaDg4NDdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="180" alt="cyber"/>
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="260">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="190" alt="cyber"/>
 
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298"
-     width="130"
-     alt="Luthando Candlovu"/>
+<img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298" width="130" alt="Luthando Candlovu" style="border-radius:50%"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/◉_STATUS-BUILDING_NOW-00ff88?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/◉_BUILDING_NOW-00ff88?style=flat-square&labelColor=000000)
 
 <br/>
 
 ![](https://img.shields.io/badge/🛡️_AI_Security-9900ff?style=flat-square&labelColor=0a0020)
 <br/>
-![](https://img.shields.io/badge/🤖_Deep_Learning-cc00ff?style=flat-square&labelColor=0a0020)
+![](https://img.shields.io/badge/🔬_Deep_Learning-cc00ff?style=flat-square&labelColor=0a0020)
 <br/>
-![](https://img.shields.io/badge/🌌_Astronomy-FFD700?style=flat-square&labelColor=0a0020)
+![](https://img.shields.io/badge/🌌_Astronomy_Nerd-FFD700?style=flat-square&labelColor=0a0020)
 <br/>
 ![](https://img.shields.io/badge/🇿🇦_Eastern_Cape-c084fc?style=flat-square&labelColor=0a0020)
-
-<br/>
 
 </td>
 
 <td width="30"></td>
 
-<td align="left" valign="middle" width="520">
+<td align="left" valign="middle" width="540">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2800&pause=9999&color=FFD700&center=false&vCenter=true&repeat=false&width=520&height=60&lines=LUTHANDO+CANDLOVU" alt="name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=9999&pause=9999&color=FFD700&center=false&vCenter=true&repeat=false&width=540&height=65&lines=LUTHANDO+CANDLOVU" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=1800&pause=400&color=c084fc&center=false&vCenter=true&repeat=true&width=520&height=28&lines=⚡+AI+Security+Engineer;🔬+Deep+Learning+Researcher;🛡️+Zero-Day+Threat+Hunter;🌌+Astronomy+%26+Space+Enthusiast;🔐+Quantum+Cryptography+Explorer;🧬+Blockchain+Security+Architect;🚀+Building+for+the+World+from+ZA" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1700&pause=400&color=c084fc&center=false&vCenter=true&repeat=true&width=540&height=30&lines=⚡+AI+Security+Engineer;🔬+Deep+Learning+Researcher;🛡️+Zero-Day+Threat+Hunter;🌌+Astronomy+%26+Space+Enthusiast;🔐+Quantum+Cryptography+Explorer;🧬+Blockchain+Security+Architect;🚀+Building+for+the+World+from+ZA" alt="Roles"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=12&duration=1600&pause=400&color=00ff88&center=false&vCenter=true&repeat=true&width=520&height=22&lines=◈+Threat+accuracy+98.2%25+·+Real-time+<50ms+·+15%2B+apps+·+10+certs" alt="stats"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/◉_OPEN_TO_WORK-FFD700?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/REMOTE-WORLDWIDE-9900ff?style=for-the-badge&labelColor=000000)
-<br/>
-![](https://img.shields.io/badge/FOCUS-AI_SECURITY-c084fc?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/BSc-COMPUTER_SCIENCE-00ff88?style=for-the-badge&labelColor=000000)
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=9900ff&label=PROFILE+VIEWS&labelColor=000000)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=12&duration=1400&pause=400&color=00ff88&center=false&vCenter=true&repeat=true&width=540&height=24&lines=◈+Threat+accuracy+98.2%25+·+Real-time+<50ms+·+15%2B+apps+·+10+certs" alt="Stats line"/>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
-<br/>
-[![Email](https://img.shields.io/badge/📧_Hire_Me-000000?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:luthando.candlovu30@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=4ADE80)](https://wa.me/27782765932)
+```yaml
+╔══════════════════════════════════════════════╗
+║          SYSTEM IDENTIFICATION               ║
+╠══════════════════════════════════════════════╣
+║  name       : Luthando Candlovu              ║
+║  alias      : LuthandoCandlovu               ║
+║  role       : AI Security Engineer           ║
+║               & Deep Learning Researcher     ║
+║  location   : Eastern Cape, ZA  🇿🇦          ║
+║  degree     : BSc Computer Science           ║
+║  university : University of Fort Hare        ║
+║  experience : 3+ Years in Production         ║
+║  shipped    : 15+ Apps                       ║
+║  certs      : 10 Professional                ║
+╠══════════════════════════════════════════════╣
+║  ✅ Full-time   ✅ Freelance                  ║
+║  ✅ Research    ✅ Consulting                 ║
+║  ✅ Remote Worldwide                          ║
+╚══════════════════════════════════════════════╝
+```
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<!-- ANIMATED QUOTE TICKER -->
 <div align="center">
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=3200&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=850&height=30&lines=✦+%22I+catch+zero-days+before+antivirus+even+knows+they+exist.%22+✦;🌌+Where+Cyberspace+meets+Outer+Space+—+Born+in+Eastern+Cape%2C+Built+for+the+World;⚡+98.2%25+Accuracy+·+Sub-50ms+Response+·+Zero+Compromises" alt="quote"/>
+
+> ### 🌌 *"I sit at the exact intersection of two infinite frontiers —*
+> ### *cyberspace and outer space. I defend one. I explore the other.*
+> ### *Both are boundless. Both demand precision. Both demand courage."*
+>
+> **— Luthando Candlovu, Eastern Cape 🇿🇦**
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+
 </div>
 
 <br/>
 
-<!-- ANIMATED NEON DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ⚡ QUICK FIRE STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ⚡ QUICK FIRE STATS                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="38"/> `> quick.stats`
 
-</div>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"/>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 | ⚡ Metric | 🔢 Value | 🌟 Context |
 |:---|:---:|:---|
@@ -167,86 +207,17 @@
 | 🌍 Reach | **Worldwide** | Remote · Open to relocation |
 | ☕ Fuel | **Infinite** | Coffee + Code + Curiosity |
 
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       👤 WHO AM I                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp;<code>> whoami</code></h2>
-</div>
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
-<td width="52%" valign="top">
-
-```yaml
-╔═══════════════════════════════════════════╗
-║         SYSTEM IDENTIFICATION             ║
-╠═══════════════════════════════════════════╣
-║ name       : Luthando Candlovu            ║
-║ alias      : LuthandoCandlovu             ║
-║ role       : AI Security Engineer         ║
-║             & Deep Learning Researcher    ║
-║ location   : Eastern Cape, ZA  🇿🇦        ║
-║ degree     : BSc Computer Science         ║
-║ university : University of Fort Hare      ║
-║ experience : 3+ Years in Production       ║
-║ shipped    : 15+ Apps                     ║
-║ certs      : 10 Professional              ║
-╠═══════════════════════════════════════════╣
-║           ACTIVE RESEARCH                 ║
-╠═══════════════════════════════════════════╣
-║ APT Detection System    [████████░░] 80%  ║
-║ Blockchain Security     [█████░░░░░] 55%  ║
-║ Quantum Cryptography    [███░░░░░░░] 35%  ║
-║ Autonomous AI Response  [████░░░░░░] 45%  ║
-╠═══════════════════════════════════════════╣
-║           AVAILABILITY                    ║
-╠═══════════════════════════════════════════╣
-║ ✅ Full-time   ✅ Freelance               ║
-║ ✅ Research    ✅ Consulting              ║
-║ ✅ Remote Worldwide                       ║
-╚═══════════════════════════════════════════╝
-```
-
-</td>
-<td width="48%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding GIF"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="Matrix GIF"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/98.2%25-Threat_Detection-FFD700?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/<50ms-Real_Time-9900ff?style=flat-square&labelColor=000000)
-
-</td>
+<td align="center"><img src="https://img.shields.io/badge/15%2B-Apps_Shipped-FFD700?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/10-Certifications-9900ff?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/3-Publications-cc00ff?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/98.2%25-Accuracy-00ff88?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-> ### 🌌 _"I sit at the exact intersection of two infinite frontiers —_
-> ### _cyberspace and outer space. I defend one. I explore the other._
-> ### _Both are boundless. Both demand precision. Both demand courage."_
->
-> **— Luthando Candlovu, Eastern Cape 🇿🇦**
-
 </div>
 
 <br/>
@@ -255,9 +226,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--         🛤️ THE STORY SO FAR — TIMELINE  (REDESIGNED)              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🛤️ STORY / TIMELINE                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -265,71 +236,46 @@
 
 **From Eastern Cape to Global Impact — The Journey**
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=6" width="100%"/>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="96%">
 <tr>
-
-<td align="center" width="32%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=130&text=🌱%20ORIGIN&fontSize=20&fontColor=FFD700&fontAlignY=35&desc=Eastern%20Cape%2C%20South%20Africa%20🇿🇦&descSize=12&descColor=c084fc&descAlignY=60&animation=twinkling" width="100%"/>
+<td align="center" width="31%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=140&text=🌱%20ORIGIN&fontSize=22&fontColor=FFD700&fontAlignY=38&desc=Eastern%20Cape%2C%20South%20Africa%20🇿🇦&descSize=13&descColor=c084fc&descAlignY=62&animation=twinkling" width="100%"/>
 <br/>
 <img src="https://img.shields.io/badge/HOME_NODE-9900ff?style=for-the-badge&labelColor=000000"/>
 <br/><sub>Where the journey began</sub>
 </td>
-
-<td align="center" width="4%">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=700&pause=100&color=9900ff&center=true&vCenter=true&repeat=true&width=48&height=36&lines=──▶;──▶" alt="→"/>
+<td align="center" width="6%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&pause=80&color=9900ff&center=true&vCenter=true&repeat=true&width=50&height=38&lines=──▶;──▶" alt="arrow"/>
 </td>
-
-<td align="center" width="32%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=130&text=🎓%20ACADEMIA&fontSize=20&fontColor=FFD700&fontAlignY=35&desc=University%20of%20Fort%20Hare%20·%20BSc%20CS&descSize=12&descColor=c084fc&descAlignY=60&animation=twinkling" width="100%"/>
+<td align="center" width="31%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=140&text=🎓%20ACADEMIA&fontSize=22&fontColor=FFD700&fontAlignY=38&desc=University%20of%20Fort%20Hare%20·%20BSc%20CS&descSize=13&descColor=c084fc&descAlignY=62&animation=twinkling" width="100%"/>
 <br/>
 <img src="https://img.shields.io/badge/⭐_EXCELLENCE_I_%26_II-FFD700?style=for-the-badge&labelColor=000000"/>
 <br/><sub>Academic Excellence Awards</sub>
 </td>
-
-<td align="center" width="4%">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=700&pause=100&color=9900ff&center=true&vCenter=true&repeat=true&width=48&height=36&lines=──▶;──▶" alt="→"/>
+<td align="center" width="6%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&pause=80&color=9900ff&center=true&vCenter=true&repeat=true&width=50&height=38&lines=──▶;──▶" alt="arrow"/>
 </td>
-
-<td align="center" width="32%">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=130&text=⚡%20PROFESSIONAL&fontSize=18&fontColor=FFD700&fontAlignY=35&desc=AI%20Security%20Engineer%20%26%20Researcher&descSize=11&descColor=c084fc&descAlignY=60&animation=twinkling" width="100%"/>
+<td align="center" width="31%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0020,100:0a0020&height=140&text=⚡%20PROFESSIONAL&fontSize=19&fontColor=FFD700&fontAlignY=38&desc=AI%20Security%20Engineer%20%26%20Researcher&descSize=12&descColor=c084fc&descAlignY=62&animation=twinkling" width="100%"/>
 <br/>
 <img src="https://img.shields.io/badge/🏆_HACKATHON_WINNER-cc00ff?style=for-the-badge&labelColor=000000"/>
 <br/><sub>Vula Motor · 1st Place</sub>
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-<table border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/15%2B-Apps_Shipped-FFD700?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/10-Certifications-9900ff?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/3-Publications-cc00ff?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/98.2%25-Detection_Accuracy-00ff88?style=for-the-badge&labelColor=000000"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d0030,70:0d0030,100:000000&height=72&text=🚀%20WHAT'S%20NEXT&fontSize=20&fontColor=FFD700&fontAlignY=38&desc=Quantum%20Cryptography%20·%20Autonomous%20AI%20·%20Global%20Impact&descSize=13&descColor=c084fc&descAlignY=68&animation=twinkling" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d0030,70:0d0030,100:000000&height=76&text=🚀%20WHAT'S%20NEXT&fontSize=22&fontColor=FFD700&fontAlignY=40&desc=Quantum%20Cryptography%20·%20Autonomous%20AI%20·%20Global%20Impact&descSize=14&descColor=c084fc&descAlignY=70&animation=twinkling" width="78%"/>
 
 </div>
 
@@ -339,20 +285,16 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  🔭 CURRENTLY OBSESSING OVER                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🔭 CURRENTLY BUILDING                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="38"/> `> now.building`
 
-</div>
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="420"/>
 
-<br/>
-
-<div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </div>
 
 <br/>
@@ -363,22 +305,26 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="90"/>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="95"/>
 
 ### 🛡️ APT Detection v2
+
 **Advanced Persistent Threat**
-behavioural detection engine with
+behavioural engine with
 autonomous countermeasures
 
 ![](https://img.shields.io/badge/Progress-80%25-FFD700?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/Status-ACTIVE-00ff88?style=flat-square&labelColor=000000)
 
+`████████░░ 80%`
+
 </td>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="95"/>
 
 ### ⚛️ Quantum Cryptography
+
 **Post-quantum resistant** protocols
 for tomorrow's threat landscape.
 Research phase ongoing.
@@ -386,18 +332,23 @@ Research phase ongoing.
 ![](https://img.shields.io/badge/Progress-35%25-9900ff?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/Status-RESEARCH-c084fc?style=flat-square&labelColor=000000)
 
+`███░░░░░░░ 35%`
+
 </td>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="90"/>
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="95"/>
 
 ### 🔗 Blockchain Auditor AI
+
 **Smart contract vulnerability**
-scanner powered by LLM reasoning
+scanner — LLM reasoning
 + static analysis fusion.
 
 ![](https://img.shields.io/badge/Progress-55%25-cc00ff?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/Status-IN_PROGRESS-60A5FA?style=flat-square&labelColor=000000)
+
+`█████░░░░░ 55%`
 
 </td>
 </tr>
@@ -411,9 +362,9 @@ scanner powered by LLM reasoning
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     🏗️ SYSTEM ARCHITECTURE                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    🏗️ SYSTEM ARCHITECTURE                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -553,9 +504,9 @@ flowchart TD
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      🚀 FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     🚀 FEATURED PROJECTS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -563,7 +514,7 @@ flowchart TD
 
 **Production-Grade Systems — Built, Deployed, Defended**
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="480"/>
 
 </div>
 
@@ -582,7 +533,7 @@ flowchart TD
 ![latency](https://img.shields.io/badge/Latency-<50ms-9900ff?style=for-the-badge&labelColor=000000)
 ![status](https://img.shields.io/badge/Status-◉_LIVE-00ff88?style=for-the-badge&labelColor=000000)
 
-> **Deep neural network detecting novel, unseen threats in live network traffic — before antivirus signatures are written.**
+> **Deep neural network detecting novel, unseen threats in live network traffic — before antivirus signatures exist.**
 
 - 🔴 Real-time packet stream classification with bidirectional LSTM
 - 🔍 Isolation Forest for unsupervised zero-day anomaly detection
@@ -680,7 +631,7 @@ Stack: Python · FastAPI · LLM API · AST · Docker
 
 ---
 
-### 🚗 `PROJECT_03` — Vula Motor — Emergency Response Platform
+### 🚗 `PROJECT_03` — Vula Motor — Emergency Response Platform 🏆
 
 <table>
 <tr>
@@ -691,7 +642,7 @@ Stack: Python · FastAPI · LLM API · AST · Docker
 ![platform](https://img.shields.io/badge/iOS_+_Android-React_Native-60A5FA?style=for-the-badge&labelColor=000000)
 ![sync](https://img.shields.io/badge/Realtime-Firebase-cc00ff?style=for-the-badge&labelColor=000000)
 
-> **Cross-platform emergency response app with one-tap SOS, real-time GPS streaming to emergency services, and community responder dispatch. First place hackathon winner.**
+> **Cross-platform emergency response app with one-tap SOS, real-time GPS streaming to emergency services, and community responder dispatch.**
 
 - 🆘 One-tap SOS with automatic GPS location capture
 - 🔥 Firebase Realtime DB for <100ms emergency dispatch
@@ -803,9 +754,9 @@ yfinance()
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         💻 TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       💻 TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -813,9 +764,9 @@ yfinance()
 
 **Every Tool in the Arsenal**
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380"/>
 
-<br/>
+<br/><br/>
 
 ### 🤖 AI · MACHINE LEARNING · DATA SCIENCE
 
@@ -828,8 +779,6 @@ yfinance()
 [![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=60A5FA)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=e9d5ff)](https://pandas.pydata.org)
 
-<br/>
-
 ### 🔐 CYBERSECURITY · RESEARCH · TOOLS
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=9900ff)](https://kali.org)
@@ -837,9 +786,7 @@ yfinance()
 [![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FFD700)](https://metasploit.com)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=portswigger&logoColor=cc00ff)](https://portswigger.net)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)](https://linux.org)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=9900ff&color=000000)
-
-<br/>
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&color=000000&logoColor=9900ff)
 
 ### 📱 MOBILE · FRONTEND · UI
 
@@ -852,8 +799,6 @@ yfinance()
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=cc00ff)](https://html.spec.whatwg.org)
 [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=9900ff)](https://www.w3.org/Style/CSS/)
 
-<br/>
-
 ### ⚙️ BACKEND · DATABASES · APIs
 
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff88)](https://nodejs.org)
@@ -864,8 +809,6 @@ yfinance()
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)](https://mongodb.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=9900ff)](https://postgresql.org)
 [![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=60A5FA)](https://sqlite.org)
-
-<br/>
 
 ### 🚀 DEVOPS · TOOLING · CLOUD
 
@@ -884,9 +827,9 @@ yfinance()
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       📊 GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     📊 GITHUB ANALYTICS                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -894,7 +837,7 @@ yfinance()
 
 **Code Activity · Stats · Contribution Graph**
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380"/>
 
 <br/><br/>
 
@@ -904,7 +847,7 @@ yfinance()
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=FFD700&fire=cc00ff&currStreakLabel=FFD700&sideLabels=9900ff&background=000000&dates=6b7280&stroke=9900ff30" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=FFD700&fire=cc00ff&currStreakLabel=FFD700&sideLabels=9900ff&background=000000&dates=6b7280&stroke=9900ff30" width="72%"/>
 
 <br/><br/>
 
@@ -914,6 +857,12 @@ yfinance()
 
 <img src="https://github-profile-trophy.vercel.app/?username=LuthandoCandlovu&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
+<br/><br/>
+
+[![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
+&nbsp;&nbsp;
+[![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu?tab=followers)
+
 </div>
 
 <br/>
@@ -922,15 +871,17 @@ yfinance()
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       🧠 SKILLS MATRIX                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     🧠 SKILLS MATRIX                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="38"/> `> skills.matrix`
 
 **Technical Proficiency Map**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 </div>
 
@@ -1031,9 +982,9 @@ mindmap
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      📅 RESEARCH ROADMAP                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    📅 RESEARCH ROADMAP                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1120,15 +1071,17 @@ gantt
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     📄 RESEARCH PUBLICATIONS                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   📄 RESEARCH PUBLICATIONS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="38"/> `> research.publications`
 
 **Peer-Reviewed Academic Research**
+
+<img src="https://media.giphy.com/media/3oEdv22bNBdBMZUHpe/giphy.gif" width="300"/>
 
 </div>
 
@@ -1167,9 +1120,9 @@ gantt
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     🏅 CERTIFICATIONS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   🏅 CERTIFICATIONS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1177,7 +1130,7 @@ gantt
 
 **10 Professional Certifications — All Verified ✅**
 
-<img src="https://media.giphy.com/media/3oEdv22bNBdBMZUHpe/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3oEdv22bNBdBMZUHpe/giphy.gif" width="300"/>
 
 <br/><br/>
 
@@ -1192,7 +1145,7 @@ gantt
 <td align="center" width="25%">
 
 **`01`**<br/>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"/><br/>
 **AI Governance**<br/>
 <sub>Securiti Education</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf)
@@ -1201,7 +1154,7 @@ gantt
 <td align="center" width="25%">
 
 **`02`**<br/>
-<img src="https://media.giphy.com/media/l46CyJmS9KUbokznq/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokznq/giphy.gif" width="60"/><br/>
 **Cisco Networking**<br/>
 <sub>Cisco Systems</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf)
@@ -1210,7 +1163,7 @@ gantt
 <td align="center" width="25%">
 
 **`03`**<br/>
-<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="60"/><br/>
 **Linux Professional**<br/>
 <sub>Linux Professional Inst.</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf)
@@ -1219,9 +1172,9 @@ gantt
 <td align="center" width="25%">
 
 **`04`**<br/>
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="60"/><br/>
 **Hackathon Winner 🏆**<br/>
-<sub>1st Place</sub><br/><br/>
+<sub>1st Place — Vula Motor</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf)
 
 </td>
@@ -1230,7 +1183,7 @@ gantt
 <td align="center" width="25%">
 
 **`05`**<br/>
-<img src="https://media.giphy.com/media/3oKIPrc2ngFZ6BTyww/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/3oKIPrc2ngFZ6BTyww/giphy.gif" width="60"/><br/>
 **BSc Comp Science**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf)
@@ -1239,7 +1192,7 @@ gantt
 <td align="center" width="25%">
 
 **`06`**<br/>
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60"/><br/>
 **Professional Training**<br/>
 <sub>Training Institute</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437205/Certificate.pdf)
@@ -1248,7 +1201,7 @@ gantt
 <td align="center" width="25%">
 
 **`07`**<br/>
-<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="60"/><br/>
 **Academic Excellence I**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf)
@@ -1257,7 +1210,7 @@ gantt
 <td align="center" width="25%">
 
 **`08`**<br/>
-<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="55"/><br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="60"/><br/>
 **Academic Excellence II**<br/>
 <sub>University of Fort Hare</sub><br/><br/>
 [![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=cc00ff)](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf)
@@ -1267,7 +1220,7 @@ gantt
 <tr>
 <td align="center" colspan="2">
 
-**`09`** &nbsp; <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHiO/giphy.gif" width="60"/>
+**`09`** &nbsp; <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHiO/giphy.gif" width="65"/>
 
 **IC Certificate**<br/>
 <sub>Industry Credential</sub>
@@ -1279,7 +1232,7 @@ gantt
 </td>
 <td align="center" colspan="2">
 
-**`10`** &nbsp; <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="60"/>
+**`10`** &nbsp; <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="65"/>
 
 **🌌 Astronomy Certification**<br/>
 <sub>Space & Astrophysics</sub>
@@ -1295,7 +1248,9 @@ gantt
 <br/>
 
 <div align="center">
-<em><strong>✦ 10 Certifications spanning AI · Security · Networking · Linux · Astronomy · Academic Excellence ✦</strong></em>
+
+*✦ 10 Certifications spanning AI · Security · Networking · Linux · Astronomy · Academic Excellence ✦*
+
 </div>
 
 <br/>
@@ -1304,9 +1259,9 @@ gantt
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                   🌌 FUN FACTS — SPACE & SCIENCE                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🌌 FUN FACTS — SPACE & SCIENCE                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1314,7 +1269,7 @@ gantt
 
 **A Few Things That Make Me, Me**
 
-<img src="https://media.giphy.com/media/l378fEMkEBGOqSyPe/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/l378fEMkEBGOqSyPe/giphy.gif" width="380"/>
 
 </div>
 
@@ -1328,8 +1283,8 @@ gantt
 | ⭐ Stars live for billions of years | I write code meant to outlast the project brief |
 | 🌑 Black holes bend spacetime itself | I bend architectural patterns to fit the problem, not the other way |
 | 🚀 Voyager 1 is 24 billion km from Earth, still transmitting | My apps stay reliable long after launch — like Voyager |
-| 💫 There are more stars than grains of sand on Earth | There are more attack vectors than CVEs — I prepare for both |
-| 🌍 Earth spins at 1,670 km/h at the equator | I move fast. I never compromise precision. |
+| 💫 More stars than grains of sand on Earth | More attack vectors than CVEs — I prepare for both |
+| 🌍 Earth spins at 1,670 km/h at the equator | I move fast. I never compromise on precision. |
 
 </div>
 
@@ -1339,9 +1294,9 @@ gantt
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--          🤝 LET'S COLLABORATE — CONTACT SECTION (REDESIGNED)      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               🤝 LET'S COLLABORATE — CONTACT                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1349,15 +1304,11 @@ gantt
 
 **Let's Build Something Extraordinary — Together**
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=52&text=◉%20ACTIVELY%20SEEKING%20OPPORTUNITIES%20—%20WORLDWIDE&fontSize=15&fontColor=00ff88&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0a0020,60:0a0020,100:000000&height=54&text=◉%20ACTIVELY%20SEEKING%20OPPORTUNITIES%20—%20WORLDWIDE&fontSize=15&fontColor=00ff88&fontAlignY=58&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -1367,52 +1318,28 @@ gantt
 
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🛡️_AI_Security_Engineering-9900ff?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🤖_ML_/_Deep_Learning-9900ff?style=for-the-badge&labelColor=000000"/>
-</td>
+<td align="center"><img src="https://img.shields.io/badge/🛡️_AI_Security_Engineering-9900ff?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🤖_ML_/_Deep_Learning-9900ff?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📱_Mobile_App_Development-cc00ff?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/💻_Full--Stack_Engineering-cc00ff?style=for-the-badge&labelColor=000000"/>
-</td>
+<td align="center"><img src="https://img.shields.io/badge/📱_Mobile_App_Development-cc00ff?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/💻_Full--Stack_Engineering-cc00ff?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🔬_Cybersecurity_Research-FFD700?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/☁️_Cloud_%26_DevOps-FFD700?style=for-the-badge&labelColor=000000"/>
-</td>
+<td align="center"><img src="https://img.shields.io/badge/🔬_Cybersecurity_Research-FFD700?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/☁️_Cloud_%26_DevOps-FFD700?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎓_Academic_Collaboration-60A5FA?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🌐_Open--Source_Projects-60A5FA?style=for-the-badge&labelColor=000000"/>
-</td>
+<td align="center"><img src="https://img.shields.io/badge/🎓_Academic_Collaboration-60A5FA?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🌐_Open--Source_Projects-60A5FA?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🌌_Astronomy_%26_Space_Research-c084fc?style=for-the-badge&labelColor=000000"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔐_Quantum_Cryptography-c084fc?style=for-the-badge&labelColor=000000"/>
-</td>
+<td align="center"><img src="https://img.shields.io/badge/🌌_Astronomy_%26_Space_Research-c084fc?style=for-the-badge&labelColor=000000"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🔐_Quantum_Cryptography-c084fc?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 </table>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <table>
 <tr>
@@ -1450,7 +1377,7 @@ gantt
 
 <br/><br/>
 
-<!-- Contribution snake -->
+<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake.svg"/>
@@ -1459,18 +1386,17 @@ gantt
 
 <br/><br/>
 
+<!-- ANIMATED QUOTE TICKER -->
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
-&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu?tab=followers)
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=3200&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=900&height=32&lines=✦+%22I+catch+zero-days+before+antivirus+even+knows+they+exist.%22+✦;🌌+Where+Cyberspace+meets+Outer+Space+—+Born+in+Eastern+Cape%2C+Built+for+the+World;⚡+98.2%25+Accuracy+·+Sub-50ms+Response+·+Zero+Compromises" alt="Quote ticker"/>
 
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- FOOTER — Waving footer matching the header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9900ff,30:cc00ff,60:FFD700,80:cc00ff,100:9900ff&height=200&section=footer&text=✦+From+Eastern+Cape+to+the+World+✦&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI+Security+·+Deep+Learning+·+Astronomy+·+Built+to+Last&descSize=13&descColor=c084fc&descAlignY=75" width="100%"/>
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9900ff,25:cc00ff,50:FFD700,75:ff00cc,100:9900ff&height=220&section=footer&text=✦+From+Eastern+Cape+to+the+World+✦&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI+Security+·+Deep+Learning+·+Astronomy+·+Built+to+Last&descSize=14&descColor=d8b4fe&descAlignY=75" width="100%"/>
 
 <br/>
 
