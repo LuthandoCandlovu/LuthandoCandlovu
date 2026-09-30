@@ -1,56 +1,278 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     LUTHANDO CANDLOVU — GITHUB PROFILE
-     Palette: Navy #0a1628 · Teal #14b8a6 · Gold #f5b942 · Slate #64748b
-     Works in both GitHub light and dark mode.
-     ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--           ANIMATED HEADER — PURPLE · GOLD COSMOS          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:05001a,45:0d0040,70:6600cc,100:ffd700&height=340&section=header&text=LUTHANDO%20CANDLOVU&fontSize=62&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=%E2%9A%A1%20Software%20Developer%20%7C%20%F0%9F%94%AC%20AI%2FML%20%26%20Data%20Science%20%7C%20%F0%9F%8C%8C%20Radio%20Astronomy%20%26%20Scientific%20Computing&descSize=16&descAlignY=62&descColor=d8b4fe&stroke=ffd700&strokeWidth=3" width="100%"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TYPING LINES                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,55:0f766e,100:14b8a6&height=230&section=header&text=Luthando%20Candlovu&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20Scientific%20Computing&descSize=17&descAlignY=60&descColor=e2e8f0" width="100%" alt="Luthando Candlovu"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&height=40&lines=BSc+Computer+Science+%C2%B7+University+of+Fort+Hare;DARA+%C2%B7+PASEA+2026+%C2%B7+Radio+Astronomy+Data+Workflows;Building+AI+systems+and+full-stack+products;Open+to+opportunities+%C2%B7+Remote+worldwide" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2800&pause=900&color=ffd700&center=true&vCenter=true&repeat=true&width=980&height=55&lines=%F0%9F%8E%93+BSc+Computer+Science+%C2%B7+University+of+Fort+Hare;%F0%9F%94%AD+PASEA+2026+%C2%B7+DARA+%C2%B7+Radio+Astronomy+Data+Workflows;%F0%9F%9B%A1%EF%B8%8F+Zero-Day+Threat+Detection+%C2%B7+98.2%25+Accuracy;%F0%9F%9A%80+15%2B+Apps+Shipped+%C2%B7+Hackathon+Winner;%F0%9F%8C%8C+Building+from+the+Eastern+Cape+%F0%9F%87%BF%F0%9F%87%A6+for+the+Whole+World" alt="Typing Banner"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=googlechrome&logoColor=f5b942)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=14b8a6)](mailto:luthando.candlovu30@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/luthando-candlovu-b59110324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:luthando.candlovu30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://luthandocandlovu.github.io/MY-PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-ffd700?style=for-the-badge&logo=googlechrome&logoColor=05001a"/>
+</a>
+<a href="https://github.com/LuthandoCandlovu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://wa.me/27782765932">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-![Status](https://img.shields.io/badge/Status-Open_to_work-14b8a6?style=flat-square&labelColor=0a1628)
-![Location](https://img.shields.io/badge/Based_in-Eastern_Cape,_South_Africa-64748b?style=flat-square&labelColor=0a1628)
-![Work](https://img.shields.io/badge/Work-Remote_worldwide-f5b942?style=flat-square&labelColor=0a1628)
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LuthandoCandlovu&style=for-the-badge&color=6600cc&label=PROFILE+VIEWS&labelColor=05001a)
+![](https://img.shields.io/badge/%E2%97%89_OPEN_TO_WORK-00ff88?style=for-the-badge&labelColor=05001a)
+![](https://img.shields.io/badge/REMOTE-WORLDWIDE-ffd700?style=for-the-badge&labelColor=05001a)
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────────  HIGHLIGHTS  ───────────────────────── -->
+<!-- GOLD / TEAL DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🔭 NEW — PASEA PROMO BANNER                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,50:0d0040,100:05001a&height=78&text=%F0%9F%94%AD%20NEW%20%C2%B7%20PASEA%20COMPLETED%20%C2%B7%2014%E2%80%9318%20SEPTEMBER%202026%20%C2%B7%20NORTH-WEST%20UNIVERSITY&fontSize=17&fontColor=ffd700&fontAlignY=55&animation=twinkling" width="100%"/>
+
+<br/>
+
+![](https://img.shields.io/badge/%F0%9F%86%95_PASEA_2026-CERTIFICATE_EARNED-6600cc?style=for-the-badge&labelColor=05001a)
+![](https://img.shields.io/badge/%F0%9F%93%A1_DARA-RADIO_ASTRONOMY-ffd700?style=for-the-badge&labelColor=05001a)
+![](https://img.shields.io/badge/%F0%9F%8C%8C_FOCUS-SCIENTIFIC_COMPUTING-cc00ff?style=for-the-badge&labelColor=05001a)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ⚡ BOOT SEQUENCE                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0040,100:000000&height=48&text=%E2%9A%A1%20SYSTEM%20BOOT%20%C2%B7%20EASTERN%20CAPE%20NODE%20%F0%9F%87%BF%F0%9F%87%A6%20%C2%B7%20ALL%20MODULES%20LOADING&fontSize=13&fontColor=cc00ff&fontAlignY=58&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=13&duration=900&pause=150&color=cc00ff&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=200&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+INITIALISING...;%E2%96%B8+Software+Engineering+Core+.................+%E2%9C%85+ONLINE;%E2%96%B8+AI+%2F+Deep+Learning+Stack+..................+%E2%9C%85+ONLINE;%E2%96%B8+Zero-Day+Detector+........................+%E2%9A%A1+98.2%25+ACCURACY;%E2%96%B8+Data+Science+Pipelines+...................+%E2%9C%85+ONLINE;%E2%96%B8+Radio+Astronomy+Workflows+................+%F0%9F%93%A1+CONNECTED;%E2%96%B8+PASEA+2026+................................+%F0%9F%94%AD+COMPLETED;%E2%96%B8+Scanning+for+opportunities+................+%E2%9C%85+OPEN" alt="Boot Sequence"/>
+
+<br/>
+
+| &nbsp; | Module | Status | Signal |
+|:---:|:---|:---:|:---:|
+| 💻 | **Software Engineering Core** | ![](https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=05001a) | `████████████ 100%` |
+| 🤖 | **AI / Deep Learning Stack** | ![](https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=05001a) | `████████████ 100%` |
+| 🎯 | **Zero-Day Detector** | ![](https://img.shields.io/badge/98.2%25_ACCURACY-ffd700?style=flat-square&labelColor=05001a) | `███████████░  98%` |
+| 📊 | **Data Science Pipelines** | ![](https://img.shields.io/badge/ONLINE-00ff88?style=flat-square&labelColor=05001a) | `████████████ 100%` |
+| 📡 | **Radio Astronomy Workflows** | ![](https://img.shields.io/badge/DARA_TRAINED-cc00ff?style=flat-square&labelColor=05001a) | `███████████░  90%` |
+| 🔭 | **PASEA 2026** | ![](https://img.shields.io/badge/COMPLETED-ffd700?style=flat-square&labelColor=05001a) | `████████████ DONE` |
+| 🔗 | **Blockchain Auditor** | ![](https://img.shields.io/badge/IN_PROGRESS-60A5FA?style=flat-square&labelColor=05001a) | `████████░░░░  55%` |
+| ⚛️ | **Quantum Crypto Module** | ![](https://img.shields.io/badge/RESEARCH-6600cc?style=flat-square&labelColor=05001a) | `████░░░░░░░░  35%` |
+
+<br/>
+
+![](https://img.shields.io/badge/%E2%97%89_ALL_SYSTEMS_NOMINAL-00ff88?style=for-the-badge&labelColor=05001a)
+![](https://img.shields.io/badge/READY_TO_BUILD-ffd700?style=for-the-badge&labelColor=05001a)
+![](https://img.shields.io/badge/READY_TO_RESEARCH-6600cc?style=for-the-badge&labelColor=05001a)
+
+</div>
+
+<br/>
+
+<!-- ANIMATED GIF DIVIDER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    👤 WHO AM I — HERO SECTION                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"/> `> whoami`
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" valign="middle" width="260">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="190" alt="cyber"/>
+
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/e46dfb56-252b-431b-be9a-3911ebdf5298" width="130" alt="Luthando Candlovu" style="border-radius:50%"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/%E2%97%89_BUILDING_NOW-00ff88?style=flat-square&labelColor=05001a)
+
+<br/>
+
+![](https://img.shields.io/badge/%F0%9F%92%BB_Software_Engineer-ffd700?style=flat-square&labelColor=05001a)
+<br/>
+![](https://img.shields.io/badge/%F0%9F%94%AC_AI_/_ML-cc00ff?style=flat-square&labelColor=05001a)
+<br/>
+![](https://img.shields.io/badge/%F0%9F%94%AD_PASEA_2026-ffd700?style=flat-square&labelColor=05001a)
+<br/>
+![](https://img.shields.io/badge/%F0%9F%93%A1_DARA_Trained-cc00ff?style=flat-square&labelColor=05001a)
+<br/>
+![](https://img.shields.io/badge/%F0%9F%87%BF%F0%9F%87%A6_Eastern_Cape-6600cc?style=flat-square&labelColor=05001a)
+
+</td>
+
+<td width="30"></td>
+
+<td align="left" valign="middle" width="540">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=9999&pause=9999&color=ffd700&center=false&vCenter=true&repeat=false&width=540&height=65&lines=LUTHANDO+CANDLOVU" alt="Name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1700&pause=400&color=cc00ff&center=false&vCenter=true&repeat=true&width=540&height=30&lines=%E2%9A%A1+Software+Developer;%F0%9F%94%AC+AI+%2F+ML+Engineer;%F0%9F%93%8A+Data+Scientist;%F0%9F%93%A1+Radio+Astronomy+Trainee;%F0%9F%94%AD+PASEA+2026+Graduate;%F0%9F%9B%A1%EF%B8%8F+Security+Tool+Builder;%F0%9F%9A%80+Building+for+the+World+from+ZA" alt="Roles"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=12&duration=1400&pause=400&color=00ff88&center=false&vCenter=true&repeat=true&width=540&height=24&lines=%E2%97%88+Threat+accuracy+98.2%25+%C2%B7+Real-time+under+50ms+%C2%B7+15%2B+apps+%C2%B7+10%2B+certs" alt="Stats line"/>
+
+<br/><br/>
+
+```yaml
+╔══════════════════════════════════════════════╗
+║          SYSTEM IDENTIFICATION               ║
+╠══════════════════════════════════════════════╣
+║  name       : Luthando Candlovu              ║
+║  alias      : LuthandoCandlovu               ║
+║  role       : Software Developer             ║
+║               AI/ML · Data · Scientific Comp ║
+║  location   : Eastern Cape, ZA  🇿🇦          ║
+║  degree     : BSc Computer Science           ║
+║  university : University of Fort Hare        ║
+║  training   : DARA · PASEA (Sept 2026)       ║
+║  shipped    : 15+ Apps                       ║
+║  certs      : 10+ Professional               ║
+╠══════════════════════════════════════════════╣
+║  ✅ Full-time   ✅ Freelance                  ║
+║  ✅ Research    ✅ Consulting                 ║
+║  ✅ Remote Worldwide                          ║
+╚══════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> ### 🌌 *"I sit at the intersection of two infinite frontiers —*
+> ### *cyberspace and outer space. I build in one.*
+> ### *I'm learning to explore the other."*
+>
+> **— Luthando Candlovu, Eastern Cape 🇿🇦**
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🎯 WHAT I'M LOOKING FOR                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="38"/> `> currently.looking.for`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0040,100:6600cc&height=100&text=Software%20Engineering%20%C2%B7%20Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20Scientific%20Computing&fontSize=17&fontColor=ffffff&fontAlignY=40&desc=Where%20software%20meets%20research%20%E2%80%94%20contribute%2C%20learn%20and%20build%20real-world%20systems&descSize=13&descColor=d8b4fe&descAlignY=68" width="92%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 💻 Software Engineering | 📊 Data Science | 🤖 AI / ML | 🔭 Scientific Computing |
+|:---:|:---:|:---:|:---:|
+| Full-stack web | Data pipelines | Deep learning | Radio astronomy data |
+| Mobile apps | Feature engineering | NLP | Python + Linux workflows |
+| APIs & backends | Analysis & visualisation | Time-series | Data reduction |
+| Cloud & DevOps | Log & anomaly analysis | Computer vision | AI for astronomy |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ⚡ QUICK FIRE STATS                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="38"/> `> quick.stats`
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"/>
+
+<br/><br/>
+
+| ⚡ Metric | 🔢 Value | 🌟 Context |
+|:---|:---:|:---|
+| 🎯 Threat Detection Accuracy | **98.2%** | Live network traffic classification |
+| ⏱️ Real-Time Inference Speed | **under 50ms** | End-to-end zero-day detection |
+| 🚀 Production Apps Shipped | **15+** | Web · Mobile · AI · Security |
+| 🏆 Hackathon Awards | **1st Place** | Vula Motor Emergency Platform |
+| 🔭 Astronomy Training | **DARA + PASEA** | Radio astronomy · Sept 2026 |
+| 📜 Professional Certifications | **10+** | AI · Cisco · Linux · Astronomy + more |
+| 📚 Research Papers | **3** | IEEE · ACM · Springer |
+| 🌍 Reach | **Worldwide** | Remote · Open to relocation |
+| ☕ Fuel | **Infinite** | Coffee + Code + Curiosity |
+
+<br/>
+
 <table>
 <tr>
-<td align="center" width="20%">
-<h2>15+</h2>
-<sub>APPS SHIPPED</sub>
-</td>
-<td align="center" width="20%">
-<h2>98.2%</h2>
-<sub>THREAT-DETECTION ACCURACY</sub>
-</td>
-<td align="center" width="20%">
-<h2>1st</h2>
-<sub>HACKATHON PLACE</sub>
-</td>
-<td align="center" width="20%">
-<h2>2</h2>
-<sub>ASTRONOMY PROGRAMMES<br/>DARA · PASEA</sub>
-</td>
-<td align="center" width="20%">
-<h2>10+</h2>
-<sub>CERTIFICATIONS</sub>
-</td>
+<td align="center"><img src="https://img.shields.io/badge/15%2B-Apps_Shipped-ffd700?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/10%2B-Certifications-6600cc?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/3-Publications-cc00ff?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/98.2%25-Accuracy-00ff88?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/PASEA-2026-ffd700?style=for-the-badge&labelColor=05001a"/></td>
 </tr>
 </table>
 
@@ -58,336 +280,1751 @@
 
 <br/>
 
-<!-- ───────────────────────────  ABOUT  ─────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
 
-## About
+<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--        🌌 ASTRONOMY & SCIENTIFIC COMPUTING — PASEA + DARA      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-I'm a **Computer Science graduate from the University of Fort Hare** who builds software people actually use, and who is increasingly drawn to the science behind the data.
+<div align="center">
 
-My work sits between **software engineering, data science, AI/ML and scientific computing**, with a growing focus on **radio astronomy**. I've built web platforms, mobile apps and machine-learning systems for local institutions and community contexts. I'm now applying those skills to astronomy data: Python, Linux, big-data workflows and AI for science.
+## <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="38"/> `> astronomy.scientific.computing`
 
-> **Currently looking for** opportunities in software engineering, data science, AI/ML and scientific computing, where I can contribute, keep learning and build real-world systems.
+**Radio Astronomy · Scientific Data · AI for Science**
+
+<img src="https://media.giphy.com/media/l378fEMkEBGOqSyPe/giphy.gif" width="400"/>
+
+</div>
 
 <br/>
 
-<!-- ─────────────────────  ASTRONOMY & SCIENCE  ───────────────────── -->
+<div align="center">
 
-## Astronomy & Scientific Computing
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,40:0d0040,100:6600cc&height=110&text=%F0%9F%94%AD%20PASEA%20%C2%B7%20PAN-AFRICAN%20SCHOOL%20FOR%20EMERGING%20ASTRONOMERS&fontSize=20&fontColor=ffd700&fontAlignY=40&desc=North-West%20University%20%C2%B7%2014%E2%80%9318%20September%202026&descSize=15&descColor=e9d5ff&descAlignY=68&animation=fadeIn" width="94%"/>
 
-<table>
+</div>
+
+<br/>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 PASEA
+### 🔭 PASEA — 2026
+
 **Pan-African School for Emerging Astronomers**
-North-West University · 14–18 September 2026
+North-West University · **14–18 September 2026**
 
-![](https://img.shields.io/badge/Completed-14b8a6?style=flat-square&labelColor=0a1628)
-![](https://img.shields.io/badge/Certificate-f5b942?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/STATUS-COMPLETED-00ff88?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/CERTIFICATE-EARNED-ffd700?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/LOCATION-NORTH--WEST_UNIVERSITY-6600cc?style=flat-square&labelColor=05001a)
 
-An intensive school for emerging African astronomers, adding astronomy foundations, research practice and a peer network to my software and data background.
+An intensive school for emerging African astronomers. It gave me astronomy foundations, exposure to research practice and a network of fellow early-career astronomers, and it strengthens my software and data background with real scientific context.
 
-<!-- Add your certificate link:
-[View certificate](YOUR_PASEA_CERTIFICATE_LINK) -->
+<!-- Add your PASEA certificate link below:
+[![View Certificate](https://img.shields.io/badge/View_Certificate-05001a?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffd700)](YOUR_PASEA_CERTIFICATE_LINK)
+-->
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 DARA
+
 **Development in Africa with Radio Astronomy**
 Python · Linux · Big Data · AI in Astronomy
 
-![](https://img.shields.io/badge/Completed-14b8a6?style=flat-square&labelColor=0a1628)
-![](https://img.shields.io/badge/Certificate-f5b942?style=flat-square&labelColor=0a1628)
+![](https://img.shields.io/badge/STATUS-COMPLETED-00ff88?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/CERTIFICATE-EARNED-ffd700?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/FOCUS-RADIO_ASTRONOMY-6600cc?style=flat-square&labelColor=05001a)
 
-Practical training in scientific-data workflows: reduction and analysis of radio astronomy data, and applying machine learning to astronomical problems.
+Practical training in scientific-data workflows: Python and Linux tooling, big-data handling and reduction of radio astronomy data, and applying AI methods to astronomical problems.
 
-<!-- Add your certificate link:
-[View certificate](YOUR_DARA_CERTIFICATE_LINK) -->
+<!-- Add your DARA certificate link below:
+[![View Certificate](https://img.shields.io/badge/View_Certificate-05001a?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffd700)](YOUR_DARA_CERTIFICATE_LINK)
+-->
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+### 🧭 Astronomy journey
+
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0a1628','primaryTextColor':'#e2e8f0','primaryBorderColor':'#14b8a6','lineColor':'#64748b','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
 flowchart LR
-    A["BSc Computer Science<br/>University of Fort Hare"] --> B["DARA<br/>Python · Linux · Big Data"]
-    B --> C["PASEA 2026<br/>North-West University"]
-    C --> D["Radio astronomy<br/>data reduction"]
-    D --> E["AI for astronomy<br/>and research software"]
+    A["🎓 BSc Computer Science<br/>University of Fort Hare"]:::start
+    B["📡 DARA<br/>Python · Linux · Big Data<br/>AI in Astronomy"]:::step
+    C["🔭 PASEA 2026<br/>North-West University<br/>14–18 Sept"]:::step
+    D["🌌 Radio astronomy<br/>data reduction workflows"]:::step
+    E["🤖 AI for astronomy<br/>ML on scientific data"]:::step
+    F["🚀 Next: research &<br/>scientific software roles"]:::goal
+
+    A --> B --> C --> D --> E --> F
+
+    classDef start fill:#05001a,stroke:#ffd700,color:#d8b4fe,stroke-width:2px
+    classDef step fill:#0d0040,stroke:#cc00ff,color:#e9d5ff,stroke-width:2px
+    classDef goal fill:#6600cc,stroke:#ffd700,color:#ffffff,stroke-width:2px
 ```
 
-| Focus | Tools & skills | Application |
+<br/>
+
+### 🛰️ Radio astronomy data workflow
+
+```mermaid
+flowchart TD
+    OBS["📡 Telescope observations<br/>raw visibilities"]:::input
+    FLAG["🚩 Flagging<br/>RFI removal"]:::process
+    CAL["🎚️ Calibration<br/>bandpass · gain · flux"]:::process
+    IMG["🖼️ Imaging<br/>gridding · deconvolution"]:::process
+    ANALYSE["📊 Analysis<br/>source finding · statistics"]:::model
+    ML["🤖 Machine learning<br/>classification · anomaly detection"]:::model
+    OUT["📈 Science-ready results<br/>plots · catalogues · papers"]:::output
+
+    OBS --> FLAG --> CAL --> IMG --> ANALYSE --> OUT
+    ANALYSE --> ML --> OUT
+
+    classDef input fill:#05001a,stroke:#ffd700,color:#d8b4fe
+    classDef process fill:#05001a,stroke:#cc00ff,color:#cc00ff
+    classDef model fill:#0d0040,stroke:#ffd700,color:#d8b4fe,stroke-width:2px
+    classDef output fill:#05001a,stroke:#00ff88,color:#00ff88
+```
+
+<br/>
+
+### 🧰 What I bring to scientific computing
+
+<div align="center">
+
+| 🌌 Area | 🛠️ Tools & skills | 💡 How it connects |
 |:---|:---|:---|
 | **Scientific Python** | NumPy · Pandas · SciPy · Matplotlib | Numerical analysis and plotting of observational data |
 | **Linux workflows** | Bash · Git · SSH · Docker | Running processing pipelines on remote and shared machines |
-| **Data reduction** | Radio astronomy pipelines | Turning raw telescope data into science-ready products |
-| **Machine learning** | TensorFlow · PyTorch · scikit-learn | Classification and anomaly detection on scientific data |
-| **Research software** | Testing · CI · clean architecture | Reproducible, maintainable code |
+| **Data reduction** | Radio astronomy pipelines (DARA) | Turning raw telescope data into science-ready products |
+| **Machine learning** | TensorFlow · PyTorch · scikit-learn | Classification, anomaly detection and time-series on scientific data |
+| **Big data** | Large-array handling · efficient I/O | Working with data volumes typical of modern telescopes |
+| **Software engineering** | Testing · CI · clean architecture | Reproducible, maintainable research code |
+
+</div>
 
 <br/>
 
-<!-- ───────────────────────  WHAT I BUILD  ─────────────────────── -->
+<div align="center">
 
-## What I build
+![](https://img.shields.io/badge/Python-0d0040?style=for-the-badge&logo=python&logoColor=ffd700)
+![](https://img.shields.io/badge/Linux-0d0040?style=for-the-badge&logo=linux&logoColor=cc00ff)
+![](https://img.shields.io/badge/NumPy-0d0040?style=for-the-badge&logo=numpy&logoColor=60A5FA)
+![](https://img.shields.io/badge/Pandas-0d0040?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-0d0040?style=for-the-badge&logo=jupyter&logoColor=ffd700)
+![](https://img.shields.io/badge/Docker-0d0040?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![](https://img.shields.io/badge/TensorFlow-0d0040?style=for-the-badge&logo=tensorflow&logoColor=ffd700)
 
-| | Area | What it looks like |
-|:---:|:---|:---|
-| 🤖 | **AI / ML systems** | Deep-learning models, time-series prediction, NLP |
-| 🛡️ | **Security tools** | Zero-day and anomaly detection, AI-assisted code review |
-| 📊 | **Data pipelines** | Cleaning, feature engineering, log analysis, scientific data |
-| 📱 | **Mobile apps** | Cross-platform apps with real-time features |
-| 💻 | **Full-stack platforms** | Web systems for education, property management and community use |
+</div>
 
 <br/>
 
-<!-- ─────────────────────  FEATURED PROJECTS  ───────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
 
-## Featured projects
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🛤️ STORY / TIMELINE                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="38"/> `> timeline.story`
+
+**From Eastern Cape to Global Impact — The Journey**
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" width="98%">
+<tr>
+<td align="center" width="23%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,100:05001a&height=140&text=%F0%9F%8C%B1%20ORIGIN&fontSize=22&fontColor=ffd700&fontAlignY=38&desc=Eastern%20Cape%2C%20South%20Africa%20%F0%9F%87%BF%F0%9F%87%A6&descSize=13&descColor=cc00ff&descAlignY=62&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/HOME_NODE-6600cc?style=for-the-badge&labelColor=05001a"/>
+<br/><sub>Where the journey began</sub>
+</td>
+<td align="center" width="3%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&pause=80&color=ffd700&center=true&vCenter=true&repeat=true&width=40&height=38&lines=%E2%96%B6;%E2%96%B6" alt="arrow"/>
+</td>
+<td align="center" width="23%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,100:05001a&height=140&text=%F0%9F%8E%93%20ACADEMIA&fontSize=22&fontColor=ffd700&fontAlignY=38&desc=University%20of%20Fort%20Hare%20%C2%B7%20BSc%20CS&descSize=13&descColor=cc00ff&descAlignY=62&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/%E2%AD%90_EXCELLENCE_I_%26_II-ffd700?style=for-the-badge&labelColor=05001a"/>
+<br/><sub>Academic Excellence Awards</sub>
+</td>
+<td align="center" width="3%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&pause=80&color=ffd700&center=true&vCenter=true&repeat=true&width=40&height=38&lines=%E2%96%B6;%E2%96%B6" alt="arrow"/>
+</td>
+<td align="center" width="23%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,100:05001a&height=140&text=%E2%9A%A1%20BUILDER&fontSize=22&fontColor=ffd700&fontAlignY=38&desc=15%2B%20apps%20%C2%B7%20Hackathon%20winner&descSize=13&descColor=cc00ff&descAlignY=62&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_HACKATHON_WINNER-6600cc?style=for-the-badge&labelColor=05001a"/>
+<br/><sub>Vula Motor · 1st Place</sub>
+</td>
+<td align="center" width="3%">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=600&pause=80&color=ffd700&center=true&vCenter=true&repeat=true&width=40&height=38&lines=%E2%96%B6;%E2%96%B6" alt="arrow"/>
+</td>
+<td align="center" width="23%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,100:05001a&height=140&text=%F0%9F%94%AD%20ASTRONOMY&fontSize=22&fontColor=ffd700&fontAlignY=38&desc=DARA%20%C2%B7%20PASEA%202026&descSize=13&descColor=cc00ff&descAlignY=62&animation=twinkling" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%86%95_SEPT_2026-00ff88?style=for-the-badge&labelColor=05001a"/>
+<br/><sub>Radio astronomy training</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0d0040,70:0d0040,100:000000&height=76&text=%F0%9F%9A%80%20WHAT'S%20NEXT&fontSize=22&fontColor=ffd700&fontAlignY=40&desc=Scientific%20Computing%20·%20AI%20for%20Astronomy%20·%20Research%20Software&descSize=14&descColor=cc00ff&descAlignY=70&animation=twinkling" width="78%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🔭 CURRENTLY BUILDING                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="38"/> `> now.building`
+
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="420"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🛡️ Zero-Day Detection
-Deep-learning threat detection on live network traffic. A bidirectional LSTM, Isolation Forest and AutoEncoder ensemble, with MITRE ATT&CK mapping.
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="95"/>
 
-**98.2% accuracy · under 50 ms inference**
+### 🛡️ APT Detection v2
 
-`Python` `TensorFlow` `scikit-learn`
+**Advanced Persistent Threat**
+behavioural engine with
+autonomous countermeasures
 
-[View repository →](https://github.com/LuthandoCandlovu/zero-day-detection)
+![](https://img.shields.io/badge/Progress-80%25-ffd700?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/Status-ACTIVE-00ff88?style=flat-square&labelColor=05001a)
 
-</td>
-<td width="50%" valign="top">
-
-#### 🔍 CodeSage AI
-Code security reviewer that combines static analysis (AST) with LLM reasoning to find vulnerabilities, map them to OWASP and suggest fixes.
-
-**Async API · CVE lookup · inline diffs**
-
-`Python` `FastAPI` `Docker` `PostgreSQL`
-
-[View repository →](https://github.com/LuthandoCandlovu/codesage-ai)
+`████████░░ 80%`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🚑 Vula Motor 🏆
-Emergency response app with one-tap SOS, live GPS streaming, nearby responder alerts and offline-first sync.
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="95"/>
 
-**1st place, hackathon**
+### 📡 Radio Astronomy Data Tools
 
-`React Native` `TypeScript` `Firebase` `Expo`
+**Python workflows** for reducing
+and analysing radio astronomy
+data, built after DARA + PASEA
 
-[View repository →](https://github.com/LuthandoCandlovu/Vula-Motor_App)
+![](https://img.shields.io/badge/Progress-ACTIVE-cc00ff?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/Status-NEW-00ff88?style=flat-square&labelColor=05001a)
 
-</td>
-<td width="50%" valign="top">
-
-#### 📈 Stock Predictor
-Multi-layer LSTM trained on multi-year market data, with an end-to-end pipeline from download to visualised prediction.
-
-**LSTM 128 → 64 · 60-day window**
-
-`Python` `Keras` `yfinance` `Plotly`
-
-[View repository →](https://github.com/LuthandoCandlovu/Stock-Predictor)
+`██████░░░░ growing`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🚦 Traffic Prediction
-Machine-learning model that forecasts traffic patterns from historical data.
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="95"/>
 
-`Python` `scikit-learn`
+### ⚛️ Quantum Cryptography
 
-<!-- Replace with the exact repo URL -->
-[View repository →](https://github.com/LuthandoCandlovu?tab=repositories)
+**Post-quantum resistant** protocols
+for tomorrow's threat landscape.
+Research phase ongoing.
 
-</td>
-<td width="50%" valign="top">
+![](https://img.shields.io/badge/Progress-35%25-6600cc?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/Status-RESEARCH-cc00ff?style=flat-square&labelColor=05001a)
 
-#### 🗣️ African Language NLP
-Natural language processing work focused on African languages, so language technology reaches more people.
-
-`Python` `NLP`
-
-<!-- Replace with the exact repo URL -->
-[View repository →](https://github.com/LuthandoCandlovu?tab=repositories)
+`███░░░░░░░ 35%`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🧾 Log Anomaly Platform
-Platform that ingests system logs and surfaces unusual behaviour.
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="95"/>
 
-`Python` `FastAPI`
+### 🔗 Blockchain Auditor AI
 
-<!-- Replace with the exact repo URL -->
-[View repository →](https://github.com/LuthandoCandlovu?tab=repositories)
+**Smart contract vulnerability**
+scanner — LLM reasoning
++ static analysis fusion.
 
-</td>
-<td width="50%" valign="top">
+![](https://img.shields.io/badge/Progress-55%25-60A5FA?style=flat-square&labelColor=05001a)
+![](https://img.shields.io/badge/Status-IN_PROGRESS-60A5FA?style=flat-square&labelColor=05001a)
 
-#### 🌍 SkyWatch Africa
-Astronomy project that makes African skies and space science more accessible.
-
-`Python` `Astronomy`
-
-<!-- Replace with the exact repo URL -->
-[View repository →](https://github.com/LuthandoCandlovu?tab=repositories)
+`█████░░░░░ 55%`
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    🏗️ SYSTEM ARCHITECTURE                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![zero-day-detection](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=zero-day-detection&theme=transparent&hide_border=true&title_color=0f766e&icon_color=f5b942&text_color=64748b)](https://github.com/LuthandoCandlovu/zero-day-detection)
-[![codesage-ai](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=codesage-ai&theme=transparent&hide_border=true&title_color=0f766e&icon_color=f5b942&text_color=64748b)](https://github.com/LuthandoCandlovu/codesage-ai)
+## <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="38"/> `> system.architecture`
+
+**AI Security Core — Full Stack Design**
 
 </div>
 
-<details>
-<summary><b>How Zero-Day Detection works</b> (architecture)</summary>
+<br/>
+
+### 🌐 Layer 1 — Threat Ingestion Surface
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     🌐  THREAT INGESTION SURFACE                        ║
+╠═══════════════╦════════════════╦═══════════════════╦═════════════════════╣
+║  🔴 NETWORK   ║  📦  PACKETS   ║   🔗  URL / DNS   ║   📋  SYSTEM LOGS  ║
+║   TRAFFIC     ║   CAPTURE      ║    REQUESTS       ║   & AUDIT TRAILS   ║
+║               ║                ║                   ║                    ║
+║  Live pcap    ║  Deep packet   ║  Phishing &       ║  OS · App ·        ║
+║  ingestion    ║  inspection    ║  malicious URL    ║  Security logs     ║
+║  at scale     ║  & parsing     ║  classification   ║  correlation       ║
+╚═══════════════╩════════════════╩═══════════════════╩═════════════════════╝
+```
+
+<br/>
+
+### 🤖 Layer 2 — AI Security Core
+
+```mermaid
+graph TB
+    subgraph INGEST["🌐 THREAT SURFACE — Layer 1"]
+        direction LR
+        A["🔴 Network Traffic"]
+        B["📦 Code Repos"]
+        C["🔗 URL Requests"]
+        D["📋 System Logs"]
+    end
+
+    subgraph CORE["🤖 AI SECURITY CORE — Layer 2"]
+        direction TB
+        E["🧠 Deep Learning Engine<br/>━━━━━━━━━━━━━━━━━━<br/>LSTM · CNN · Transformers<br/>Temporal pattern recognition"]
+        F["🔍 Anomaly Detection<br/>━━━━━━━━━━━━━━━━━━<br/>Isolation Forest · AutoEncoder<br/>Unsupervised outlier ID"]
+        G["📊 Feature Engineering<br/>━━━━━━━━━━━━━━━━━━<br/>NLP · Graph Analysis<br/>Dimensionality reduction"]
+        E <-->|"mutual feedback"| F
+        F <-->|"feature vectors"| G
+        G -->|"enriched embeddings"| E
+    end
+
+    subgraph MODELS["⚡ DEPLOYED MODELS — Layer 3"]
+        direction LR
+        H["🛡️ Zero-Day<br/>Detector<br/>98.2% Acc<br/>under 50ms"]
+        I["🎣 Phishing<br/>Classifier<br/>URL · Email<br/>Real-time"]
+        J["📈 APT<br/>Detector<br/>Behavioural<br/>Active Dev"]
+        K["🔐 Smart<br/>Contract<br/>Auditor<br/>Blockchain"]
+    end
+
+    subgraph RESPONSE["✅ AUTOMATED RESPONSE — Layer 4"]
+        direction LR
+        L["⚡ Real-Time Alerts"]
+        M["📊 Threat Intel"]
+        N["🔒 Auto Block"]
+        O["🧾 Forensics"]
+    end
+
+    A & B & C & D --> CORE
+    CORE --> H & I & J & K
+    H & I & J & K --> L & M & N & O
+
+    style CORE fill:#0d0040,stroke:#ffd700,stroke-width:2px,color:#e9d5ff
+    style INGEST fill:#05001a,stroke:#cc00ff,stroke-width:1px,color:#e9d5ff
+    style MODELS fill:#05001a,stroke:#ffd700,stroke-width:1px,color:#d8b4fe
+    style RESPONSE fill:#05001a,stroke:#00ff88,stroke-width:1px,color:#dcfce7
+```
+
+<br/>
+
+### 🔄 Layer 3 — Zero-Day Detection Pipeline
+
+```mermaid
+flowchart LR
+    RAW["📥 Raw Data<br/>Ingestion"]:::input
+    CLEAN["🧹 Normalise<br/>and Clean"]:::process
+    FEAT["⚙️ Feature<br/>Extraction"]:::process
+    WINDOW["📐 Time-Window<br/>Slicing"]:::process
+    TRAIN["🧠 Model<br/>Training"]:::model
+    EVAL["📊 Evaluation<br/>& Tuning"]:::model
+    INFER["⚡ Real-Time<br/>Inference"]:::output
+    ALERT["🚨 Threat<br/>Alert + Block"]:::output
+
+    RAW --> CLEAN --> FEAT --> WINDOW --> TRAIN --> EVAL
+    EVAL -->|"re-train loop"| TRAIN
+    EVAL --> INFER --> ALERT
+
+    classDef input fill:#000000,stroke:#ffd700,color:#ffd700
+    classDef process fill:#000000,stroke:#cc00ff,color:#cc00ff
+    classDef model fill:#0d0040,stroke:#ffd700,color:#d8b4fe
+    classDef output fill:#000000,stroke:#00ff88,color:#00ff88
+```
+
+<br/>
+
+### 🛡️ Layer 4 — Deep Threat Classification
+
+```mermaid
+flowchart TD
+    TRAFFIC["🌐 Live Network Traffic — TCP / UDP / ICMP"]:::node
+    TRAFFIC --> CAP["📦 Packet Capture — Scapy · Wireshark"]:::node
+    CAP --> EXTRACT["🔧 Feature Extraction<br/>• Packet size distribution<br/>• Flow duration & timing<br/>• Protocol anomalies<br/>• Behavioural signatures"]:::process
+
+    EXTRACT --> LSTM["🧠 LSTM Classifier<br/>128 → 64 units · Bidirectional · Dropout 0.2"]:::model
+    EXTRACT --> ISO["🔍 Isolation Forest<br/>Contamination 0.01 · Estimators 200"]:::model
+    EXTRACT --> AUTO["📐 AutoEncoder<br/>Encoder-Decoder · Reconstruction error scoring"]:::model
+
+    LSTM & ISO & AUTO --> ENSEMBLE["🗳️ Ensemble Voting<br/>Weighted majority + confidence scoring"]:::ensemble
+
+    ENSEMBLE -->|"Score above 0.85"| THREAT["⚠️ THREAT DETECTED<br/>Severity: CRITICAL / HIGH / MED<br/>MITRE ATT&CK Mapping"]:::alert
+    ENSEMBLE -->|"Score below 0.15"| SAFE["✅ CLEAN TRAFFIC — Logged & archived"]:::safe
+
+    THREAT --> BLOCK["🔒 Auto-Block"]:::action
+    THREAT --> REPORT["📊 Threat Report"]:::action
+    THREAT --> NOTIFY["📡 Alert Dispatch — SIEM · SOAR"]:::action
+
+    classDef node fill:#000000,stroke:#cc00ff,color:#e9d5ff
+    classDef process fill:#000000,stroke:#cc00ff,color:#cc00ff
+    classDef model fill:#0d0040,stroke:#ffd700,color:#d8b4fe,stroke-width:2px
+    classDef ensemble fill:#000000,stroke:#ffd700,color:#ffd700,stroke-width:2px
+    classDef alert fill:#1a0010,stroke:#ff4d6d,color:#ff4d6d
+    classDef safe fill:#001a10,stroke:#00ff88,color:#00ff88
+    classDef action fill:#000000,stroke:#60A5FA,color:#60A5FA
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     🚀 FEATURED PROJECTS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="38"/> `> projects.featured`
+
+**Production-Grade Systems — Built, Deployed, Defended**
+
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="480"/>
+
+</div>
+
+<br/>
+
+---
+
+### 🛡️ `PROJECT_01` — Zero-Day AI Threat Detector
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu/zero-day-detection)
+![accuracy](https://img.shields.io/badge/Accuracy-98.2%25-ffd700?style=for-the-badge&labelColor=05001a)
+![latency](https://img.shields.io/badge/Latency-under_50ms-cc00ff?style=for-the-badge&labelColor=05001a)
+![status](https://img.shields.io/badge/Status-%E2%97%89_LIVE-00ff88?style=for-the-badge&labelColor=05001a)
+
+> **Deep neural network detecting novel, unseen threats in live network traffic — before antivirus signatures exist.**
+
+- 🔴 Real-time packet stream classification with bidirectional LSTM
+- 🔍 Isolation Forest for unsupervised zero-day anomaly detection
+- 📐 AutoEncoder reconstruction error scoring for unknown threats
+- 🗳️ Ensemble voting across 3 model heads with confidence scoring
+- 🗺️ MITRE ATT&CK mapping for automatic threat categorisation
+- 🔒 Auto firewall rule push on high-confidence detections
+
+```python
+# Sample classification output
+{
+  "threat_type":  "zero_day_exploit",
+  "severity":     "CRITICAL",
+  "confidence":   0.982,
+  "response_ms":  47,
+  "mitre_tactic": "TA0001 — Initial Access",
+  "action":       "AUTO_BLOCK + ALERT"
+}
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%"/>
+
+<img src="https://media.giphy.com/media/3o7aD4ubpfFaIFrNnW/giphy.gif" width="100%"/>
+
+```
+╔══════════════════════╗
+║   THREAT DASHBOARD   ║
+║   (sample display)   ║
+║  ──────────────────  ║
+║  Accuracy: ██ 98.2%  ║
+║  Response: ██ <50ms  ║
+║  Models:   ██ 3      ║
+║  Status:  ◉ ACTIVE   ║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💬 `PROJECT_02` — CodeSage AI — LLM Code Security Reviewer
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100%"/>
+
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100%"/>
+
+```
+╔══════════════════════╗
+║   CODESAGE SCANNER   ║
+║  ──────────────────  ║
+║  > AST parse...  ✅  ║
+║  > CVE lookup... ✅  ║
+║  > LLM reason... ✅  ║
+║                      ║
+║  ⚠ SQL Injection     ║
+║  ⚠ XSS Vector        ║
+║  ✅ Fix generated    ║
+╚══════════════════════╝
+```
+
+</td>
+<td width="58%" valign="top">
+
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu/codesage-ai)
+![engine](https://img.shields.io/badge/Engine-LLM_Powered-cc00ff?style=for-the-badge&labelColor=05001a)
+![api](https://img.shields.io/badge/Backend-FastAPI-00ff88?style=for-the-badge&labelColor=05001a)
+![status](https://img.shields.io/badge/Status-%E2%97%89_LIVE-00ff88?style=for-the-badge&labelColor=05001a)
+
+> **AI-powered code review agent fusing static analysis with LLM deep reasoning to surface vulnerabilities with precise fix suggestions.**
+
+- ⚡ Async FastAPI backend for high-throughput code submission
+- 🌲 Static analysis pipeline extracting AST-level patterns
+- 🤖 LLM reasoning for context-aware vulnerability explanation
+- 🗃️ CVE database lookup and OWASP Top 10 classification
+- 🔧 Auto-generated fix recommendations with inline diff output
+- 🌐 Supports Python · JavaScript · TypeScript · Java
+
+```
+Stack: Python · FastAPI · LLM API · AST · Docker
+       PostgreSQL · REST API · GitHub Actions CI
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚗 `PROJECT_03` — Vula Motor — Emergency Response Platform 🏆
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
+![award](https://img.shields.io/badge/%F0%9F%8F%86_HACKATHON-1st_PLACE-ffd700?style=for-the-badge&labelColor=05001a)
+![platform](https://img.shields.io/badge/iOS_+_Android-React_Native-60A5FA?style=for-the-badge&labelColor=05001a)
+![sync](https://img.shields.io/badge/Realtime-Firebase-cc00ff?style=for-the-badge&labelColor=05001a)
+
+> **Cross-platform emergency response app with one-tap SOS, real-time GPS streaming to emergency services, and community responder dispatch.**
+
+- 🆘 One-tap SOS with automatic GPS location capture
+- 🔥 Firebase Realtime DB for under 100ms emergency dispatch
+- 📡 Live GPS streaming to emergency services feed
+- 🗺️ Optimal routing via Maps API with live ETA
+- 🔔 Push notifications to nearby community responders
+- 📶 Offline-first with intelligent sync on reconnect
+
+```
+Stack: React Native · TypeScript · Expo
+       Firebase RTDB · Google Maps API
+       Push Notifications · Offline Sync
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+
+<img src="https://media.giphy.com/media/l1J9CYFBhMBVWD6ly/giphy.gif" width="100%"/>
+
+```
+╔══════════════════════╗
+║   VULA MOTOR  🚑     ║
+║  ──────────────────  ║
+║                      ║
+║      [🚨  SOS]       ║
+║                      ║
+║  📍 Location: LIVE   ║
+║  🚑 ETA:  4 mins     ║
+║  📡 Responders: 3    ║
+║  ◉ DISPATCHING...    ║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 `PROJECT_04` — AI Stock Predictor — LSTM Neural Network
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/Qo2dupDib374s/giphy.gif" width="100%"/>
+
+```
+╔══════════════════════╗
+║  LSTM ARCHITECTURE   ║
+║  ──────────────────  ║
+║  Input: 60-day win   ║
+║  LSTM(128, seq=T)    ║
+║         ↓            ║
+║  LSTM(64, seq=F)     ║
+║         ↓            ║
+║  Dropout(0.2)        ║
+║         ↓            ║
+║  Dense(1) → Price 📈 ║
+╚══════════════════════╝
+```
+
+</td>
+<td width="58%" valign="top">
+
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu/Stock-Predictor)
+![model](https://img.shields.io/badge/Model-LSTM_128+64-ffd700?style=for-the-badge&labelColor=05001a)
+![data](https://img.shields.io/badge/Data-yfinance-cc00ff?style=for-the-badge&labelColor=05001a)
+![status](https://img.shields.io/badge/Status-DEPLOYED-00ff88?style=for-the-badge&labelColor=05001a)
+
+> **Multi-layer LSTM recurrent neural network trained on multi-year historical market data with a full end-to-end prediction pipeline.**
+
+```python
+# Full architecture
+yfinance()
+  → MinMaxScaler()      # Normalise [0, 1]
+  → WindowSlice(60)     # 60-day lookback
+  → LSTM(128, seq=True) # Layer 1
+  → LSTM(64, seq=False) # Layer 2
+  → Dropout(0.2)        # Regularisation
+  → Dense(1)            # Price output
+  → inverse_transform() # Rescale
+  → Visualise()         # Plotly chart
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚦 `PROJECT_05` — Traffic Prediction
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<!-- Replace the repo link below with the exact repo URL -->
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu?tab=repositories)
+![type](https://img.shields.io/badge/Type-Machine_Learning-ffd700?style=for-the-badge&labelColor=05001a)
+![lang](https://img.shields.io/badge/Python-scikit--learn-cc00ff?style=for-the-badge&labelColor=05001a)
+
+> **Machine-learning model that predicts traffic patterns from historical data.**
+
+- 📊 Data cleaning and feature engineering on time-based traffic data
+- 🤖 Model training and evaluation for traffic forecasting
+- 📈 Visual analysis of patterns across time and location
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+```
+╔══════════════════════╗
+║  TRAFFIC PREDICTION  ║
+║  ──────────────────  ║
+║  Data  → Clean       ║
+║  Model → Train       ║
+║  Result → Forecast   ║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗣️ `PROJECT_06` — African Language NLP
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+
+```
+╔══════════════════════╗
+║   AFRICAN LANG NLP   ║
+║  ──────────────────  ║
+║  Text → Tokenise     ║
+║  Model → Understand  ║
+║  Goal → Inclusion    ║
+╚══════════════════════╝
+```
+
+</td>
+<td width="58%" valign="top">
+
+<!-- Replace the repo link below with the exact repo URL -->
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu?tab=repositories)
+![type](https://img.shields.io/badge/Type-NLP-ffd700?style=for-the-badge&labelColor=05001a)
+![lang](https://img.shields.io/badge/Python-Transformers-cc00ff?style=for-the-badge&labelColor=05001a)
+
+> **Natural language processing work focused on African languages, so language technology serves more people.**
+
+- 🌍 Text processing for under-resourced African languages
+- 🤖 Model experiments with modern NLP approaches
+- 📚 Built with local language inclusion in mind
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧾 `PROJECT_07` — Log Anomaly Platform
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<!-- Replace the repo link below with the exact repo URL -->
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu?tab=repositories)
+![type](https://img.shields.io/badge/Type-Anomaly_Detection-ffd700?style=for-the-badge&labelColor=05001a)
+![lang](https://img.shields.io/badge/Python-FastAPI-00ff88?style=for-the-badge&labelColor=05001a)
+
+> **Platform that analyses system logs and surfaces unusual behaviour.**
+
+- 📋 Log ingestion and parsing
+- 🔍 Anomaly detection over log patterns
+- 🚨 Alerts for suspicious or unexpected events
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+```
+╔══════════════════════╗
+║  LOG ANOMALY VIEW    ║
+║  ──────────────────  ║
+║  Logs   → Parse      ║
+║  Model  → Score      ║
+║  Alert  → Investigate║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 `PROJECT_08` — Smart Assistant
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+
+```
+╔══════════════════════╗
+║   SMART ASSISTANT    ║
+║  ──────────────────  ║
+║  Ask   → Understand  ║
+║  Think → Respond     ║
+║  Help  → Automate    ║
+╚══════════════════════╝
+```
+
+</td>
+<td width="58%" valign="top">
+
+<!-- Replace the repo link below with the exact repo URL -->
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu?tab=repositories)
+![type](https://img.shields.io/badge/Type-AI_Assistant-ffd700?style=for-the-badge&labelColor=05001a)
+![lang](https://img.shields.io/badge/Python-LLM-cc00ff?style=for-the-badge&labelColor=05001a)
+
+> **AI assistant that understands requests and helps users get things done.**
+
+- 💬 Conversational interface
+- 🧠 Language-model powered understanding
+- ⚙️ Task assistance and automation
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌍 `PROJECT_09` — SkyWatch Africa
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<!-- Replace the repo link below with the exact repo URL -->
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-000000?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/LuthandoCandlovu?tab=repositories)
+![type](https://img.shields.io/badge/Type-Astronomy-ffd700?style=for-the-badge&labelColor=05001a)
+![lang](https://img.shields.io/badge/Python-Scientific-cc00ff?style=for-the-badge&labelColor=05001a)
+
+> **Astronomy-focused project bringing African skies and space science to more people.**
+
+- 🔭 Sky and astronomy data presented clearly
+- 🌌 Built to make astronomy accessible
+- 📡 Connects to my DARA and PASEA training
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+```
+╔══════════════════════╗
+║   SKYWATCH AFRICA    ║
+║  ──────────────────  ║
+║  Sky   → Observe     ║
+║  Data  → Explore     ║
+║  Space → For everyone║
+╚══════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+[![zero-day-detection](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=zero-day-detection&theme=tokyonight&hide_border=true&title_color=ffd700&icon_color=cc00ff&bg_color=05001a&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/zero-day-detection)
+&nbsp;
+[![codesage-ai](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=codesage-ai&theme=tokyonight&hide_border=true&title_color=ffd700&icon_color=cc00ff&bg_color=05001a&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/codesage-ai)
+
+[![Vula-Motor_App](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Vula-Motor_App&theme=tokyonight&hide_border=true&title_color=ffd700&icon_color=cc00ff&bg_color=05001a&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/Vula-Motor_App)
+&nbsp;
+[![Stock-Predictor](https://github-readme-stats.vercel.app/api/pin/?username=LuthandoCandlovu&repo=Stock-Predictor&theme=tokyonight&hide_border=true&title_color=ffd700&icon_color=cc00ff&bg_color=05001a&text_color=e9d5ff)](https://github.com/LuthandoCandlovu/Stock-Predictor)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       💻 TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="38"/> `> tech.stack`
+
+**Every Tool in the Arsenal**
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380"/>
+
+<br/><br/>
+
+### 🤖 AI · MACHINE LEARNING · DATA SCIENCE
+
+[![Python](https://img.shields.io/badge/Python-0d0040?style=for-the-badge&logo=python&logoColor=ffd700)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0040?style=for-the-badge&logo=tensorflow&logoColor=ffd700)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0d0040?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Keras](https://img.shields.io/badge/Keras-0d0040?style=for-the-badge&logo=keras&logoColor=cc00ff)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0040?style=for-the-badge&logo=scikitlearn&logoColor=ffd700)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0d0040?style=for-the-badge&logo=opencv&logoColor=cc00ff)](https://opencv.org)
+[![NumPy](https://img.shields.io/badge/NumPy-0d0040?style=for-the-badge&logo=numpy&logoColor=60A5FA)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-0d0040?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-0d0040?style=for-the-badge&logo=jupyter&logoColor=ffd700)](https://jupyter.org)
+
+### 🔭 SCIENTIFIC COMPUTING · ASTRONOMY
+
+[![Python](https://img.shields.io/badge/Scientific_Python-0d0040?style=for-the-badge&logo=python&logoColor=ffd700)](https://scipy.org)
+[![Linux](https://img.shields.io/badge/Linux_Workflows-0d0040?style=for-the-badge&logo=linux&logoColor=cc00ff)](https://linux.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0040?style=for-the-badge&logo=plotly&logoColor=60A5FA)](https://matplotlib.org)
+![Radio](https://img.shields.io/badge/Radio_Astronomy_Data-0d0040?style=for-the-badge&logoColor=ffd700)
+![Big Data](https://img.shields.io/badge/Big_Data-0d0040?style=for-the-badge&logoColor=cc00ff)
+
+### 🔐 CYBERSECURITY · RESEARCH · TOOLS
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0040?style=for-the-badge&logo=kalilinux&logoColor=cc00ff)](https://kali.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-0d0040?style=for-the-badge&logo=wireshark&logoColor=60A5FA)](https://wireshark.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-0d0040?style=for-the-badge&logo=metasploit&logoColor=ffd700)](https://metasploit.com)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d0040?style=for-the-badge&logo=portswigger&logoColor=ffd700)](https://portswigger.net)
+[![Linux](https://img.shields.io/badge/Linux-0d0040?style=for-the-badge&logo=linux&logoColor=ffd700)](https://linux.org)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d0040?style=for-the-badge&logoColor=cc00ff)
+
+### 📱 MOBILE · FRONTEND · UI
+
+[![React Native](https://img.shields.io/badge/React_Native-0d0040?style=for-the-badge&logo=react&logoColor=60A5FA)](https://reactnative.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0d0040?style=for-the-badge&logo=typescript&logoColor=60A5FA)](https://typescriptlang.org)
+[![Next.js](https://img.shields.io/badge/Next.js-0d0040?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0d0040?style=for-the-badge&logo=javascript&logoColor=ffd700)](https://developer.mozilla.org)
+[![Tailwind](https://img.shields.io/badge/Tailwind-0d0040?style=for-the-badge&logo=tailwindcss&logoColor=cc00ff)](https://tailwindcss.com)
+[![Expo](https://img.shields.io/badge/Expo-0d0040?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![HTML5](https://img.shields.io/badge/HTML5-0d0040?style=for-the-badge&logo=html5&logoColor=ffd700)](https://html.spec.whatwg.org)
+[![CSS3](https://img.shields.io/badge/CSS3-0d0040?style=for-the-badge&logo=css3&logoColor=cc00ff)](https://www.w3.org/Style/CSS/)
+
+### ⚙️ BACKEND · DATABASES · APIs
+
+[![Node.js](https://img.shields.io/badge/Node.js-0d0040?style=for-the-badge&logo=nodedotjs&logoColor=cc00ff)](https://nodejs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0d0040?style=for-the-badge&logo=fastapi&logoColor=cc00ff)](https://fastapi.tiangolo.com)
+[![Flask](https://img.shields.io/badge/Flask-0d0040?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Java](https://img.shields.io/badge/Java-0d0040?style=for-the-badge&logo=openjdk&logoColor=ffd700)](https://java.com)
+[![C++](https://img.shields.io/badge/C++-0d0040?style=for-the-badge&logo=cplusplus&logoColor=60A5FA)](https://isocpp.org)
+[![Firebase](https://img.shields.io/badge/Firebase-0d0040?style=for-the-badge&logo=firebase&logoColor=ffd700)](https://firebase.google.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0d0040?style=for-the-badge&logo=mongodb&logoColor=cc00ff)](https://mongodb.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0040?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQLite](https://img.shields.io/badge/SQLite-0d0040?style=for-the-badge&logo=sqlite&logoColor=60A5FA)](https://sqlite.org)
+
+### 🚀 DEVOPS · TOOLING · CLOUD
+
+[![Docker](https://img.shields.io/badge/Docker-0d0040?style=for-the-badge&logo=docker&logoColor=60A5FA)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-0d0040?style=for-the-badge&logo=git&logoColor=ffd700)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
+[![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d0040?style=for-the-badge&logo=githubactions&logoColor=ffd700)](https://github.com/features/actions)
+[![Postman](https://img.shields.io/badge/Postman-0d0040?style=for-the-badge&logo=postman&logoColor=ffd700)](https://postman.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-0d0040?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)](https://code.visualstudio.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     📊 GITHUB ANALYTICS                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38"/> `> github.analytics`
+
+**Code Activity · Stats · Contribution Graph**
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=ffd700&icon_color=cc00ff&text_color=e9d5ff&bg_color=05001a" height="195"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&title_color=ffd700&text_color=e9d5ff&bg_color=05001a" height="195"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=tokyonight&hide_border=true&ring=ffd700&fire=cc00ff&currStreakLabel=ffd700&sideLabels=cc00ff&background=05001a&dates=a78bfa&stroke=6600cc" width="72%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuthandoCandlovu&bg_color=05001a&color=ffd700&line=6600cc&point=ffffff&area=true&area_color=6600cc&hide_border=true&custom_title=%F0%9F%93%8A+Contribution+Activity+%E2%80%94+Luthando+Candlovu&title_color=ffd700&radius=8" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuthandoCandlovu&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+<br/><br/>
+
+[![Stars](https://img.shields.io/github/stars/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu)
+&nbsp;&nbsp;
+[![Followers](https://img.shields.io/github/followers/LuthandoCandlovu?style=social)](https://github.com/LuthandoCandlovu?tab=followers)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     🧠 SKILLS MATRIX                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="38"/> `> skills.matrix`
+
+**Technical Proficiency Map**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI / Machine Learning**
+```
+TensorFlow / Keras    ████████████████████ 95%
+scikit-learn          ████████████████████ 92%
+NumPy / Pandas        ████████████████████ 90%
+PyTorch               ████████████████░░░░ 88%
+OpenCV / CV2          ███████████████░░░░░ 82%
+NLP / Transformers    ██████████████░░░░░░ 78%
+```
+
+**🔭 Scientific Computing**
+```
+Scientific Python     ████████████████░░░░ 85%
+Linux Workflows       ████████████████░░░░ 82%
+Radio Astro Data      ████████████░░░░░░░░ 65%
+Data Visualisation    ████████████████░░░░ 85%
+Big Data Handling     ███████████░░░░░░░░░ 60%
+```
+
+**🔐 Security & Research**
+```
+Zero-Day Detection    ████████████████████ 98%
+Threat Intelligence   ████████████████░░░░ 88%
+Kali / Pentesting     █████████████░░░░░░░ 85%
+Malware Analysis      ███████████████░░░░░ 80%
+Blockchain Security   ██████████████░░░░░░ 72%
+Quantum Crypto        ███████████░░░░░░░░░ 55%
+```
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Mobile & Frontend**
+```
+HTML5 / CSS3 / JS     ████████████████████ 92%
+React Native / Expo   ████████████████████ 90%
+Tailwind CSS          █████████████████░░░ 88%
+TypeScript            ████████████████░░░░ 88%
+Next.js / React       ████████████████░░░░ 85%
+UI/UX Design          ████████████░░░░░░░░ 75%
+```
+
+**⚙️ Backend & DevOps**
+```
+Git / GitHub          ████████████████████ 95%
+REST / API Design     █████████████████░░░ 88%
+FastAPI / Flask       ████████████████░░░░ 88%
+Firebase / MongoDB    ████████████████░░░░ 85%
+Docker / Linux        ████████████████░░░░ 82%
+Node.js               ████████████████░░░░ 80%
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0a1628','primaryTextColor':'#e2e8f0','primaryBorderColor':'#14b8a6','lineColor':'#64748b','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
-flowchart LR
-    T["Live network<br/>traffic"] --> C["Packet capture<br/>Scapy · Wireshark"]
-    C --> F["Feature<br/>extraction"]
-    F --> L["Bidirectional LSTM"]
-    F --> I["Isolation Forest"]
-    F --> A["AutoEncoder"]
-    L --> E["Ensemble voting<br/>+ confidence score"]
-    I --> E
-    A --> E
-    E -->|"score above threshold"| X["Alert · MITRE ATT&CK map<br/>Auto-block · SIEM"]
-    E -->|"score below threshold"| S["Log and archive"]
+mindmap
+  root((🌌 LUTHANDO))
+    🤖 AI & Deep Learning
+      TensorFlow · Keras · PyTorch
+      LSTM · CNN · Transformers
+      NLP · Computer Vision
+      scikit-learn · AutoML
+    🔭 Astronomy & Science
+      DARA training
+      PASEA 2026
+      Radio astronomy data
+      Scientific Python
+      AI for astronomy
+    🔐 Cybersecurity
+      Zero-Day Detection 98.2 percent
+      Threat Intelligence
+      Kali Linux · Pentesting
+      Malware Analysis
+      Blockchain · Quantum
+    📱 Mobile & Web
+      React Native · Expo
+      TypeScript · Next.js
+      Tailwind · HTML5 · CSS3
+      UI/UX Design Systems
+    ⚙️ Backend & Data
+      FastAPI · Flask · Node.js
+      Firebase · MongoDB · PostgreSQL
+      REST API Design
+      Microservices
+    🚀 DevOps & Tools
+      Docker · Linux · Git
+      GitHub Actions CI/CD
+      VS Code · Postman
+      Agile · Scrum
 ```
 
-</details>
+<br/>
 
-<details>
-<summary><b>How CodeSage AI works</b> (architecture)</summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    📅 RESEARCH ROADMAP                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="38"/> `> research.roadmap`
+
+**Research & Development Roadmap**
+
+</div>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0a1628','primaryTextColor':'#e2e8f0','primaryBorderColor':'#14b8a6','lineColor':'#64748b','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
-flowchart LR
-    S["Source code<br/>submission"] --> P["AST parsing"]
-    P --> D["Static analysis<br/>patterns"]
-    D --> V["CVE and OWASP<br/>lookup"]
-    V --> M["LLM reasoning<br/>context-aware"]
-    M --> R["Findings + fix<br/>suggestions (diff)"]
+gantt
+    title Research and Development Roadmap
+    dateFormat  YYYY-MM
+    axisFormat  %b '%y
+
+    section 🔭 Astronomy
+    DARA Training                  :done,   dara,  2025-06, 2025-12
+    PASEA 2026                     :done,   pasea, 2026-09, 2026-09
+    Radio Astronomy Data Tools     :active, rad,   2026-09, 2027-03
+    AI for Astronomy Projects      :        aia,   2026-11, 2027-06
+
+    section 🛡️ AI Security
+    APT Detection System           :active, apt,  2025-01, 2025-08
+    Autonomous Response Engine     :        are,  2025-06, 2026-02
+    Zero-Day Model v2.0            :        zdv2, 2025-10, 2026-04
+
+    section 🔗 Blockchain
+    Security Protocol Design       :active, blk,  2025-03, 2025-10
+    Smart Contract Auditor AI      :        sca,  2025-09, 2026-03
+    DeFi Security Framework        :        dsf,  2026-01, 2026-08
+
+    section ⚛️ Quantum
+    Quantum Crypto Research        :active, qcr,  2025-05, 2026-04
+    Post-Quantum Implementation    :        pqi,  2026-01, 2026-09
+    Quantum-Resistant Protocols    :        qrp,  2026-06, 2026-12
 ```
 
-</details>
+<br/>
+
+<table align="center">
+<tr>
+<th align="left">🔬 Research Track</th>
+<th align="center">Status</th>
+<th align="left">Progress</th>
+</tr>
+<tr>
+<td>🔭 PASEA 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_COMPLETED-00ff88?style=flat-square&labelColor=05001a"/></td>
+<td><code>██████████ 100%</code></td>
+</tr>
+<tr>
+<td>📡 DARA Training</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_COMPLETED-00ff88?style=flat-square&labelColor=05001a"/></td>
+<td><code>██████████ 100%</code></td>
+</tr>
+<tr>
+<td>🌌 Radio Astronomy Data Tools</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_ACTIVE-ffd700?style=flat-square&labelColor=05001a"/></td>
+<td><code>███░░░░░░░ growing</code></td>
+</tr>
+<tr>
+<td>🛡️ APT Detection System</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_ACTIVE-ffd700?style=flat-square&labelColor=05001a"/></td>
+<td><code>████████░░ 80%</code></td>
+</tr>
+<tr>
+<td>🤖 Autonomous Response Engine</td>
+<td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-cc00ff?style=flat-square&labelColor=05001a"/></td>
+<td><code>████░░░░░░ 45%</code></td>
+</tr>
+<tr>
+<td>🔗 Blockchain Security Protocol</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_ACTIVE-ffd700?style=flat-square&labelColor=05001a"/></td>
+<td><code>█████░░░░░ 55%</code></td>
+</tr>
+<tr>
+<td>📜 Smart Contract Auditor AI</td>
+<td align="center"><img src="https://img.shields.io/badge/STARTING-6600cc?style=flat-square&labelColor=05001a"/></td>
+<td><code>█░░░░░░░░░ 10%</code></td>
+</tr>
+<tr>
+<td>⚛️ Quantum Cryptography Research</td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_ACTIVE-ffd700?style=flat-square&labelColor=05001a"/></td>
+<td><code>███░░░░░░░ 35%</code></td>
+</tr>
+<tr>
+<td>🔑 Post-Quantum Implementation</td>
+<td align="center"><img src="https://img.shields.io/badge/PLANNED-a78bfa?style=flat-square&labelColor=05001a"/></td>
+<td><code>░░░░░░░░░░  0%</code></td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ────────────────────────  TECH STACK  ──────────────────────── -->
-
-## Tech stack
-
-| | |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=f5b942) ![Java](https://img.shields.io/badge/Java-0a1628?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-0a1628?style=flat-square&logo=cplusplus&logoColor=60a5fa) ![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=f5b942) ![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=60a5fa) ![SQL](https://img.shields.io/badge/SQL-0a1628?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1628?style=flat-square&logo=tensorflow&logoColor=f5b942) ![Keras](https://img.shields.io/badge/Keras-0a1628?style=flat-square&logo=keras&logoColor=14b8a6) ![PyTorch](https://img.shields.io/badge/PyTorch-0a1628?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a1628?style=flat-square&logo=scikitlearn&logoColor=f5b942) ![OpenCV](https://img.shields.io/badge/OpenCV-0a1628?style=flat-square&logo=opencv&logoColor=14b8a6) |
-| **Data & science** | ![NumPy](https://img.shields.io/badge/NumPy-0a1628?style=flat-square&logo=numpy&logoColor=60a5fa) ![Pandas](https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-0a1628?style=flat-square&logo=jupyter&logoColor=f5b942) ![Linux](https://img.shields.io/badge/Linux-0a1628?style=flat-square&logo=linux&logoColor=f5b942) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-0a1628?style=flat-square&logo=fastapi&logoColor=14b8a6) ![Flask](https://img.shields.io/badge/Flask-0a1628?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=14b8a6) ![Firebase](https://img.shields.io/badge/Firebase-0a1628?style=flat-square&logo=firebase&logoColor=f5b942) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=14b8a6) ![SQLite](https://img.shields.io/badge/SQLite-0a1628?style=flat-square&logo=sqlite&logoColor=60a5fa) |
-| **Frontend & mobile** | ![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=60a5fa) ![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-0a1628?style=flat-square&logo=react&logoColor=60a5fa) ![Expo](https://img.shields.io/badge/Expo-0a1628?style=flat-square&logo=expo&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0a1628?style=flat-square&logo=tailwindcss&logoColor=14b8a6) |
-| **DevOps & tools** | ![Docker](https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=60a5fa) ![Git](https://img.shields.io/badge/Git-0a1628?style=flat-square&logo=git&logoColor=f5b942) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a1628?style=flat-square&logo=githubactions&logoColor=f5b942) ![Postman](https://img.shields.io/badge/Postman-0a1628?style=flat-square&logo=postman&logoColor=f5b942) ![VS Code](https://img.shields.io/badge/VS_Code-0a1628?style=flat-square&logo=visualstudiocode&logoColor=60a5fa) |
-| **Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-0a1628?style=flat-square&logo=kalilinux&logoColor=14b8a6) ![Wireshark](https://img.shields.io/badge/Wireshark-0a1628?style=flat-square&logo=wireshark&logoColor=60a5fa) ![Metasploit](https://img.shields.io/badge/Metasploit-0a1628?style=flat-square&logo=metasploit&logoColor=f5b942) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a1628?style=flat-square&logo=portswigger&logoColor=f5b942) |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
 
 <br/>
 
-<!-- ───────────────────  RESEARCH & PUBLICATIONS  ─────────────────── -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   📄 RESEARCH PUBLICATIONS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## Research & publications
+<div align="center">
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="38"/> `> research.publications`
+
+**Academic Research**
+
+<img src="https://media.giphy.com/media/3oEdv22bNBdBMZUHpe/giphy.gif" width="300"/>
+
+</div>
+
+<br/>
 
 <!-- Tip: add a DOI or link for each paper so readers can verify it -->
 
-| Year | Paper | Venue | Note |
-|:---:|:---|:---|:---|
-| 2024 | AI-Driven Cyber Threat Intelligence: A Deep Learning Framework | IEEE Security Symposium | Best Paper |
-| 2023 | Neural Networks in Intrusion Detection: Beyond Signature-Based Systems | ACM Computing Reviews | High impact |
-| 2023 | Machine Learning for Malware Analysis: Feature Engineering Approaches | Springer AI Journal | Peer reviewed |
-
-**Ongoing research interests:** advanced persistent threat detection · smart-contract security · post-quantum cryptography · AI for radio astronomy
-
-<br/>
-
-<!-- ────────────────────  CERTIFICATIONS  ──────────────────── -->
-
-## Certifications & achievements
-
-| | Credential | Issuer | |
-|:---:|:---|:---|:---:|
-| 🔭 | **PASEA** · Sept 2026 | North-West University | <!-- add link --> |
-| 📡 | **DARA** | Radio astronomy training | <!-- add link --> |
-| 🌌 | **Astronomy Certification** | Space & Astrophysics | [View](https://github.com/user-attachments/files/26298021/Astronomy.certification.Luthando.Candlo.pdf) |
-| 🏆 | **Hackathon 1st place** · Vula Motor | Hackathon | [View](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf) |
-| 🎓 | **BSc Computer Science** | University of Fort Hare | [View](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf) |
-| ⭐ | **Academic Excellence I** | University of Fort Hare | [View](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf) |
-| ⭐ | **Academic Excellence II** | University of Fort Hare | [View](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf) |
-| 🤖 | **AI Governance** | Securiti Education | [View](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf) |
-| 🌐 | **Cisco Networking** | Cisco | [View](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf) |
-| 🐧 | **Linux** | Linux Professional Institute | [View](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf) |
-| 🎖️ | **IC Certificate** | Industry credential | [View](https://github.com/user-attachments/files/26298015/Luthando.Candlovu-ic-Certificate.pdf) |
-| 📘 | **Professional Training** | Training institute | [View](https://github.com/user-attachments/files/23437205/Certificate.pdf) |
+<table align="center">
+<tr>
+<th align="left">📄 Paper Title</th>
+<th align="center">🏛️ Venue</th>
+<th align="center">📅 Year</th>
+<th align="center">🏅 Award</th>
+</tr>
+<tr>
+<td><strong>AI-Driven Cyber Threat Intelligence:<br/>A Deep Learning Framework</strong></td>
+<td align="center">IEEE Security Symposium</td>
+<td align="center">2024</td>
+<td align="center">🥇 Best Paper</td>
+</tr>
+<tr>
+<td><strong>Neural Networks in Intrusion Detection:<br/>Beyond Signature-Based Systems</strong></td>
+<td align="center">ACM Computing Reviews</td>
+<td align="center">2023</td>
+<td align="center">📈 High Impact</td>
+</tr>
+<tr>
+<td><strong>Machine Learning for Malware Analysis:<br/>Feature Engineering Approaches</strong></td>
+<td align="center">Springer AI Journal</td>
+<td align="center">2023</td>
+<td align="center">🔬 Peer Reviewed</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ──────────────────────  GITHUB ACTIVITY  ────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
 
-## GitHub activity
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   🏅 CERTIFICATIONS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0f766e&icon_color=f5b942&text_color=64748b" height="180" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=0f766e&text_color=64748b" height="180" alt="Top languages"/>
+## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="38"/> `> certifications.verified`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuthandoCandlovu&bg_color=0a1628&color=14b8a6&line=14b8a6&point=f5b942&area=true&area_color=14b8a6&hide_border=true" width="100%" alt="Contribution graph"/>
+**12 Certifications & Achievements**
+
+<img src="https://media.giphy.com/media/3oEdv22bNBdBMZUHpe/giphy.gif" width="300"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2500&pause=700&color=ffd700&center=true&vCenter=true&width=760&height=28&lines=%F0%9F%94%AD+PASEA+2026+%C2%B7+DARA+%C2%B7+Astronomy+Cert...;%F0%9F%8F%85+AI+Governance+%C2%B7+Cisco+%C2%B7+Linux+%C2%B7+Hackathon+Winner...;%F0%9F%8E%93+BSc+Comp+Sci+%C2%B7+IC+Certificate...;%E2%AD%90+Academic+Excellence+I+%26+II+%C2%B7+Professional+Training" alt="cert-typing"/>
 
 </div>
 
 <br/>
 
-<!-- ───────────────────────────  CONTACT  ─────────────────────────── -->
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-## Get in touch
+**`01`**<br/>
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="60"/><br/>
+**PASEA 2026** ![](https://img.shields.io/badge/%F0%9F%86%95_NEW-00ff88?style=flat-square&labelColor=05001a)<br/>
+<sub>North-West University · 14–18 Sept 2026</sub><br/><br/>
+<!-- Add your PASEA certificate link:
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](YOUR_LINK) -->
+![](https://img.shields.io/badge/COMPLETED-ffd700?style=flat-square&labelColor=05001a)
 
-I'm open to **full-time roles, freelance work, research collaboration and consulting**, remote worldwide.
+</td>
+<td align="center" width="25%">
 
-| | |
-|:---|:---|
-| 📍 **Location** | Eastern Cape, South Africa |
-| 📧 **Email** | [luthando.candlovu30@gmail.com](mailto:luthando.candlovu30@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/luthando-candlovu](https://www.linkedin.com/in/luthando-candlovu-b59110324/) |
-| 🌐 **Portfolio** | [luthandocandlovu.github.io/MY-PORTFOLIO](https://luthandocandlovu.github.io/MY-PORTFOLIO/) |
+**`02`**<br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"/><br/>
+**DARA Training** ![](https://img.shields.io/badge/%F0%9F%86%95_NEW-00ff88?style=flat-square&labelColor=05001a)<br/>
+<sub>Radio astronomy · Python · Linux</sub><br/><br/>
+<!-- Add your DARA certificate link:
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](YOUR_LINK) -->
+![](https://img.shields.io/badge/COMPLETED-ffd700?style=flat-square&labelColor=05001a)
+
+</td>
+<td align="center" width="25%">
+
+**`03`**<br/>
+<img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="60"/><br/>
+**🌌 Astronomy Certification**<br/>
+<sub>Space & Astrophysics</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/26298021/Astronomy.certification.Luthando.Candlo.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`04`**<br/>
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="60"/><br/>
+**Hackathon Winner 🏆**<br/>
+<sub>1st Place — Vula Motor</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437207/Hackathon.certification.pdf)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+**`05`**<br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"/><br/>
+**AI Governance**<br/>
+<sub>Securiti Education</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437206/AI-Governance-Certification-Securiti-Education.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`06`**<br/>
+<img src="https://media.giphy.com/media/l46CyJmS9KUbokznq/giphy.gif" width="60"/><br/>
+**Cisco Networking**<br/>
+<sub>Cisco Systems</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437204/Cisco.certification.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`07`**<br/>
+<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="60"/><br/>
+**Linux Professional**<br/>
+<sub>Linux Professional Inst.</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437210/Linux.Certificate-4449-49671743.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`08`**<br/>
+<img src="https://media.giphy.com/media/3oKIPrc2ngFZ6BTyww/giphy.gif" width="60"/><br/>
+**BSc Comp Science**<br/>
+<sub>University of Fort Hare</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437203/Luthando_candlovu_Certificate.pdf)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+**`09`**<br/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="60"/><br/>
+**Professional Training**<br/>
+<sub>Training Institute</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437205/Certificate.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`10`**<br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="60"/><br/>
+**Academic Excellence I**<br/>
+<sub>University of Fort Hare</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437209/Luthando.Candlovu_certificate.1.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`11`**<br/>
+<img src="https://media.giphy.com/media/3o7btQ8XBGEuem5i9O/giphy.gif" width="60"/><br/>
+**Academic Excellence II**<br/>
+<sub>University of Fort Hare</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/23437208/Luthando.Candlovu_certificate.pdf)
+
+</td>
+<td align="center" width="25%">
+
+**`12`**<br/>
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHiO/giphy.gif" width="60"/><br/>
+**IC Certificate**<br/>
+<sub>Industry Credential</sub><br/><br/>
+[![View](https://img.shields.io/badge/View_Cert-000000?style=flat-square&logo=adobeacrobatreader&logoColor=ffd700)](https://github.com/user-attachments/files/26298015/Luthando.Candlovu-ic-Certificate.pdf)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
+*✦ 12 credentials spanning Astronomy · AI · Security · Networking · Linux · Academic Excellence ✦*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🌌 FUN FACTS — SPACE & SCIENCE                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3oEjHB1EKuujDjYdS6/giphy.gif" width="38"/> `> fun.facts`
+
+**A Few Things That Make Me, Me**
+
+<img src="https://media.giphy.com/media/l378fEMkEBGOqSyPe/giphy.gif" width="380"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🌌 Space Fact | 💡 How It Shapes My Code |
+|:---|:---|
+| 🔭 The observable universe is 93 billion light-years wide | I think in systems at cosmic scale — no problem is too big |
+| ⭐ Stars live for billions of years | I write code meant to outlast the project brief |
+| 🌑 Black holes bend spacetime itself | I bend architectural patterns to fit the problem, not the other way |
+| 🚀 Voyager 1 is 24 billion km from Earth, still transmitting | My apps stay reliable long after launch — like Voyager |
+| 📡 Radio telescopes catch signals billions of years old | I dig through noisy data to find the signal that matters |
+| 💫 More stars than grains of sand on Earth | More attack vectors than CVEs — I prepare for both |
+| 🌍 Earth spins at 1,670 km/h at the equator | I move fast. I never compromise on precision. |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600cc,25:cc00ff,50:ffd700,75:cc00ff,100:6600cc&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  📚 CURRENTLY LEARNING                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38"/> `> currently.learning`
+
+**Always Compiling. Always Curious.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=760&height=30&lines=Radio+astronomy+data+reduction;Post-quantum+cryptography;Smart-contract+security+auditing;AI+for+astronomy+and+scientific+data;Research+software+engineering" alt="Learning ticker"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎯 Focus | 📖 What I'm studying | 🛠️ How I practise it |
+|:---|:---|:---|
+| **Radio astronomy data** | Calibration, flagging, imaging and analysis workflows | Python and Linux pipelines built after DARA and PASEA |
+| **AI for astronomy** | Machine learning on scientific and observational data | Classification and anomaly-detection experiments |
+| **Post-quantum crypto** | Quantum-resistant protocols and their trade-offs | Research notes and small implementations |
+| **Smart-contract security** | Vulnerability patterns, static analysis and LLM reasoning | Blockchain Auditor AI project |
+| **Research software** | Reproducible, tested, well-documented scientific code | CI, tests and clean architecture in every project |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🧭 HOW I WORK                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="38"/> `> how.i.work`
+
+**Principles Behind the Code**
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🛡️
+**Secure by default**
+
+Threat-model early, validate inputs, and treat every dependency as part of the attack surface.
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**Ship, then refine**
+
+Get a working slice in front of real users fast, then improve it with feedback and data.
+
+</td>
+<td align="center" width="25%">
+
+### 🔬
+**Measure everything**
+
+Accuracy, latency and error rates are tracked, so claims are backed by numbers.
+
+</td>
+<td align="center" width="25%">
+
+### 📖
+**Document and share**
+
+Clear READMEs, tests and reproducible pipelines so others can build on the work.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  🤝 WORK WITH ME                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"/> `> work.with.me`
+
+**Ways We Can Build Together**
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/%F0%9F%92%BC_FULL--TIME-FFD700?style=for-the-badge&labelColor=05001a"/>
+
+**Join your team**
+
+Software engineering, data science or AI/ML roles, on site or remote.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/%F0%9F%A7%A9_FREELANCE-cc00ff?style=for-the-badge&labelColor=05001a"/>
+
+**Build your product**
+
+Full-stack web, mobile apps and AI features, from idea to deployment.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/%F0%9F%94%AC_RESEARCH-9900ff?style=for-the-badge&labelColor=05001a"/>
+
+**Collaborate on research**
+
+AI security, scientific computing and radio astronomy data projects.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0_CONSULTING-c084fc?style=for-the-badge&labelColor=05001a"/>
+
+**Advise your team**
+
+Machine-learning approach, secure design reviews and data pipelines.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+```mermaid
+timeline
+    title Milestones
+    2023 : Machine Learning for Malware Analysis, Springer AI Journal
+         : Neural Networks in Intrusion Detection, ACM Computing Reviews
+    2024 : AI-Driven Cyber Threat Intelligence, IEEE Security Symposium
+    2026 : PASEA at North-West University, 14 to 18 September
+```
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9900ff,20:cc00ff,40:FFD700,60:ff00cc,80:cc00ff,100:9900ff&height=4" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               🤝 LET'S COLLABORATE — CONTACT                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"/> `> contact.open`
+
+**Let's Build Something Extraordinary — Together**
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0d0040,60:0d0040,100:000000&height=54&text=%E2%97%89%20ACTIVELY%20SEEKING%20OPPORTUNITIES%20%E2%80%94%20WORLDWIDE&fontSize=15&fontColor=00ff88&fontAlignY=58&animation=twinkling" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Software_Engineering-ffd700?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%A4%96_ML_/_Deep_Learning-ffd700?style=for-the-badge&labelColor=05001a"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%8A_Data_Science-cc00ff?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%AD_Scientific_Computing-cc00ff?style=for-the-badge&labelColor=05001a"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A1_Radio_Astronomy_Software-6600cc?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%B1_Mobile_App_Development-6600cc?style=for-the-badge&labelColor=05001a"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%AC_Cybersecurity_Research-60A5FA?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_Cloud_%26_DevOps-60A5FA?style=for-the-badge&labelColor=05001a"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Academic_Collaboration-a78bfa?style=for-the-badge&labelColor=05001a"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Open--Source_Projects-a78bfa?style=for-the-badge&labelColor=05001a"/></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="left" width="50%">
+
+| 🔹 | Detail |
+|:---:|:---|
+| 📍 | Eastern Cape, South Africa |
+| 🌍 | Remote Worldwide ✅ |
+| 📧 | luthando.candlovu30@gmail.com |
+| 📱 | +27 78 276 5932 |
+
+</td>
+<td align="left" width="50%">
+
+| 🔹 | Link |
+|:---:|:---|
+| 🔗 | [LinkedIn Profile](https://www.linkedin.com/in/luthando-candlovu-b59110324/) |
+| 🌐 | [Portfolio Site](https://luthandocandlovu.github.io/MY-PORTFOLIO/) |
+| 💻 | [GitHub Repos](https://github.com/LuthandoCandlovu) |
+| 💬 | [WhatsApp Me](https://wa.me/27782765932) |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=ffd700)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=cc00ff)](mailto:luthando.candlovu30@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/%F0%9F%92%AC_WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00ff88)](https://wa.me/27782765932)
+
+</div>
+
+<br/><br/>
+
+<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake-dark.svg" width="100%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/LuthandoCandlovu/LuthandoCandlovu/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,55:0f766e,100:14b8a6&height=120&section=footer" width="100%" alt=""/>
+<br/><br/>
 
-<sub>© 2026 Luthando Candlovu · Eastern Cape, South Africa 🇿🇦</sub>
+<!-- ANIMATED QUOTE TICKER -->
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=3200&pause=1000&color=ffd700&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%E2%9C%A6+%22I+catch+zero-days+before+antivirus+even+knows+they+exist.%22+%E2%9C%A6;%F0%9F%94%AD+PASEA+2026+%C2%B7+DARA+%C2%B7+From+Eastern+Cape+to+the+stars;%E2%9A%A1+98.2%25+Accuracy+%C2%B7+Sub-50ms+Response+%C2%B7+Zero+Compromises" alt="Quote ticker"/>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,25:0d0040,50:6600cc,75:ffd700,100:6600cc&height=220&section=footer&text=%E2%9C%A6+From+Eastern+Cape+to+the+Stars+%E2%9C%A6&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Software+%C2%B7+AI+%C2%B7+Data+%C2%B7+Radio+Astronomy+%C2%B7+Built+to+Last&descSize=14&descColor=d8b4fe&descAlignY=75" width="100%"/>
+
+<br/>
+
+<div align="center">
+<sub>© 2026 Luthando Candlovu &nbsp;·&nbsp; Software Developer · AI/ML · Scientific Computing &nbsp;·&nbsp; Eastern Cape, South Africa 🇿🇦</sub>
 </div>
